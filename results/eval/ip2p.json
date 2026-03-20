@@ -1,0 +1,117 @@
+{
+    "model_name": "ip2p",
+    "global_summary": {
+        "overall_avg_LPIPS↓": 0.2478,
+        "overall_avg_CLIP↑": 0.3024,
+        "total_images": 10
+    },
+    "category_summary": {
+        "object_replacement": {
+            "avg_LPIPS↓": 0.1288,
+            "avg_CLIP↑": 0.2834,
+            "count": 3
+        },
+        "attribute_modification": {
+            "avg_LPIPS↓": 0.2469,
+            "avg_CLIP↑": 0.3583,
+            "count": 2
+        },
+        "non_rigid_action": {
+            "avg_LPIPS↓": 0.1304,
+            "avg_CLIP↑": 0.303,
+            "count": 2
+        },
+        "style_transfer": {
+            "avg_LPIPS↓": 0.4964,
+            "avg_CLIP↑": 0.3002,
+            "count": 2
+        },
+        "reasoning": {
+            "avg_LPIPS↓": 0.344,
+            "avg_CLIP↑": 0.2507,
+            "count": 1
+        }
+    },
+    "detailed_results": {
+        "object_replacement": [
+            {
+                "id": "O_001",
+                "metrics": {
+                    "LPIPS↓": 0.0468,
+                    "CLIP_Score↑": 0.2896
+                }
+            },
+            {
+                "id": "O_002",
+                "metrics": {
+                    "LPIPS↓": 0.2249,
+                    "CLIP_Score↑": 0.2856
+                }
+            },
+            {
+                "id": "O_003",
+                "metrics": {
+                    "LPIPS↓": 0.1146,
+                    "CLIP_Score↑": 0.2749
+                }
+            }
+        ],
+        "attribute_modification": [
+            {
+                "id": "A_001",
+                "metrics": {
+                    "LPIPS↓": 0.1555,
+                    "CLIP_Score↑": 0.3652
+                }
+            },
+            {
+                "id": "A_002",
+                "metrics": {
+                    "LPIPS↓": 0.3383,
+                    "CLIP_Score↑": 0.3513
+                }
+            }
+        ],
+        "non_rigid_action": [
+            {
+                "id": "N_001",
+                "metrics": {
+                    "LPIPS↓": 0.1657,
+                    "CLIP_Score↑": 0.292
+                }
+            },
+            {
+                "id": "N_002",
+                "metrics": {
+                    "LPIPS↓": 0.095,
+                    "CLIP_Score↑": 0.314
+                }
+            }
+        ],
+        "style_transfer": [
+            {
+                "id": "S_001",
+                "metrics": {
+                    "LPIPS↓": 0.6346,
+                    "CLIP_Score↑": 0.3108
+                }
+            },
+            {
+                "id": "S_002",
+                "metrics": {
+                    "LPIPS↓": 0.3583,
+                    "CLIP_Score↑": 0.2896
+                }
+            }
+        ],
+        "reasoning": [
+            {
+                "id": "R_001",
+                "metrics": {
+                    "LPIPS↓": 0.344,
+                    "CLIP_Score↑": 0.2507
+                }
+            }
+        ]
+    }
+}
