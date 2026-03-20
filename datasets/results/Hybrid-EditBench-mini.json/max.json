@@ -1,0 +1,237 @@
+{
+    "model_name": "max",
+    "model_name_display": "max",
+    "dataset_name": "mini 测试集 (推荐调试用)",
+    "macro_metrics": [
+        {
+            "Level": "COMPLEX",
+            "LPIPS (↓)": 0.3626,
+            "D-CLIP (↑)": 0.2075,
+            "Count": 9
+        },
+        {
+            "Level": "SIMPLE",
+            "LPIPS (↓)": 0.3849,
+            "D-CLIP (↑)": 0.2093,
+            "Count": 9
+        }
+    ],
+    "micro_metrics": [
+        {
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.1104,
+            "D-CLIP (↑)": 0.1909,
+            "Count": 2
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4406,
+            "D-CLIP (↑)": 0.1666,
+            "Count": 1
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.2639,
+            "D-CLIP (↑)": 0.259,
+            "Count": 2
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.2305,
+            "D-CLIP (↑)": 0.1976,
+            "Count": 2
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.8066,
+            "D-CLIP (↑)": 0.2031,
+            "Count": 2
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.2091,
+            "D-CLIP (↑)": 0.3045,
+            "Count": 3
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.235,
+            "D-CLIP (↑)": 0.1153,
+            "Count": 2
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.3415,
+            "D-CLIP (↑)": 0.016,
+            "Count": 1
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5922,
+            "D-CLIP (↑)": 0.2432,
+            "Count": 2
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.8405,
+            "D-CLIP (↑)": 0.2368,
+            "Count": 1
+        }
+    ],
+    "raw_records": [
+        {
+            "Image_ID": "O_001",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.44020622968673706,
+            "D-CLIP (↑)": 0.3669273257255554
+        },
+        {
+            "Image_ID": "O_002",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.08768153190612793,
+            "D-CLIP (↑)": 0.15114319324493408
+        },
+        {
+            "Image_ID": "A_001",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.110936239361763,
+            "D-CLIP (↑)": 0.09860104322433472
+        },
+        {
+            "Image_ID": "A_002",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.10977111756801605,
+            "D-CLIP (↑)": 0.28318220376968384
+        },
+        {
+            "Image_ID": "N_001",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4406192898750305,
+            "D-CLIP (↑)": 0.16660639643669128
+        },
+        {
+            "Image_ID": "S_001",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.8733679056167603,
+            "D-CLIP (↑)": 0.2000080943107605
+        },
+        {
+            "Image_ID": "S_002",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7398689389228821,
+            "D-CLIP (↑)": 0.20613855123519897
+        },
+        {
+            "Image_ID": "R_001",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.09778179228305817,
+            "D-CLIP (↑)": 0.2767830491065979
+        },
+        {
+            "Image_ID": "R_002",
+            "Method": "max",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.36315879225730896,
+            "D-CLIP (↑)": 0.1184651255607605
+        },
+        {
+            "Image_ID": "O_002",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.34151679277420044,
+            "D-CLIP (↑)": 0.01599488966166973
+        },
+        {
+            "Image_ID": "A_001()",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.27297911047935486,
+            "D-CLIP (↑)": 0.4988786578178406
+        },
+        {
+            "Image_ID": "A_001",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.16338029503822327,
+            "D-CLIP (↑)": 0.26126864552497864
+        },
+        {
+            "Image_ID": "A_002",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.1910460740327835,
+            "D-CLIP (↑)": 0.15329720079898834
+        },
+        {
+            "Image_ID": "N_001",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.21480262279510498,
+            "D-CLIP (↑)": 0.1445092260837555
+        },
+        {
+            "Image_ID": "N_002",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.25512760877609253,
+            "D-CLIP (↑)": 0.08618392050266266
+        },
+        {
+            "Image_ID": "S_002",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.840522050857544,
+            "D-CLIP (↑)": 0.23676329851150513
+        },
+        {
+            "Image_ID": "R_001",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.3662416338920593,
+            "D-CLIP (↑)": 0.2107183337211609
+        },
+        {
+            "Image_ID": "R_002",
+            "Method": "max",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.818142294883728,
+            "D-CLIP (↑)": 0.2756933271884918
+        }
+    ]
+}

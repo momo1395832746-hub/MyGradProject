@@ -1,0 +1,2410 @@
+{
+    "complex_object_replacement_O_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by transforming the baseball bats into realistic baguettes with appropriate texture and scoring, while preserving the background papers, pen, and lighting conditions without any visible artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_002": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model failed to replace the traffic light (which remains visible hanging in the background), instead hallucinating a glowing street lamp in the foreground while drastically shifting the scene from day to night with significant blurring and loss of architectural detail.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_003": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The pens were successfully replaced with recognizable floral elements, but the cup's colors shifted significantly to match the new flowers and the background text became distorted and blurry.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_004": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the red frisbee remains unchanged in the edited image.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_005": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model replaced the entire scene with a texture of coins, completely removing the container, background, and surrounding objects instead of performing a localized edit.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_006": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model successfully changed the kettle to silver, but failed to preserve the white utensil holder (which also turned silver) and introduced a noticeable color shift/desaturation to the wooden cabinets and walls.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_007": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model failed to perform a localized edit, instead replacing the entire scene with a close-up of french fries and completely removing the sandwich, salad, and original background.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_008": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model successfully replaced the radishes with tomatoes but incorrectly transformed the red potatoes into tomatoes as well, while causing significant blurring and texture loss on the adjacent carrots and broccoli.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_009": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the traditional ship with masts remains unchanged instead of being replaced by a modern yacht, while the background skyline and water are perfectly preserved.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_010": {
+        "EQ": 3,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the two donuts to bagels but hallucinated a third bagel on the child's shirt, and the left bagel retains some white frosting artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_011": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "While the model successfully replaced the baseball caps with cowboy hats, it severely hallucinated changes to the players' clothing (changing uniforms to jeans and altering shirt colors) and shifted the background grass color and sign text.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_012": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to change the elephant into a camel, resulting in a distorted elephant head while perfectly preserving the background, the wooden seat, and the rest of the elephant's body.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_013": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the spray nozzle with a pump dispenser cap to resemble dish soap, while perfectly preserving all surrounding objects and background details without artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_014": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 4,
+        "Reasoning": "The model replaced the orange slice with strawberries but catastrophically removed the main carrot cake and other garnishes, failing to preserve the identity of the unedited objects.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_015": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 4,
+        "Reasoning": "The model failed to 'add' apples and instead completely replaced the original bananas with hyper-saturated, synthetic-looking apples, destroying the main subject while largely preserving the background boxes.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_016": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model successfully added a baseball cap to the main subject, but introduced noticeable color shifts to the pizza and shirt, and inexplicably added a second cap to the background person.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_017": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 2,
+        "Reasoning": "The model completely failed to remove the target soup bowl and instead hallucinated soup textures into two other distinct dishes, destroying their original identity.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_018": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The hot air balloon was successfully added, but the editing introduced a significant global color shift and lighting change to the sky, altering the original overcast atmosphere to a warmer, hazy tone.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_019": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model failed to fully remove the background plane (leaving a visible blur) and severely degraded the image quality, causing color shifts on the foreground plane and garbling text.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_020": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model failed to remove the majority of the toiletries which remain clearly visible, while severely distorting the background reflection and wall fixtures.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_021": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the edited image is visually identical to the original with no pickle added.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_022": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The bowl is successfully removed, but the chopsticks are distorted into a flat object and the sketchbook drawing has significantly faded, indicating poor preservation of other objects.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_023": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully added tomatoes to the background crates and replaced background peppers with tomatoes, while perfectly preserving the main foreground vegetables and structural background elements.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_024": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the officer remains fully visible and unchanged in the second image.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_025": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 2,
+        "Reasoning": "The model completely failed to add the requested bottle of mustard and instead applied a global yellow color filter that severely distorted the colors of the sausages and background.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_026": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model failed to follow the singular constraint by adding baseball caps to three different people and removing the woman's original sunglasses, though the background and facial identities remain largely preserved.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_027": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 2,
+        "Reasoning": "The model failed to simply remove the taxi, instead replacing it with a different yellow sedan and catastrophically deleting or altering almost all other vehicles (truck, jeep, SUV) in the scene.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_028": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the edited image is pixel-perfect identical to the original with no new bucket added.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_029": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model failed to edit the source image and instead generated a completely unrelated scene, resulting in the total loss of the original shop, scooters, and background context.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_030": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 3,
+        "Reasoning": "The model failed to add a bowl of popcorn as instructed, instead pasting popcorn textures over the faces of all three people and obscuring their identities, while also adding unrelated popcorn patches to the background furniture.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_attribute_modification_A_001": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model completely failed to change the tank top to red as it remains blue, and it severely distorted the pizza toppings into unnatural red blobs while slightly shifting the shirt's original hue.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_002": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model completely failed to execute the instruction as the red rug remains red, while incorrectly changing the color of the sofa and pillows to blue.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_003": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The nose was successfully changed to blue, but the model erroneously changed the tail color, hallucinated the fuselage text, and introduced a significant blue color cast to the sky and background buildings.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_004": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The train was successfully recolored green but lost significant textural details like the white lettering, while the yellow station sign was incorrectly changed to green and foreground elements exhibit color bleeding.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_005": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model successfully changed the target dog to black, but inadvertently altered the color of the foreground orange blanket to brown, while perfectly preserving the unedited dog.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_006": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "While the central white van was successfully changed to blue, the model incorrectly altered the color of the man's suit and the adjacent silver van, and corrupted the text on the banner and license plate.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_007": {
+        "EQ": 1,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The model completely failed to change the batter's uniform to red (it remains white), and significantly degraded background details like the scoreboard text and advertisement signs while introducing noise in the foreground.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_008": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model successfully changed the bedding to red, but it also inadvertently changed the orange poster to red and cast a strong red tint over the wooden floor and walls.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_009": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to change the target tablecloth (which remains yellow) and instead incorrectly applied a blue color shift to all foreground objects, destroying their natural properties, while leaving the background tablecloth pixels perfectly intact.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_010": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model applied a silk-like texture but failed catastrophically at image editing by cropping the image to a close-up, removing the background and faces, and hallucinating a completely different pose and hand configuration.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_011": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model applied a leather texture but completely destroyed the sofa's structural geometry and occluded the person sitting on it, while largely preserving the architectural background.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_012": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely hallucinated a new scene with an abstract glass structure instead of editing the specific wooden table, resulting in total loss of the original background, furniture, and room layout.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_013": {
+        "EQ": 3,
+        "OPP": 1,
+        "ICP": 3,
+        "Reasoning": "The doors were converted to solid green panels resembling metal, but the motorcycle was hallucinated into a wire sculpture, and the ceiling light fixture was removed.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_014": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to generate a wood texture, only altering the wall color to a brighter orange, while perfectly preserving the identity and placement of the clock, frames, and painting.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_015": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed to edit the specific objects in the original scene, instead generating an entirely new image of ceramic vases that bears no resemblance to the original kitchen context or the specific glass jars.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_016": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the trough remains metal in the second image, though the rest of the scene is perfectly preserved.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_017": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully rendered the interior and rim with a metallic stainless steel texture but failed to apply the material change to the exterior, leaving the original ceramic pattern intact which creates a physically inconsistent object, while the kitten and background remain perfectly preserved.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_018": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model failed to edit the specific open laptop in the source image, instead generating a completely new scene with a closed wooden object while deleting the bird and changing the entire background.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_019": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed to edit the source image, instead generating an entirely new scene with different people, background, and furniture, resulting in total loss of original content.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_020": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model successfully rendered the acrylic stand as solid brass, but failed to isolate the target, causing the toothbrushes, bottle, and sign to incorrectly change to a gold/brass material with significant text distortion on the sign.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_021": {
+        "EQ": 1,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to apply a wood texture, instead changing the target and adjacent cars to a solid bright red, while the background and foreground tanks remained perfectly preserved.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_022": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed the instruction by replacing the entire scene with a generic wooden board image, removing all food items and background context instead of merely changing the plate's material.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_023": {
+        "EQ": 5,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The sink was successfully changed to a realistic copper finish, but the edit introduced a severe global orange color cast that altered the color of the curtains and paper towels, and drastically changed the view outside the window from green foliage to a white, snowy scene.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_024": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the observation stand remains wooden with no visual change to a metal material, while all other objects and the background are perfectly preserved.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_025": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The target cat was successfully recolored blue, but the edit appears to be a global color shift that severely altered the colors of the other characters and the logo while leaving the background structures mostly intact but tinted.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_026": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The bicycle is accurately transformed into rusted iron with appropriate color and texture changes, but the model failed to localize the edit, causing severe color shifts and texture alterations to the background wall, window frames, and ground.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_027": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "While the door material was successfully changed to a frosted glass appearance, the edit severely distorted the left window, removed the right window entirely, and completely erased the cobblestone path and steps at the bottom.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_028": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model successfully transformed the green fabric vest into a black leather vest with realistic specular highlights, but the generation introduced a noticeable global color shift that altered the pants from olive-green to brown and made the foreground grass appear yellower.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_029": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the coat remains red instead of changing to blue, although the rest of the image is perfectly preserved.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_030": {
+        "EQ": 3,
+        "OPP": 1,
+        "ICP": 2,
+        "Reasoning": "The model successfully changed the backpack material to brown leather but completely removed the child wearing it and hallucinated extraneous bag parts on the right, corrupting the bus interior.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_non_rigid_action_N_001": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the output image is identical to the input with the horse still mid-jump.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_002": {
+        "EQ": 1,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the girl remains standing in the exact same pose, with the only visible change being garbled text on the backpack.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_003": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the toddler remains in the exact same sitting pose in the edited image.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_004": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the teddy bears remain in their original standing poses with no visible changes to their posture or the surrounding environment.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_005": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the man's pose is identical to the original image, with his arms still resting on the vegetables instead of being crossed.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_006": {
+        "EQ": 1,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model completely failed to execute the instruction as the men remain seated, and while the scooters were preserved, the text on the background sign was severely corrupted and garbled.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_007": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the cat remains in the exact same lying down position, leaving the rest of the image perfectly preserved.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_008": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 4,
+        "Reasoning": "The model completely failed to execute the 'sit' instruction, instead producing grotesque, elongated distortions of the giraffes' anatomy while largely preserving the background environment.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_009": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model successfully transformed the standing egret into a realistic flying pose, but it failed to preserve the identity of the other birds (changing the black-winged stilt into a white egret and removing the partial bird on the left) and introduced faint ghosting artifacts in the water where the bird originally stood.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_010": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the man remains standing in the exact same pose, resulting in an output image that is identical to the source.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_011": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the cow remains standing and alert with no visible changes indicating sleep, while all other elements remain identical to the source.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_012": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the woman remains in the exact same sitting position, resulting in an edited image that is identical to the original.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_013": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the person remains standing in the exact same pose with zero visible changes between the original and edited images.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_014": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the dogs' mouths remain closed and the images are identical, showing no attempt to make them pant.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_015": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model completely failed to execute the instruction as the boys remain standing, and while the subjects are preserved, there are minor text artifacts on the background signs.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_016": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 2,
+        "Reasoning": "The model failed to make the snowboarder stand (they are jumping), completely altered the snowboarder's clothing and equipment identity, and significantly changed the foreground snow geometry.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_017": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model successfully raised the trunk but replaced the elephant's head and upper body with an unnatural, smooth-textured generation that removed the wooden seat and distorted the animal's anatomy, while the background remained largely intact.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_018": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the output image is identical to the source image with all teddy bears remaining in their original standing poses.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_019": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the cow remains standing in the exact same pose as the original image, effectively ignoring the request while preserving all other image content perfectly.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_020": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the dog remains in the exact same standing pose with no visible changes to the image whatsoever.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_021": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model successfully made the woman sit but drastically altered her clothing and hallucinated a completely new blonde woman in the foreground, while severely distorting the main foreground subject and background details.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_022": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the man's eyes remain open and the edited image appears identical to the original source.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_023": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model completely failed to make the batter swing as he remains in a static stance, while simultaneously corrupting the scoreboard text and distorting the advertising signage.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_024": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely hallucinated new subjects and a new background rather than editing the original people, resulting in total identity loss and background destruction, although the action of raising hands is visually present.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_025": {
+        "EQ": 1,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The model completely failed to execute the instruction as the player remains standing, while also altering the racquet's color and removing the background advertising boards with significant distortion to the spectators.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_026": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed to edit the original image, instead generating a totally unrelated close-up of a different cat wearing a hat, thereby losing the original subject, the requested 'standing' pose, and the entire background context.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_027": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction to fan out the tail feathers and hallucinated a color change on the peacock, although the background and surrounding objects were perfectly preserved.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_028": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the batter remains standing, and it severely altered the unedited catcher by removing his glove.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_029": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the skier remains in the exact same upright standing position with zero changes to the pose or scene.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_030": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the seagulls remain grounded and stationary rather than flying or flapping, although the background and other objects were perfectly preserved.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_style_transfer_S_001": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model applied a global grayscale filter that mimics a sketchy or charcoal style, preserving all structural details of the subjects and background perfectly, although the result lacks the distinct line work and white space typical of a high-quality pencil sketch.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_002": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a global monochromatic sketch style with appropriate grain and contrast, while perfectly preserving the geometric structure and identity of all bathroom fixtures and architectural elements.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_003": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the watercolor style transfer, maintaining the exact geometric structure and identity of all foreground objects and background elements without distortion.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_004": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a flat, bold pop-art aesthetic to the packaging, but severely distorted the legibility of the bottom text labels and reduced specific fruits like grapes and oranges to unrecognizable color blocks.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_005": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly applied a consistent vintage sepia tone across the entire image while preserving all structural details, object identities, and background elements without introducing any artifacts or distortions.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_006": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model applied a global filter that resembles a posterization or painting effect rather than a true sketch with line work, failing the specific stylistic instruction while preserving all scene content and geometry perfectly.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_007": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the charcoal drawing style transfer while maintaining exact structural fidelity for the cabin, trees, and background layout without any distortions.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_008": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model applied a painterly texture and brushstroke effect, but the result resembles an oil or acrylic painting more than a watercolor due to the opacity and lack of characteristic paper texture, while perfectly preserving all structural elements and background context.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_009": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction to create a realistic photograph, as the output retains the original painting's flat, stylized aesthetic with only a superficial grain texture added.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_010": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 2,
+        "Reasoning": "The model successfully added a visible rain effect and preserved the subject perfectly, but it drastically altered the original solid blue background to a greenish, textured environment.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_011": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the 'make it nighttime' instruction, as the sky remains bright yellow/orange and the overall lighting is unchanged, though all original objects and background details were perfectly preserved.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_012": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a cold, snowy atmosphere with texture overlays and color shifting while perfectly preserving the structural geometry and identity of the tree, figure, and background landscape.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly transformed the scene to sunset with realistic lighting and sky color changes while perfectly preserving the geometry and identity of all furniture, decor, and the city skyline structure.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_014": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model successfully added thick fog that realistically obscures the scene, preserving object identities despite heavy occlusion, but significantly altered the background sky color and texture from a dark night to a pale haze.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_015": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a sketch-like texture and desaturated most elements, but failed to fully execute the 'charcoal' medium instruction by retaining the bright yellow drip and some residual color tones.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_016": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model applied a vibrant golden color cast but failed to realistically adjust lighting geometry (shadows remain short/mid-day) or provide sky gradients, resulting in a flat, filtered appearance rather than a true sunset.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_017": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as there are no visible signs of rain, storm clouds, or atmospheric changes; the image remains virtually identical to the original.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_018": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the style transfer to a nocturnal cyberpunk painting, preserving the scene's geometry and layout, though fine details like signage text and ship rigging were slightly softened or distorted by the artistic filter.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_019": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model failed to execute the requested pastel watercolor style, instead applying a harsh neon posterization filter that hallucinated text on the bib and drastically altered the subject's natural colors, while background structures remained recognizable but suffered from severe color shifts.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_020": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully converted the scene to night and added a moon, but the moon appears artificial and the lighting is a flat global darkening rather than realistic directional moonlight; however, the horse, rider, jump, and background structures are perfectly preserved.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_021": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model interpreted the instruction as a text-to-image generation prompt rather than an image editing task, completely replacing the original landscape content with a new still-life scene and failing to preserve any source objects or background structures.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_022": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the weather transformation to a bright sunny day with a blue sky and sun glare while maintaining the exact geometry, placement, and identity of all buildings, mountains, and boats without introducing any artifacts.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_023": {
+        "EQ": 2,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The model applied a dark, noisy filter that suggests 'night' but fails to generate actual futuristic or cyberpunk architectural details, resulting in a corrupted appearance with heavy artifacts in the sky and loss of building texture.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_024": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as there is no visible snow or winter atmosphere added to the scene, leaving the original image virtually unchanged.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_025": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the 'dark' instruction but overdid it to the point of near-total underexposure, lacking the nuance of a 'moody photograph', while perfectly preserving the geometry and arrangement of the fruits and background.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_026": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the edited image is visually identical to the original with no motion blur effect applied.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_027": {
+        "EQ": 3,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "While the model successfully darkened the scene and made the monitors glow, it completely removed the human subjects and most of the office furniture, failing to preserve the original objects and context.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_028": {
+        "EQ": 3,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model applied a painterly filter that suggests an oil painting style but lacks the specific lighting and texture fidelity of a Renaissance masterpiece, while preserving the main subject's identity but introducing significant color shifts and texture changes to the background.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_029": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 2,
+        "Reasoning": "The model successfully created a heavy rainstorm effect with dark clouds and rain streaks while preserving the players and crowd, but it aggressively replaced the upper stadium background, causing the loss of the scoreboard and upper advertisements.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_030": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely replaced the original floating market scene with a generic lantern festival image, failing to preserve the boat, person, or background while technically satisfying the semantic request for night and lanterns.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_reasoning_R_001": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 1,
+        "Reasoning": "The model failed to generate a specific 'stay awake' drink (like coffee), instead leaving a glass of clear liquid, and catastrophically hallucinated semi-transparent people that severely distort the original objects and background.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_002": {
+        "EQ": 3,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model successfully replaced the luggage with survival gear like sleeping bags and mats, but completely hallucinated a new outdoor setting, destroying the original car trunk structure and background.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_003": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 1,
+        "Reasoning": "The model completely failed to edit the target object (the snowboard remains unchanged with bindings visible) and instead hallucinated a completely different background texture (changing snow to water), violating the instruction and destroying the original context.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_004": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed to dress the original man, instead replacing the entire scene and subject with a generic image of hanging suits, resulting in total loss of the original identity and background context.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_005": {
+        "EQ": 2,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model failed to turn off the neon signs and streetlights required for a power failure, instead applying a heavy noise filter that introduced significant visual artifacts while preserving the underlying geometric structure.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_006": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to replace the string lights with distinct power outage light sources (like candles or lanterns), instead only altering the color and intensity of the existing bulbs while perfectly preserving the rest of the scene.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_007": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model failed to change the asphalt surface to a natural habitat, completely removed the seagulls referenced in the prompt, and replaced the original background context with a generic coastal scene.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_008": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model completely failed to remove the leash as explicitly instructed, and the attempt to clear the environment resulted in severe blurring artifacts on the bicycles, although the dog and background vehicles were preserved.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_009": {
+        "EQ": 3,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model applied a Halloween theme by transforming fruit into orange, pumpkin-like shapes, but the result lacks specific 'treat' realism and introduced significant global color shifting that altered the appearance of the preserved plate and background.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_010": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 1,
+        "Reasoning": "The model failed to add foliage to the main foreground tree which remains bare and ghostly, while hallucinating a completely new mountain background that replaces the original water and fog, and severely distorting the foreground rocks and path.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_011": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The model successfully applied a decayed aesthetic to the environment, but the heavy grunge texture distorted the fine details and material properties of objects like the toilet paper and shelf items, while the structural layout of the room remained intact.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_012": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the dress to a lab coat while maintaining the subject's facial identity, the complex veil structure, and the background texture without any visible artifacts.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_013": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 1,
+        "Reasoning": "The model successfully generated a corporate suit and office setting but failed to preserve the character's specific identity features (cat eyes, scars, white hair) and completely replaced the original background.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_014": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the image remains a traditional 19th-century workshop with absolutely no visible advanced extraterrestrial technology, resulting in perfect preservation scores simply because no changes were made.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_015": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model failed to add physical indicators of freezing temperatures like frost, snow, or ice texture, relying instead on a simple blue color cast that creates unnatural artifacts in the water reflection.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_016": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the scene transformation to a desert environment with consistent lighting, preserving the snowboarder's pose and main attire, though minor details like footwear and snowboard text were slightly altered.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_017": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model completely failed to generate a jungle habitat, instead applying a heavy global green tint that severely distorted the colors of the luggage and the background environment.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_018": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model failed to generate actual vegetation for the 'overgrown' instruction, relying instead on a flat green filter, while preserving object geometry but losing background details like the window view.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_019": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model completely failed to execute the instruction as the bananas remain yellow instead of black, and it severely altered the appearance of the background and foreground objects (foil trays, boxes) by darkening them significantly.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_020": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model failed to preserve the main subjects (giraffes) and vegetation, instead replacing the entire scene with a generic dry-earth texture that obliterates the original content while only faintly retaining background structures like the wall.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_021": {
+        "EQ": 3,
+        "OPP": 4,
+        "ICP": 2,
+        "Reasoning": "The model successfully added VR headsets to the subjects to fulfill the prompt but introduced a hallucinated floating headset and significantly altered the background painting and table texture.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_022": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model failed to preserve the main subject (the motocross rider and bike), replacing them entirely with an astronaut, and completely regenerated the background instead of transferring the original subject to the new setting.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_023": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed to change the location to a wedding dressing room, instead applying a heavy, destructive filter that washed out the entire image, obliterating the subjects' features and distorting the original background mural.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_024": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the environment remains the original home kitchen with no visible changes between the source and edited images.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_025": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the canal water remains liquid and unchanged with no signs of ice or winter conditions.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_026": {
+        "EQ": 1,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to apply the requested scorching or burning effects, instead introducing significant text distortion and warping artifacts while preserving the white background.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_027": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "While masks and formal wear were applied to the subjects, the man in the background wears a bizarre sparkly top instead of proper formal attire, and significant foreground objects like the paper towels and bottle were completely removed.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_028": {
+        "EQ": 3,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The model successfully changed the court surface to a water-like texture with submerged legs, but the realism is low, the player's dress color shifted significantly, and the background advertising boards were completely removed and replaced.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_029": {
+        "EQ": 2,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model failed to transport the peacock to a jungle environment, instead applying a global green tint that distorted the background colors and reduced the peacock to a textureless silhouette.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_030": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The car was successfully textured to appear rusted and overgrown, but the model applied a global green/mossy filter that significantly altered the background wood textures and the cat's natural coloring.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "simple_object_replacement_O_001": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 2,
+        "Reasoning": "The model failed to perform a localized edit, instead replacing the chair, background vegetation, and wall texture with an entirely new scene containing three potted plants.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_002": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model hallucinated a wolf head in the bottom right foliage where no dog existed in the source image, failing to execute a valid object replacement, while preserving the chair perfectly but altering the background vegetation to accommodate the insertion.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_003": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully transformed the cat into a rabbit with distinct ears and facial features, though the body volume remains somewhat feline, while the background and surrounding context were preserved perfectly.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_004": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model failed to produce a biologically plausible zebra by hallucinating a second head at the rear and retaining a horse-like mane, while the background structures remain intact despite noticeable ground texture changes and color shifts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_005": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model successfully changed the bird species to a parrot but failed to preserve the object count (creating two birds instead of one) and removed the original branch perch.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_006": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model successfully replaced the door with a metal one, but the background wall color shifted noticeably from grey to brown, and the original door frame was replaced instead of preserved.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_007": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 5,
+        "Reasoning": "The model added a small toy mouse but catastrophically failed preservation by transforming the main cat subject into a mouse-cat hybrid with a replaced head and tail.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_008": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to remove the basket, instead merely smoothing the texture of the basket's body while leaving the handle and rims clearly visible.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the bear with a realistic wolf that matches the original pose and lighting, while maintaining the background vegetation and trees with pixel-perfect preservation.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_010": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a tree structure on the right edge, fulfilling the instruction, though the blending is slightly noticeable; the giraffe and the rest of the background remain perfectly preserved.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_011": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the book with a realistic tablet device that integrates well with the scene lighting, although the text on the screen is illegible gibberish; the background fabric folds and texture are preserved perfectly.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_012": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to generate a coherent pie, instead producing a bizarre, hollow crust ring structure, while perfectly preserving the background tiles and cake stand.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the replacement of the banana with a cucumber, maintaining the exact curvature and position while preserving the background wood grain texture pixel-perfectly without any artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_014": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction to replace the cat with a dog, as the subject remains clearly identifiable as a cat with only minor facial alterations, while the background and other elements remained perfectly preserved.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_015": {
+        "EQ": 3,
+        "OPP": 1,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the cat with a rabbit, but it also incorrectly replaced the goat with a second rabbit, completely failing to preserve the identity of the other main subject, while the background remained largely intact.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_016": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the pizza remains unchanged instead of being replaced by a hamburger, although the background objects were perfectly preserved.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_017": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to execute the 'replace' instruction as the original elephant remains clearly visible underneath the superimposed giraffes, though the background environment was perfectly preserved.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_018": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the dog with a cat, but the animal retains the dog's rigid leg structure and stance, resulting in slightly unnatural feline anatomy.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_019": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The model successfully replaced the knife with scissors, but the text and details on the cardboard box (the main unedited object) were significantly blurred and degraded.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_020": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the red car with a red truck that matches the perspective and motion, preserving the background and wheels perfectly, although the truck's surface texture appears slightly smoother and less realistic than the original vehicle.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_021": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model failed to replace the horse as instructed, instead leaving a distorted, glowing version of the original animal while adding small deer, although the background trees and snow were largely preserved with minor haze artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_022": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the replacement of parrots with realistic owls, and the background fence was preserved pixel-perfectly, but the rope perch was noticeably altered into a smooth branch.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_023": {
+        "EQ": 5,
+        "OPP": 1,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the milk with realistic orange juice and preserved the background, but completely failed to preserve the cookies, replacing them with an orange slice.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_024": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the dogs with cats in matching poses, but the distinctive red plaid coats were altered to solid orange garments, representing a minor stylistic deviation from the original attire.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_025": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the egg with a blue object, but the surrounding nest twigs noticeably shifted to a blue-grey color, failing to preserve the properties of the unedited nest object.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_026": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 1,
+        "Reasoning": "The model replaced the pug with a severely distorted bulldog featuring unnatural pink and purple textures, while failing to preserve the denim jacket and completely altering the background color.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_027": {
+        "EQ": 2,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The model failed to strictly replace the single deer with a single bear, instead introducing multiple bears and distorting the foreground logs, while the background trees remained largely preserved.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_028": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The bicycle was perfectly replaced with a motorcycle and the rider was preserved, but a background car was inexplicably changed into a motorcycle, violating context preservation.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_029": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model successfully replaced the painting with a large clock, but hallucinated an additional unrequested clock on the wall and slightly altered the color of the sofa legs.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_030": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the text 'THE SOJUJIN' remains fully visible and unchanged in the edited image.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_attribute_modification_A_001()": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to execute the primary instruction of turning the cat black, only changing the ears while leaving the rest of the fur white, though the background and cat's pose were perfectly preserved.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to black while maintaining the dog's structural integrity and preserving the background pixel-perfectly.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a realistic wood texture to the chair while perfectly preserving the original geometry and leaving the background completely untouched.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_003": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model failed to isolate the edit, incorrectly turning the cat's entire white fur blue and only changing one eye color while leaving the other yellow.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_004": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model attempted a metallic texture by shifting colors to bronze/green tones and smoothing the surface, but it lacks the necessary specular highlights and reflectivity to be convincing, resulting in a matte, discolored appearance rather than a shiny metallic one.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_005": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 1,
+        "Reasoning": "The model successfully changed the material to glass but failed to preserve critical object details like the handle and number, and completely replaced the original background environment with a studio setting.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_006": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to black while maintaining the cat's exact pose, fur texture, and facial features, and the pink background remains completely untouched.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_007": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The basket material remains clearly woven/wicker with no metallic properties visible, indicating a complete failure to execute the editing instruction, while the apples and background remain perfectly preserved.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_008": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model successfully altered the bear's fur to appear matted and darker, simulating a wet texture, but the background exhibits noticeable noise and color degradation compared to the original.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_009": {
+        "EQ": 1,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to change the spot color to blue, leaving the giraffe's pattern brown, and introduced a minor dark artifact on the belly while preserving the background perfectly.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_010": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to white while preserving the bear's texture, pose, and the background details with pixel-perfect accuracy.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_011": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to change the main body of the cake to vanilla, instead darkening it to a deep chocolate brown, and only successfully changed the decorative piping swirls to a vanilla color.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_012": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model applied a global red filter to the entire image instead of recoloring only the tennis ball, resulting in a distorted scene where the original colors of the court and background are completely lost.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_013": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to execute the primary instruction of turning the banana green, as the fruit remains predominantly yellow with only a slight greenish tint near the stem, though the background and object structure were perfectly preserved.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_014": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change from orange to grey while maintaining the cat's exact pose, structure, and the surrounding background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_015": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to convincingly change the street to asphalt, leaving the foreground cobblestones completely intact and applying a noisy, unrealistic texture to the middle ground, while perfectly preserving the surrounding buildings and context.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_016": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to blue on the car body while preserving all chrome details, the interior, and the passengers, and the background remains pixel-perfectly identical to the original.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_017": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to change the collar to red (it remains black) and instead hallucinated a color change on the dog's fur, altering the main object's intrinsic properties.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_018": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to ginger while maintaining the cat's pose, the shelf's texture, and the background wall without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_019": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by recoloring the brown box to white while maintaining realistic lighting and preserving the utility knife and background floor textures without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_020": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly changed the horse's coat to brown while maintaining realistic lighting and texture, and preserved the background and snow details without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_021": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The rope was successfully replaced with a chain and the background is preserved, but the birds exhibit noticeable smoothing and loss of original feather texture detail.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_022": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model successfully rendered sugar cookies but failed to preserve the scene layout by moving the cookies and removing the milk, while also introducing a significant unnatural color cast to the background.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_023": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model successfully changed the coats to a blue hue but failed to isolate the edit, applying a global color cast that significantly altered the natural fur color of the dogs and shifted the colors of the background water and dock.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to white while maintaining the exact geometry of the nest and preserving the surrounding foliage without any artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_025": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed the instruction by replacing the original subject (a dog) with a completely different subject (a human torso) instead of merely changing the jacket material on the original dog.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_026": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "While the field was successfully changed to green, the edit appears to be a global color shift that severely altered the intrinsic colors of the mountains, trees, and the sky background.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_027": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The model successfully changed the foliage to red but failed to isolate the edit, causing the sky and mountain lighting to shift to red as well.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_028": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The hair color was successfully shifted to a lighter, golden-blonde hue, though it retains some auburn tones, while the facial features and background remained perfectly intact.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_029": {
+        "EQ": 5,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The sofa was perfectly changed to black including legs and pillows, and the room background (wall/floor) is preserved, but the painting on the wall was severely altered with its sky changing from blue to black.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_030": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model successfully rendered the hills with a snowy, wintry appearance, but applied a global color shift that unintentionally altered the color of the foreground vegetation and the sky.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_non_rigid_action_N_001": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the dog remains in the exact same standing pose as the original image with no changes to the background.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_002": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the horse remains in the exact same running pose with no changes to its stance or motion.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_003": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model failed to preserve the bird's identity, generating a grotesque hybrid with a different body and wings instead of animating the original subject, while completely replacing the background and removing the perch.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_004": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model attempted to open the door but resulted in a heavily blurred and distorted door panel with lost details (like the number 13), while the background remained perfectly preserved.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_005": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the cat remains in the exact same sitting position in the edited image, showing no change in pose whatsoever.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_006": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the bear remains in a walking stance identical to the original image, while the background and object identity were perfectly preserved due to the lack of any actual editing.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_007": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the teddy bear remains in the exact same sitting pose with no attempt to make it stand, while all other object properties and background context were perfectly preserved due to the lack of any actual editing.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_008": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the book remains open with only the text scrambled, while the background cloth and context were perfectly preserved.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_009": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model failed completely by generating a entirely new image with different cats and background instead of editing the original orange cat, whose eyes remain open in the new generation anyway.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_010": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The trunk was not successfully raised but merely curled at the tip, while the elephant's head texture was unnaturally smoothed and the feet acquired strange white artifacts, though the background remained perfectly intact.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_011": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the banana remains fully unpeeled with its skin intact, although the background and lighting were perfectly preserved.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_012": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the horse remains in the exact same grazing position with its head down, resulting in an edited image that is identical to the original source.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_013": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model completely failed to execute the instruction as the wings remain folded, while simultaneously hallucinating a second flamingo head in the background and drastically altering the color palette to an unnatural neon pink.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_014": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the flowers remain fresh and upright with no visible signs of wilting, while the background and non-target objects were perfectly preserved.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_015": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model completely failed to execute the instruction as the dog remains standing in the exact same pose, though it preserved the original dog perfectly and only added a minor hallucinated object in the bottom left corner.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_016": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 2,
+        "Reasoning": "The model failed to preserve the original cat's identity, replacing it with a distorted, different-colored cat, and significantly altered the background shelf into a generic floor.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_017": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the horse remains in the exact same running pose with identical motion cues and snow spray in the edited image.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_018": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model completely failed to execute the instruction as the parrots remain perched on the rope, while also hallucinating a different species appearance and shifting the background color.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_019": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model successfully changed the pose to lying down but failed significantly by hallucinating an extra dog, removing the distinctive plaid coats, altering dog colors, and completely replacing the wooden dock background with a smooth concrete surface.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_020": {
+        "EQ": 2,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model failed to close the eyes, resulting in a distorted, open-eyed appearance, and significantly degraded the texture and details of the denim jacket.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_021": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the subject's gaze direction remains identical to the original image, looking away rather than at the camera.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_022": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the instruction to make the subject smile with a natural expression, while perfectly preserving the subject's identity, clothing details, and the background context.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_023": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the subject's eyes remain open in the edited image, although the rest of the image is perfectly preserved.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_024": {
+        "EQ": 1,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the eyes remain closed, though the background was preserved perfectly and the identity remained intact despite the removal of stray hair strands.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_025": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by generating a natural, broad smile that fits the painting style, while maintaining pixel-perfect preservation of the subject's identity, accessories, clothing, and the background.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_026": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully closed one eye to simulate a wink, but the result lacks realism as the eyelid appears overly smoothed and lacks natural skin folding, while the subject's identity and the background remain perfectly preserved.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_027": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model completely failed to execute the instruction as the bird's wings remain folded, and it hallucinated a small flying object in the background.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_028": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to close the eyes while maintaining the painterly style, preserving the subject's identity and clothing without altering the background.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_029": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the subject's eyes remain open and identical to the original image, although the rest of the image and background were perfectly preserved.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_030": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 2,
+        "Reasoning": "The model successfully raised the subject's hand but hallucinated a large extraneous arm reaching from the right and completely removed the significant landmass from the background.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_style_transfer_S_001": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 2,
+        "Reasoning": "The model failed to generate a distinct sketch style, resulting in a washed-out monochrome image, and severely degraded the background texture into indistinct white noise while preserving the chair's geometry.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_002": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully executed the winter transformation by adding snow cover and shifting lighting to cool tones, perfectly preserving the horse's structure while maintaining background geometry despite a heavy global color cast.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_003": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model successfully added a warm candlelight effect and visible flames, but severely degraded the image quality by blurring the book's text into illegibility and smoothing out the cloth texture.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_004": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model successfully transformed the scene to night with convincing lighting, but some high-frequency details like window frames and facade textures in the mid-ground were slightly blurred or lost.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_005": {
+        "EQ": 3,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a snow texture to the foreground ground, but it lacks realism and terrain conformity, appearing as a flat overlay; the elephant is well-preserved with minor foot blending artifacts, while the background trees and sky remain completely untouched.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_006": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to apply the characteristic line work, hatching, or stroke texture of a pencil sketch, resulting in a mere grayscale conversion of the original photo.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_007": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied the oil painting style to the entire image while perfectly preserving the structural geometry and layout of both the banana and the wooden background.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_008": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model applied a painterly style but failed to capture specific watercolor textures, while significantly altering intrinsic colors like the dog's eye color and jacket hue.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully transformed the scene into a sunset setting with realistic warm lighting and shadows while perfectly preserving the geometry, textures, and identity of all buildings and street elements.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_010": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model successfully added a thick obscuring layer resembling fog, but it lacks realistic volumetric properties and looks more like a blur/overlay; the horse is perfectly preserved, while the background textures are heavily degraded and blurred.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_011": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to produce characteristic pencil strokes or line work, resulting in a grayscale image with artifact-heavy textures on the shirt rather than a convincing sketch, although the subject's geometry and background structures are perfectly preserved.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_012": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully transformed the scene into a golden hour setting with consistent lighting direction and color temperature, perfectly preserving the tree's structure while maintaining the background layout with only minor texture smoothing.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_013": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a charcoal sketch style to the entire image while perfectly preserving the geometric structure and identity of the flowers, pitcher, and background elements.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_014": {
+        "EQ": 4,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model successfully applied a cartoon illustration style, but completely failed to preserve the main object's identity (replacing the cat with a bird) and removed all background structural details.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_015": {
+        "EQ": 3,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a white snow-like texture to the road and grass, but the lack of snow on the lush green trees creates a semantic inconsistency, while the background sky remains perfectly preserved.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_016": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to add visible falling rain or apply wetness to the car body, only slightly darkening the road which results in an unrealistic and physically inconsistent effect.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_017": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the night-time transformation with realistic global darkening while perfectly preserving all geometric structures, object identities, and background details without visible artifacts.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_018": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the global style transfer to an oil painting aesthetic with visible brushstrokes while maintaining the exact geometry, identity, and semantic content of the birds, rope, and background.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_019": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model attempted to add snow by whitening the dock surface, but the result lacks realistic texture, volume, or interaction with the dogs' paws, appearing as a flat overlay rather than actual snow accumulation.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_020": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a painterly oil style to the image while maintaining perfect structural alignment and identity for the egg, nest, and surrounding foliage.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_021": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model failed to apply a pencil sketch style, producing a smooth grayscale image instead, but successfully preserved the dog's identity and the plain background.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_022": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model applied a stylistic filter that alters textures and colors but fails to convincingly replicate the distinct brushwork of an oil painting, while perfectly preserving the scene's geometry and content.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_023": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to add visible rain streaks or atmospheric effects, leaving the image virtually identical to the original while perfectly preserving all objects and background details.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_024": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The sky and mountain successfully transition to a night setting, but the foreground trees remain unnaturally bright and glowing, creating a significant lighting inconsistency with the new time of day.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_025": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to execute the instruction to create a realistic photograph, as the output retains the stylized, grainy, and flat aesthetic of the original illustration with only minor color shifts.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_026": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The watercolor style is flawlessly executed with excellent texture and color blending, but the foreground ground texture is significantly altered to resemble a water reflection rather than preserving the original dry gravel path.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_027": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the watercolor style transfer, creating a convincing artistic rendering while strictly preserving the geometric structure and layout of the mountains, sky, and foreground elements without distortion.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_028": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied an oil painting style to the entire image while perfectly preserving the geometry, details, and layout of the cheese objects and background structure.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_029": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to transform the illustration into a realistic photograph, retaining the original painted aesthetic, although it perfectly preserved the structural layout and objects of the scene.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_030": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully applied a painterly watercolor style with smoothed textures and vibrant color shifts, preserving the barn's structural identity and the background layout without significant geometric distortion.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_reasoning_R_001": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to replace the banana with an apple, leaving the original fruit intact with only a minor change to the stem tip, while the wooden background remained perfectly preserved.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_002": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model replaced the chair with a sofa (which is arguably for sleeping) but completely hallucinated a new indoor scene, failing to preserve the original outdoor background, plants, flooring, or lighting.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_003": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully conveyed a winter atmosphere through a strong blue color grade and frosty ground texture, though the lighting is slightly stylized; the horse's identity and the background structure (trees, fence) were preserved perfectly without structural artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_004": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 2,
+        "Reasoning": "The model perfectly executed the clothing change with a realistic winter sweater and gloves, preserved the subject's pose and body structure well despite a minor facial hair hallucination, but failed to preserve the background context by changing the season from sunny to snowy and altering the color grading.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_005": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model interpreted 'severe hurricane' simply as a wet/rainy street without any debris, destruction, or wind damage, and the upper background buildings are significantly washed out and overexposed compared to the original.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_006": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a recognizable safari vehicle in the background while perfectly preserving the elephant's identity and the surrounding environment without visible artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_007": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, as the edited image is visually identical to the original, retaining all water and vegetation.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_008": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model successfully added lit candles as requested but hallucinated realistic baby heads replacing the rear frosting swirls, severely altering the cake's original design while keeping the background intact.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_009": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model failed to add the correct equipment (a tennis racquet), instead inserting a golf club and a nonsensical floating pole, while significantly distorting the main tennis ball by removing its characteristic seam.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_010": {
+        "EQ": 1,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The model completely failed to wilt or dry out the flowers, which remain vibrant and upright, while introducing unnatural white noise artifacts on the placemat and table surface.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_011": {
+        "EQ": 2,
+        "OPP": 1,
+        "ICP": 5,
+        "Reasoning": "The model generated a firefighter coat but completely replaced the original dog subject with a human figure, resulting in a total loss of the main object's identity while keeping the plain background.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_012": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 2,
+        "Reasoning": "The model failed to generate a beaver, producing a bizarre, elongated, multi-headed rodent instead, and significantly altered the background sky from blue to green.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_013": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 2,
+        "Reasoning": "The model successfully replaced the dogs with recognizable cats, but the new subjects have unnatural fur artifacts and the background/dock exhibit significant smoothing and loss of detail compared to the original sharp textures.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_014": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed to add glasses, instead generating a strange handheld device, and severely distorted the subject's identity and facial features.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_015": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the cat remains unchanged in the edited image, although the goat and background were perfectly preserved.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_016": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully executed the winter blizzard instruction by changing the sky to overcast and the ground to snow while perfectly preserving the barn's structure, though the snow texture appears somewhat flat and uniform compared to the original grass detail.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_017": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a helmet that matches the illustration style while perfectly preserving the rider, scooter, and background.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_018": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model failed to generate a recognizable hibernating mammal, producing only a blurry fur texture while leaving distorted antler remnants, and it severely distorted the foreground fire and introduced a bright artifact in the snow, although the distant tree line remains largely intact.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_019": {
+        "EQ": 5,
+        "OPP": 2,
+        "ICP": 1,
+        "Reasoning": "The model successfully transformed the bicycle into a motorcycle with a distinctively wider rear tire and motorized frame, but it severely hallucinated massive explosions and fire that engulfed the background buildings and the distant car, completely destroying the original context.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_020": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The model successfully changed the foliage to vibrant red but failed to preserve the original background, significantly altering the sky color and mountain lighting which were not part of the instruction.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_021": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added color to the image, preserving all structural details and the background, but failed to achieve a 'natural' palette, resulting in an unrealistic, heavy reddish-orange cast across the skin and surroundings.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_022": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The model successfully changed the dress to black for mourning, but the pearl necklace was distorted into an indistinct ruffled collar and the background exhibits slight smoothing artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_023": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model successfully created a convincing lava eruption effect on the main peak, but significantly distorted the background mountain's geometry and introduced unnatural glowing artifacts in the foreground structures.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_024": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model created a convincing storm atmosphere and preserved structures, but the water texture resembles sand rather than turbulent water.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_025": {
+        "EQ": 1,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model failed to replace the target cookies (which remain visible as a green-tinted stack) and instead replaced the milk with broccoli, while applying a severe global green color cast that distorted the natural colors of the background and glass.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_026": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction, returning the original image without showing any hatching creature, although the background and original objects remain perfectly preserved.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_027": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model successfully conveys a monsoon setting with wet ground and overcast sky, but the water texture appears artificial and the elephant's feet lack realistic interaction with the mud, while the animal itself is perfectly preserved.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_028": {
+        "EQ": 1,
+        "OPP": 1,
+        "ICP": 1,
+        "Reasoning": "The model completely failed the instruction by generating unrelated black blade-like objects instead of a hammer, while also deleting the original cardboard box and replacing the entire background context.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_029": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully applied a heavy rust texture to the car to match the 'abandoned' instruction, preserving the background perfectly and maintaining the car's structural identity, although the rust effect on the fabric roof is physically unrealistic.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_030": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 1,
+        "Reasoning": "The model perfectly executed the clothing transformation into a formal suit and preserved the body pose and hands accurately, but completely replaced the original outdoor background with a plain grey studio wall.",
+        "complexity": "simple",
+        "category": "reasoning"
+    }
+}

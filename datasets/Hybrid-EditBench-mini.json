@@ -1,0 +1,219 @@
+{
+    "complex": {
+        "object_replacement": [
+            {
+                "id": "O_001",
+                "image_path": "datasets/images/complex/object_replacement/O_001.jpg",
+                "source_prompt": "A group of wooden baseball bats next to a piece of paper",
+                "target_prompt": "A group of baguettes next to a piece of paper",
+                "instruction": "change the baseball bats to baguettes",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_002",
+                "image_path": "datasets/images/complex/object_replacement/O_002.jpg",
+                "source_prompt": "A busy city street with an ornate building and a traffic light",
+                "target_prompt": "A busy city street with an ornate building and a street lamp",
+                "instruction": "change the traffic light to a street lamp",
+                "dataset_source": "MagicBrush"
+            }
+
+        ],
+
+        
+        "attribute_modification": [
+            {
+                "id": "A_001",
+                "image_path": "datasets/images/complex/attribute_modification/A_001.jpg",
+                "source_prompt": "A woman wearing a turquoise tank top making a pizza on a kitchen counter",
+                "target_prompt": "A woman wearing a red tank top making a pizza on a kitchen counter",
+                "instruction": "change the turquoise tank top to red",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_002",
+                "image_path": "datasets/images/complex/attribute_modification/A_002.jpg",
+                "source_prompt": "A living room with a red rug, a black sofa, and bookshelves",
+                "target_prompt": "A living room with a blue rug, a black sofa, and bookshelves",
+                "instruction": "change the red rug to blue",
+                "dataset_source": "MagicBrush"
+            }
+
+        ],
+        
+        
+        "non_rigid_action": [
+            {
+                "id": "N_001",
+                "image_path": "datasets/images/complex/non_rigid_action/N_001.jpg",
+                "source_prompt": "A rider on a brown horse jumping over a pink and white obstacle",
+                "target_prompt": "A rider on a brown horse standing in front of a pink and white obstacle",
+                "instruction": "make the horse stand still",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_002",
+                "image_path": "datasets/images/complex/non_rigid_action/N_002.jpg",
+                "source_prompt": "A young girl with a backpack walking up the steps of a yellow school bus",
+                "target_prompt": "A young girl with a backpack sitting on the steps of a yellow school bus",
+                "instruction": "make the girl sit",
+                "dataset_source": "MagicBrush"
+            }
+
+        ],
+        
+        
+        "style_transfer": [
+            {
+                "id": "S_001",
+                "image_path": "datasets/images/complex/style_transfer/S_001.jpg",
+                "source_prompt": "A person riding a brown horse jumping over a barrier",
+                "target_prompt": "A pencil sketch of a person riding a brown horse jumping over a barrier",
+                "instruction": "make it a pencil sketch",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_002",
+                "image_path": "datasets/images/complex/style_transfer/S_002.jpg",
+                "source_prompt": "A pink tiled bathroom with a bathtub and a hexagonal window",
+                "target_prompt": "A charcoal sketch of a pink tiled bathroom with a bathtub and a hexagonal window",
+                "instruction": "make it a charcoal sketch",
+                "dataset_source": "MagicBrush"
+            }
+        ],
+        
+        
+        "reasoning": [
+            {
+                "id": "R_001",
+                "image_path": "datasets/images/complex/reasoning/R_001.jpg",
+                "source_prompt": "A glass of red wine and a bowl of olives on a wooden counter",
+                "target_prompt": "A glass of beverage to help someone stay awake and a bowl of olives on a wooden counter",
+                "instruction": "change the drink to something that helps someone stay awake",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_002",
+                "image_path": "datasets/images/complex/reasoning/R_002.jpg",
+                "source_prompt": "A car trunk filled with various bags behind a cargo net",
+                "target_prompt": "A car trunk filled with items necessary for a wilderness survival situation behind a cargo net",
+                "instruction": "change the bags to items necessary for a wilderness survival situation",
+                "dataset_source": "MagicBrush"
+            }
+        ]
+    },
+
+
+    
+    "simple": {
+        "object_replacement": [
+            {
+                "id": "O_001",
+                "image_path": "datasets/images/simple/object_replacement/O_001.jpg",
+                "source_prompt": "A grey metal chair on a tiled floor",
+                "target_prompt": "A potted plant on a tiled floor",
+                "instruction": "change the chair to a potted plant",
+                "dataset_source": "TEDBench"
+            },
+            {
+                "id": "O_002",
+                "image_path": "datasets/images/simple/object_replacement/O_001.jpg",
+                "source_prompt": "A german shepherd standing on green grass",
+                "target_prompt": "A wolf standing on green grass",
+                "instruction": "change the dog to a wolf",
+                "dataset_source": "TedBench"
+            }
+    
+        ],
+
+        
+        "attribute_modification": [
+            {
+                "id": "A_001()",
+                "image_path": "datasets/images/simple/attribute_modification/A_001().jpg",
+                "source_prompt": "A fluffy white cat sitting on dry grass",
+                "target_prompt": "A fluffy black cat sitting on dry grass",
+                "instruction": "change the white cat to black",
+                "dataset_source": "TEDBench"
+            },
+            {
+                "id": "A_001",
+                "image_path": "datasets/images/simple/attribute_modification/A_001.jpg",
+                "source_prompt": "A german shepherd standing on green grass",
+                "target_prompt": "A black german shepherd standing on green grass",
+                "instruction": "change the fur color to black",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_002",
+                "image_path": "datasets/images/simple/attribute_modification/A_002.jpg",
+                "source_prompt": "A grey metal chair on a wooden deck",
+                "target_prompt": "A grey wooden chair on a wooden deck",
+                "instruction": "change the material to wood",
+                "dataset_source": "TedBench"
+            }
+        ],
+
+        
+        "non_rigid_action": [
+            {
+                "id": "N_001",
+                "image_path": "datasets/images/simple/non_rigid_action/N_001.jpg",
+                "source_prompt": "A german shepherd standing on green grass",
+                "target_prompt": "A german shepherd sitting on green grass",
+                "instruction": "make the dog sit",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_002",
+                "image_path": "datasets/images/simple/non_rigid_action/N_002.jpg",
+                "source_prompt": "A white horse running in a field",
+                "target_prompt": "A white horse standing in a field",
+                "instruction": "make the horse stand still",
+                "dataset_source": "TedBench"
+            }
+
+        ],
+
+        
+        "style_transfer": [
+            {
+                "id": "S_001",
+                "image_path": "datasets/images/simple/style_transfer/S_001.jpg",
+                "source_prompt": "A grey metal chair on a wooden deck",
+                "target_prompt": "A sketch of a grey metal chair on a wooden deck",
+                "instruction": "change the style to a sketch",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_002",
+                "image_path": "datasets/images/simple/style_transfer/S_002.jpg",
+                "source_prompt": "A white horse running in a field",
+                "target_prompt": "A white horse running in a snowy field",
+                "instruction": "change the season to winter",
+                "dataset_source": "TedBench"
+            }
+
+        ],
+
+        
+        "reasoning": [
+            {
+                "id": "R_001",
+                "image_path": "datasets/images/simple/reasoning/R_001.jpg",
+                "source_prompt": "A banana on a table",
+                "target_prompt": "A fruit that keeps the doctor away on a table",
+                "instruction": "replace the banana with a fruit that keeps the doctor away",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_002",
+                "image_path": "datasets/images/simple/reasoning/R_002.jpg",
+                "source_prompt": "A metal chair on a patio",
+                "target_prompt": "A comfortable piece of furniture meant for sleeping on a patio",
+                "instruction": "replace the chair with a piece of furniture meant for sleeping",
+                "dataset_source": "TedBench"
+            }      
+        ]
+    }
+}

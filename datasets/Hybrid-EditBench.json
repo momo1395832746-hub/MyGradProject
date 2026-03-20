@@ -1,0 +1,2453 @@
+{
+    "complex": {
+        "object_replacement": [
+            {
+                "id": "O_001",
+                "image_path": "datasets/images/complex/object_replacement/O_001.jpg",
+                "source_prompt": "A group of wooden baseball bats next to a piece of paper",
+                "target_prompt": "A group of baguettes next to a piece of paper",
+                "instruction": "change the baseball bats to baguettes",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_002",
+                "image_path": "datasets/images/complex/object_replacement/O_002.jpg",
+                "source_prompt": "A busy city street with an ornate building and a traffic light",
+                "target_prompt": "A busy city street with an ornate building and a street lamp",
+                "instruction": "change the traffic light to a street lamp",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_003",
+                "image_path": "datasets/images/complex/object_replacement/O_003.jpg",
+                "source_prompt": "A close-up of pens in a mug",
+                "target_prompt": "A close-up of flowers in a mug",
+                "instruction": "change the pens to flowers",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_004",
+                "image_path": "datasets/images/complex/object_replacement/O_004.jpg",
+                "source_prompt": "Three dogs playing with a red frisbee on the grass",
+                "target_prompt": "Three dogs playing with a red bone on the grass",
+                "instruction": "change the frisbee to a bone",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_005",
+                "image_path": "datasets/images/complex/object_replacement/O_005.jpg",
+                "source_prompt": "A container filled with yellow candy wrappers next to a laptop",
+                "target_prompt": "A container filled with coins next to a laptop",
+                "instruction": "change the candy wrappers to coins",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_006",
+                "image_path": "datasets/images/complex/object_replacement/O_006.jpg",
+                "source_prompt": "A kitchen featuring wooden cabinets and a white kettle on the stove",
+                "target_prompt": "A kitchen featuring wooden cabinets and a silver pot on the stove",
+                "instruction": "change the white kettle to a silver pot",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_007",
+                "image_path": "datasets/images/complex/object_replacement/O_007.jpg",
+                "source_prompt": "A chicken sandwich, a bowl of coleslaw, and sliced vegetables on a plate",
+                "target_prompt": "A chicken sandwich, french fries, and sliced vegetables on a plate",
+                "instruction": "change the bowl of coleslaw to french fries",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_008",
+                "image_path": "datasets/images/complex/object_replacement/O_008.jpg",
+                "source_prompt": "A collection of fresh vegetables including radishes, carrots, and potatoes",
+                "target_prompt": "A collection of fresh vegetables including tomatoes, carrots, and potatoes",
+                "instruction": "change the radishes to tomatoes",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_009",
+                "image_path": "datasets/images/complex/object_replacement/O_009.jpg",
+                "source_prompt": "A traditional ship sailing in a harbor in front of a city skyline",
+                "target_prompt": "A modern yacht sailing in a harbor in front of a city skyline",
+                "instruction": "change the traditional ship to a modern yacht",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_010",
+                "image_path": "datasets/images/complex/object_replacement/O_010.jpg",
+                "source_prompt": "Two young girls holding donuts over their eyes",
+                "target_prompt": "Two young girls holding bagels over their eyes",
+                "instruction": "change the donuts to bagels",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_011",
+                "image_path": "datasets/images/complex/object_replacement/O_011.jpg",
+                "source_prompt": "Two young boys in baseball uniforms standing on a grassy field wearing baseball caps",
+                "target_prompt": "Two young boys in baseball uniforms standing on a grassy field wearing cowboy hats",
+                "instruction": "change the baseball caps to cowboy hats",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_012",
+                "image_path": "datasets/images/complex/object_replacement/O_012.jpg",
+                "source_prompt": "An elephant with a wooden carriage on its back",
+                "target_prompt": "A camel with a wooden carriage on its back",
+                "instruction": "change the elephant to a camel",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_013",
+                "image_path": "datasets/images/complex/object_replacement/O_013.jpg",
+                "source_prompt": "A white spray bottle sitting next to a sink full of dirty dishes",
+                "target_prompt": "A bottle of dish soap sitting next to a sink full of dirty dishes",
+                "instruction": "change the spray bottle to a bottle of dish soap",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_014",
+                "image_path": "datasets/images/complex/object_replacement/O_014.jpg",
+                "source_prompt": "A slice of carrot cake on a plate next to an orange slice",
+                "target_prompt": "A slice of carrot cake on a plate next to a strawberry",
+                "instruction": "change the orange slice to a strawberry",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_015",
+                "image_path": "datasets/images/complex/object_replacement/O_015.jpg",
+                "source_prompt": "A large pile of yellow bananas sitting in metal trays",
+                "target_prompt": "A large pile of yellow bananas and red apples sitting in metal trays",
+                "instruction": "add red apples",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_016",
+                "image_path": "datasets/images/complex/object_replacement/O_016.jpg",
+                "source_prompt": "A man in a black shirt eating a slice of pizza",
+                "target_prompt": "A man in a black shirt wearing a baseball cap eating a slice of pizza",
+                "instruction": "add a baseball cap",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_017",
+                "image_path": "datasets/images/complex/object_replacement/O_017.jpg",
+                "source_prompt": "A collage of various food dishes including a bowl of soup",
+                "target_prompt": "A collage of various food dishes",
+                "instruction": "remove the bowl of soup",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_018",
+                "image_path": "datasets/images/complex/object_replacement/O_018.jpg",
+                "source_prompt": "A city skyline and mountains across a bay with boats under a cloudy sky",
+                "target_prompt": "A city skyline and mountains across a bay with boats under a cloudy sky and a hot air balloon",
+                "instruction": "add a hot air balloon",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_019",
+                "image_path": "datasets/images/complex/object_replacement/O_019.jpg",
+                "source_prompt": "A baggage handler on a loading belt attached to a white truck next to a blue airplane with another plane taking off in the background",
+                "target_prompt": "A baggage handler on a loading belt attached to a white truck next to a blue airplane",
+                "instruction": "remove the plane taking off in the background",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_020",
+                "image_path": "datasets/images/complex/object_replacement/O_020.jpg",
+                "source_prompt": "A bathroom vanity with various toiletries in front of a large mirror",
+                "target_prompt": "A bathroom vanity in front of a large mirror",
+                "instruction": "remove the toiletries",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_021",
+                "image_path": "datasets/images/complex/object_replacement/O_021.jpg",
+                "source_prompt": "A sandwich on a white plate with potato chips and a side salad",
+                "target_prompt": "A sandwich on a white plate with potato chips, a pickle, and a side salad",
+                "instruction": "add a pickle",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_022",
+                "image_path": "datasets/images/complex/object_replacement/O_022.jpg",
+                "source_prompt": "A pencil sketch on a desk next to a keyboard and a bowl of rice",
+                "target_prompt": "A pencil sketch on a desk next to a keyboard",
+                "instruction": "remove the bowl of rice",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_023",
+                "image_path": "datasets/images/complex/object_replacement/O_023.jpg",
+                "source_prompt": "Piles of green leafy vegetables and fennel at a market stand",
+                "target_prompt": "Piles of green leafy vegetables, fennel, and tomatoes at a market stand",
+                "instruction": "add tomatoes",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_024",
+                "image_path": "datasets/images/complex/object_replacement/O_024.jpg",
+                "source_prompt": "A tow truck towing a silver car on a city street with an officer walking by",
+                "target_prompt": "A tow truck towing a silver car on a city street",
+                "instruction": "remove the officer",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_025",
+                "image_path": "datasets/images/complex/object_replacement/O_025.jpg",
+                "source_prompt": "Hot dogs cooking on a roller grill next to a tray of onions and peppers",
+                "target_prompt": "Hot dogs cooking on a roller grill next to a tray of onions and peppers and a bottle of mustard",
+                "instruction": "add a bottle of mustard",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_026",
+                "image_path": "datasets/images/complex/object_replacement/O_026.jpg",
+                "source_prompt": "A man in a blue t-shirt holding a wine glass at an outdoor gathering",
+                "target_prompt": "A man in a blue t-shirt wearing a baseball cap holding a wine glass at an outdoor gathering",
+                "instruction": "add a baseball cap",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_027",
+                "image_path": "datasets/images/complex/object_replacement/O_027.jpg",
+                "source_prompt": "A miniature traffic scene featuring a yellow semi-truck and a yellow taxi",
+                "target_prompt": "A miniature traffic scene featuring a yellow semi-truck",
+                "instruction": "remove the yellow taxi",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_028",
+                "image_path": "datasets/images/complex/object_replacement/O_028.jpg",
+                "source_prompt": "People shearing a sheep on a wooden stage",
+                "target_prompt": "People shearing a sheep on a wooden stage with a bucket nearby",
+                "instruction": "add a bucket",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_029",
+                "image_path": "datasets/images/complex/object_replacement/O_029.jpg",
+                "source_prompt": "A brightly lit ramen shop storefront at night with bicycles parked in front",
+                "target_prompt": "A brightly lit ramen shop storefront at night",
+                "instruction": "remove the bicycles",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "O_030",
+                "image_path": "datasets/images/complex/object_replacement/O_030.jpg",
+                "source_prompt": "Three people holding white game controllers sitting together",
+                "target_prompt": "Three people holding white game controllers sitting together with a bowl of popcorn",
+                "instruction": "add a bowl of popcorn",
+                "dataset_source": "MagicBrush"
+            }
+
+        ],
+
+        
+        "attribute_modification": [
+            {
+                "id": "A_001",
+                "image_path": "datasets/images/complex/attribute_modification/A_001.jpg",
+                "source_prompt": "A woman wearing a turquoise tank top making a pizza on a kitchen counter",
+                "target_prompt": "A woman wearing a red tank top making a pizza on a kitchen counter",
+                "instruction": "change the turquoise tank top to red",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_002",
+                "image_path": "datasets/images/complex/attribute_modification/A_002.jpg",
+                "source_prompt": "A living room with a red rug, a black sofa, and bookshelves",
+                "target_prompt": "A living room with a blue rug, a black sofa, and bookshelves",
+                "instruction": "change the red rug to blue",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_003",
+                "image_path": "datasets/images/complex/attribute_modification/A_003.jpg",
+                "source_prompt": "A silver propeller plane with a red nose on a runway",
+                "target_prompt": "A silver propeller plane with a blue nose on a runway",
+                "instruction": "change the red nose to blue",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_004",
+                "image_path": "datasets/images/complex/attribute_modification/A_004.jpg",
+                "source_prompt": "A red train stopped at a crowded station platform",
+                "target_prompt": "A green train stopped at a crowded station platform",
+                "instruction": "change the red train to green",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_005",
+                "image_path": "datasets/images/complex/attribute_modification/A_005.jpg",
+                "source_prompt": "A speckled dog and a brown dog resting together",
+                "target_prompt": "A speckled dog and a black dog resting together",
+                "instruction": "change the brown dog to black",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_006",
+                "image_path": "datasets/images/complex/attribute_modification/A_006.jpg",
+                "source_prompt": "A man walking past a white van and a silver van",
+                "target_prompt": "A man walking past a blue van and a silver van",
+                "instruction": "change the white van to blue",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_007",
+                "image_path": "datasets/images/complex/attribute_modification/A_007.jpg",
+                "source_prompt": "A baseball player in a white uniform standing at home plate",
+                "target_prompt": "A baseball player in a red uniform standing at home plate",
+                "instruction": "change the white uniform to red",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_008",
+                "image_path": "datasets/images/complex/attribute_modification/A_008.jpg",
+                "source_prompt": "A small bedroom with a desk and a loft bed featuring blue bedding",
+                "target_prompt": "A small bedroom with a desk and a loft bed featuring red bedding",
+                "instruction": "change the blue bedding to red",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_009",
+                "image_path": "datasets/images/complex/attribute_modification/A_009.jpg",
+                "source_prompt": "A breakfast spread with various foods on a yellow tablecloth",
+                "target_prompt": "A breakfast spread with various foods on a blue tablecloth",
+                "instruction": "change the yellow tablecloth to blue",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_010",
+                "image_path": "datasets/images/complex/attribute_modification/A_010.jpg",
+                "source_prompt": "A person with red hair wearing a tie and a cotton shirt",
+                "target_prompt": "A person with red hair wearing a tie and a silk shirt",
+                "instruction": "change the cotton shirt to silk",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_011",
+                "image_path": "datasets/images/complex/attribute_modification/A_011.jpg",
+                "source_prompt": "A man sitting on a fabric sofa looking out a large window",
+                "target_prompt": "A man sitting on a leather sofa looking out a large window",
+                "instruction": "change the fabric sofa to leather",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_012",
+                "image_path": "datasets/images/complex/attribute_modification/A_012.jpg",
+                "source_prompt": "A kitchen with green walls and a wooden dining table",
+                "target_prompt": "A kitchen with green walls and a glass dining table",
+                "instruction": "change the wooden dining table to glass",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_013",
+                "image_path": "datasets/images/complex/attribute_modification/A_013.jpg",
+                "source_prompt": "A red motorcycle parked in front of green wooden doors",
+                "target_prompt": "A red motorcycle parked in front of green metal doors",
+                "instruction": "change the wooden doors to metal",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_014",
+                "image_path": "datasets/images/complex/attribute_modification/A_014.jpg",
+                "source_prompt": "A light blue clock and framed pictures hanging on a flat orange wall",
+                "target_prompt": "A light blue clock and framed pictures hanging on a wooden wall",
+                "instruction": "change the flat orange wall to wood",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_015",
+                "image_path": "datasets/images/complex/attribute_modification/A_015.jpg",
+                "source_prompt": "Glass jars sitting on a black kitchen counter against a red wall",
+                "target_prompt": "Ceramic jars sitting on a black kitchen counter against a red wall",
+                "instruction": "change the glass jars to ceramic",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_016",
+                "image_path": "datasets/images/complex/attribute_modification/A_016.jpg",
+                "source_prompt": "A brown and white cow standing in an enclosure near a metal trough",
+                "target_prompt": "A brown and white cow standing in an enclosure near a wooden trough",
+                "instruction": "change the metal trough to wooden",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_017",
+                "image_path": "datasets/images/complex/attribute_modification/A_017.jpg",
+                "source_prompt": "A kitten standing next to a ceramic water bowl",
+                "target_prompt": "A kitten standing next to a stainless steel water bowl",
+                "instruction": "change the ceramic bowl to stainless steel",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_018",
+                "image_path": "datasets/images/complex/attribute_modification/A_018.jpg",
+                "source_prompt": "A cockatiel standing on a plastic laptop keyboard",
+                "target_prompt": "A cockatiel standing on a wooden laptop keyboard",
+                "instruction": "change the plastic laptop to wooden",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_019",
+                "image_path": "datasets/images/complex/attribute_modification/A_019.jpg",
+                "source_prompt": "Two men sitting on a brown fabric couch playing video games",
+                "target_prompt": "Two men sitting on a brown leather couch playing video games",
+                "instruction": "change the fabric couch to leather",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_020",
+                "image_path": "datasets/images/complex/attribute_modification/A_020.jpg",
+                "source_prompt": "Two toothbrushes resting on a clear acrylic display stand",
+                "target_prompt": "Two toothbrushes resting on a solid brass display stand",
+                "instruction": "change the acrylic to solid brass",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_021",
+                "image_path": "datasets/images/complex/attribute_modification/A_021.jpg",
+                "source_prompt": "A long red boxcar sitting on railroad tracks in a train yard",
+                "target_prompt": "A long wooden boxcar sitting on railroad tracks in a train yard",
+                "instruction": "change the red boxcar to wood",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_022",
+                "image_path": "datasets/images/complex/attribute_modification/A_022.jpg",
+                "source_prompt": "A breakfast of bacon, eggs, and potatoes on a white ceramic plate",
+                "target_prompt": "A breakfast of bacon, eggs, and potatoes on a wooden plate",
+                "instruction": "change the ceramic plate to wood",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_023",
+                "image_path": "datasets/images/complex/attribute_modification/A_023.jpg",
+                "source_prompt": "A rustic kitchen featuring wooden cabinets and a double stainless steel sink",
+                "target_prompt": "A rustic kitchen featuring wooden cabinets and a double copper sink",
+                "instruction": "change the stainless steel sink to copper",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_024",
+                "image_path": "datasets/images/complex/attribute_modification/A_024.jpg",
+                "source_prompt": "A motocross rider jumping on a dirt bike next to a wooden observation stand",
+                "target_prompt": "A motocross rider jumping on a dirt bike next to a metal observation stand",
+                "instruction": "change the wooden observation stand to metal",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "A_025",
+                "image_path": "datasets/images/complex/attribute_modification/A_025.jpg",
+                "source_prompt": "A cartoon graphic featuring a red cat and other characters",
+                "target_prompt": "A cartoon graphic featuring a blue cat and other characters",
+                "instruction": "change the red cat to blue",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_026",
+                "image_path": "datasets/images/complex/attribute_modification/A_026.jpg",
+                "source_prompt": "A red bicycle parked on a cobblestone street against an orange wall",
+                "target_prompt": "A rusted iron bicycle parked on a cobblestone street against an orange wall",
+                "instruction": "change the red bicycle to rusted iron",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_027",
+                "image_path": "datasets/images/complex/attribute_modification/A_027.jpg",
+                "source_prompt": "A red wooden double door set in a yellow wall surrounded by plants",
+                "target_prompt": "A frosted glass double door set in a yellow wall surrounded by plants",
+                "instruction": "change the wooden door to frosted glass",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_028",
+                "image_path": "datasets/images/complex/attribute_modification/A_028.jpg",
+                "source_prompt": "A painting of a man wearing a green fabric vest fishing by a river",
+                "target_prompt": "A painting of a man wearing a green leather vest fishing by a river",
+                "instruction": "change the fabric vest to leather",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_029",
+                "image_path": "datasets/images/complex/attribute_modification/A_029.jpg",
+                "source_prompt": "A painting of a person in a red coat standing on a sandy beach",
+                "target_prompt": "A painting of a person in a blue coat standing on a sandy beach",
+                "instruction": "change the red coat to blue",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_030",
+                "image_path": "datasets/images/complex/attribute_modification/A_030.jpg",
+                "source_prompt": "A young girl wearing a pink shirt and a black fabric backpack stepping onto a yellow school bus",
+                "target_prompt": "A young girl wearing a pink shirt and a brown leather backpack stepping onto a yellow school bus",
+                "instruction": "change the black fabric backpack to brown leather",
+                "dataset_source": "MagicBrush"
+            }
+
+        ],
+        
+        
+        "non_rigid_action": [
+            {
+                "id": "N_001",
+                "image_path": "datasets/images/complex/non_rigid_action/N_001.jpg",
+                "source_prompt": "A rider on a brown horse jumping over a pink and white obstacle",
+                "target_prompt": "A rider on a brown horse standing in front of a pink and white obstacle",
+                "instruction": "make the horse stand still",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_002",
+                "image_path": "datasets/images/complex/non_rigid_action/N_002.jpg",
+                "source_prompt": "A young girl with a backpack walking up the steps of a yellow school bus",
+                "target_prompt": "A young girl with a backpack sitting on the steps of a yellow school bus",
+                "instruction": "make the girl sit",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_003",
+                "image_path": "datasets/images/complex/non_rigid_action/N_003.jpg",
+                "source_prompt": "A toddler wearing a bib sitting on the floor with white controllers",
+                "target_prompt": "A toddler wearing a bib standing on the floor with white controllers",
+                "instruction": "make the toddler stand",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_004",
+                "image_path": "datasets/images/complex/non_rigid_action/N_004.jpg",
+                "source_prompt": "A group of teddy bears in traditional clothing standing together",
+                "target_prompt": "A group of teddy bears in traditional clothing sitting together",
+                "instruction": "make the teddy bears sit",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_005",
+                "image_path": "datasets/images/complex/non_rigid_action/N_005.jpg",
+                "source_prompt": "An older man wearing a straw hat resting his arms at a vegetable stall",
+                "target_prompt": "An older man wearing a straw hat crossing his arms at a vegetable stall",
+                "instruction": "make the man cross his arms",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_006",
+                "image_path": "datasets/images/complex/non_rigid_action/N_006.jpg",
+                "source_prompt": "Two men sitting on chairs next to parked motor scooters on a sidewalk",
+                "target_prompt": "Two men standing next to parked motor scooters on a sidewalk",
+                "instruction": "make the men stand",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_007",
+                "image_path": "datasets/images/complex/non_rigid_action/N_007.jpg",
+                "source_prompt": "A cat resting on the roof of a dark car",
+                "target_prompt": "A cat standing on the roof of a dark car",
+                "instruction": "make the cat stand",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_008",
+                "image_path": "datasets/images/complex/non_rigid_action/N_008.jpg",
+                "source_prompt": "Three giraffes standing and eating leaves from a tree",
+                "target_prompt": "Three giraffes sitting and eating leaves from a tree",
+                "instruction": "make the giraffes sit",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_009",
+                "image_path": "datasets/images/complex/non_rigid_action/N_009.jpg",
+                "source_prompt": "A white egret standing near the water with a smaller bird",
+                "target_prompt": "A white egret flying near the water with a smaller bird",
+                "instruction": "make the white egret fly",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_010",
+                "image_path": "datasets/images/complex/non_rigid_action/N_010.jpg",
+                "source_prompt": "A man standing in a living room holding a video game controller",
+                "target_prompt": "A man sitting in a living room holding a video game controller",
+                "instruction": "make the man sit",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_011",
+                "image_path": "datasets/images/complex/non_rigid_action/N_011.jpg",
+                "source_prompt": "A man holding a green rope attached to a walking black cow",
+                "target_prompt": "A man holding a green rope attached to a sleeping black cow",
+                "instruction": "make the cow sleep",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_012",
+                "image_path": "datasets/images/complex/non_rigid_action/N_012.jpg",
+                "source_prompt": "A woman sitting in a wooden boat filled with fresh fruit on the water",
+                "target_prompt": "A woman standing in a wooden boat filled with fresh fruit on the water",
+                "instruction": "make the woman stand",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_013",
+                "image_path": "datasets/images/complex/non_rigid_action/N_013.jpg",
+                "source_prompt": "A person in a yellow jacket walking on black volcanic terrain near a reflective pool",
+                "target_prompt": "A person in a yellow jacket kneeling on black volcanic terrain near a reflective pool",
+                "instruction": "make the person kneel",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_014",
+                "image_path": "datasets/images/complex/non_rigid_action/N_014.jpg",
+                "source_prompt": "A black and white spotted dog and a brown dog resting their mouths closed on a bed with patterned blankets",
+                "target_prompt": "A black and white spotted dog and a brown dog resting and panting on a bed with patterned blankets",
+                "instruction": "make the dogs pant",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_015",
+                "image_path": "datasets/images/complex/non_rigid_action/N_015.jpg",
+                "source_prompt": "Two young boys in baseball uniforms standing on a grassy field",
+                "target_prompt": "Two young boys in baseball uniforms sitting on a grassy field",
+                "instruction": "make the boys sit",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_016",
+                "image_path": "datasets/images/complex/non_rigid_action/N_016.jpg",
+                "source_prompt": "A snowboarder in a yellow jacket sitting on a snowy ridge holding a red snowboard",
+                "target_prompt": "A snowboarder in a yellow jacket standing on a snowy ridge holding a red snowboard",
+                "instruction": "make the snowboarder stand",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_017",
+                "image_path": "datasets/images/complex/non_rigid_action/N_017.jpg",
+                "source_prompt": "An elephant wearing a wooden riding carriage standing in a walled enclosure",
+                "target_prompt": "An elephant wearing a wooden riding carriage raising its trunk in a walled enclosure",
+                "instruction": "make the elephant raise its trunk",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_018",
+                "image_path": "datasets/images/complex/non_rigid_action/N_018.jpg",
+                "source_prompt": "Teddy bears dressed in traditional Korean hanbok clothing standing on a display stage",
+                "target_prompt": "Teddy bears dressed in traditional Korean hanbok clothing sitting on a display stage",
+                "instruction": "make the teddy bears sit down",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_019",
+                "image_path": "datasets/images/complex/non_rigid_action/N_019.jpg",
+                "source_prompt": "A brown and white cow standing in an enclosure near a metal trough",
+                "target_prompt": "A brown and white cow lying down in an enclosure near a metal trough",
+                "instruction": "make the cow lie down",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_020",
+                "image_path": "datasets/images/complex/non_rigid_action/N_020.jpg",
+                "source_prompt": "A white dog standing on a sidewalk tied to a red fire hydrant",
+                "target_prompt": "A white dog sitting on a sidewalk tied to a red fire hydrant",
+                "instruction": "make the dog sit",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_021",
+                "image_path": "datasets/images/complex/non_rigid_action/N_021.jpg",
+                "source_prompt": "A woman standing and talking on the phone in an office while others work on computers",
+                "target_prompt": "A woman sitting and talking on the phone in an office while others work on computers",
+                "instruction": "make the standing woman sit down",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_022",
+                "image_path": "datasets/images/complex/non_rigid_action/N_022.jpg",
+                "source_prompt": "A man with his eyes open eating a slice of pizza",
+                "target_prompt": "A man with his eyes closed enjoying a slice of pizza",
+                "instruction": "make the man close his eyes",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_023",
+                "image_path": "datasets/images/complex/non_rigid_action/N_023.jpg",
+                "source_prompt": "A baseball player standing at home plate holding a bat ready to hit",
+                "target_prompt": "A baseball player at home plate actively swinging the bat",
+                "instruction": "make the batter swing the bat",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_024",
+                "image_path": "datasets/images/complex/non_rigid_action/N_024.jpg",
+                "source_prompt": "Three people sitting together holding white game controllers",
+                "target_prompt": "Three people sitting together raising their hands and white game controllers in victory",
+                "instruction": "make them raise their hands in victory",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_025",
+                "image_path": "datasets/images/complex/non_rigid_action/N_025.jpg",
+                "source_prompt": "A female tennis player mid-serve on a red clay court with spectators in the background",
+                "target_prompt": "A female tennis player sitting on the ground resting on a red clay court with spectators in the background",
+                "instruction": "make the tennis player sit on the ground resting",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_026",
+                "image_path": "datasets/images/complex/non_rigid_action/N_026.jpg",
+                "source_prompt": "A grey and white cat lying lazily inside a black wire bicycle basket",
+                "target_prompt": "A grey and white cat standing up alertly on all four paws inside a black wire bicycle basket",
+                "instruction": "make the cat stand up alertly",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_027",
+                "image_path": "datasets/images/complex/non_rigid_action/N_027.jpg",
+                "source_prompt": "A white peacock standing on a paved path next to dark wooden park benches",
+                "target_prompt": "A white peacock with its tail feathers fully fanned out standing on a paved path next to dark wooden park benches",
+                "instruction": "make the peacock fully fan out its tail feathers",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_028",
+                "image_path": "datasets/images/complex/non_rigid_action/N_028.jpg",
+                "source_prompt": "A baseball player swinging a bat at home plate during a game",
+                "target_prompt": "A baseball player kneeling down to tie his shoe at home plate during a game",
+                "instruction": "make the batter kneel down to tie his shoe",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_029",
+                "image_path": "datasets/images/complex/non_rigid_action/N_029.jpg",
+                "source_prompt": "A person skiing down a snowy slope near a ski lift",
+                "target_prompt": "A person lying flat face-down after falling on a snowy slope near a ski lift",
+                "instruction": "make the skier fall flat face-down in the snow",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "N_030",
+                "image_path": "datasets/images/complex/non_rigid_action/N_030.jpg",
+                "source_prompt": "A flock of seagulls resting and standing on the asphalt of a parking lot",
+                "target_prompt": "A flock of seagulls actively flying and flapping their wings over the asphalt of a parking lot",
+                "instruction": "make the seagulls fly and flap their wings",
+                "dataset_source": "MagicBrush"
+            }
+
+        ],
+        
+        
+        "style_transfer": [
+            {
+                "id": "S_001",
+                "image_path": "datasets/images/complex/style_transfer/S_001.jpg",
+                "source_prompt": "A person riding a brown horse jumping over a barrier",
+                "target_prompt": "A pencil sketch of a person riding a brown horse jumping over a barrier",
+                "instruction": "make it a pencil sketch",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_002",
+                "image_path": "datasets/images/complex/style_transfer/S_002.jpg",
+                "source_prompt": "A pink tiled bathroom with a bathtub and a hexagonal window",
+                "target_prompt": "A charcoal sketch of a pink tiled bathroom with a bathtub and a hexagonal window",
+                "instruction": "make it a charcoal sketch",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_003",
+                "image_path": "datasets/images/complex/style_transfer/S_003.jpg",
+                "source_prompt": "A white patio with a pool overlooking the blue ocean",
+                "target_prompt": "A watercolor painting of a white patio with a pool overlooking the blue ocean",
+                "instruction": "make it a watercolor painting",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_004",
+                "image_path": "datasets/images/complex/style_transfer/S_004.jpg",
+                "source_prompt": "A colorful product box displaying five different fruit flavors",
+                "target_prompt": "A pop-art style colorful product box displaying five different fruit flavors",
+                "instruction": "make it pop-art style",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_005",
+                "image_path": "datasets/images/complex/style_transfer/S_005.jpg",
+                "source_prompt": "A red and yellow fire engine driving through a city intersection",
+                "target_prompt": "A vintage sepia photograph of a red and yellow fire engine driving through a city intersection",
+                "instruction": "make it a vintage sepia photograph",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_006",
+                "image_path": "datasets/images/complex/style_transfer/S_006.jpg",
+                "source_prompt": "A city street filled with yellow taxis and tall buildings",
+                "target_prompt": "A sketch of a city street filled with yellow taxis and tall buildings",
+                "instruction": "make it a sketch",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_007",
+                "image_path": "datasets/images/complex/style_transfer/S_007.jpg",
+                "source_prompt": "A log cabin surrounded by snow and trees",
+                "target_prompt": "A charcoal drawing of a log cabin surrounded by snow and trees",
+                "instruction": "make it a charcoal drawing",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_008",
+                "image_path": "datasets/images/complex/style_transfer/S_008.jpg",
+                "source_prompt": "An illuminated cobblestone street with brick buildings at night",
+                "target_prompt": "A watercolor painting of an illuminated cobblestone street with brick buildings at night",
+                "instruction": "make it a watercolor painting",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_009",
+                "image_path": "datasets/images/complex/style_transfer/S_009.jpg",
+                "source_prompt": "A flat color illustration of a pond surrounded by trees and rocks",
+                "target_prompt": "A realistic photograph of a pond surrounded by trees and rocks",
+                "instruction": "make it a realistic photograph",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_010",
+                "image_path": "datasets/images/complex/style_transfer/S_010.jpg",
+                "source_prompt": "A portrait of a woman wearing a red hat and dress",
+                "target_prompt": "A portrait of a woman wearing a red hat and dress during a rainstorm",
+                "instruction": "make it rain",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_011",
+                "image_path": "datasets/images/complex/style_transfer/S_011.jpg",
+                "source_prompt": "A cottage with a flower garden next to a lake at sunset",
+                "target_prompt": "A cottage with a flower garden next to a lake at night",
+                "instruction": "make it nighttime",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_012",
+                "image_path": "datasets/images/complex/style_transfer/S_012.jpg",
+                "source_prompt": "A silhouette of a person sitting by a lake under a bright yellow moon",
+                "target_prompt": "A silhouette of a person sitting by a lake during a heavy snowstorm",
+                "instruction": "change the weather to a heavy snowstorm",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_013",
+                "image_path": "datasets/images/complex/style_transfer/S_013.jpg",
+                "source_prompt": "A modern living room with a grey sofa and large windows showing a city skyline",
+                "target_prompt": "A modern living room with a grey sofa and large windows showing a city skyline at sunset",
+                "instruction": "change the time to sunset",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_014",
+                "image_path": "datasets/images/complex/style_transfer/S_014.jpg",
+                "source_prompt": "A painting of a river and a bridge with buildings under a clear night sky",
+                "target_prompt": "A painting of a river and a bridge with buildings under a foggy night sky",
+                "instruction": "add thick fog",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_015",
+                "image_path": "datasets/images/complex/style_transfer/S_015.jpg",
+                "source_prompt": "An abstract watercolor portrait of a woman with dripping paint",
+                "target_prompt": "A charcoal sketch portrait of a woman with dripping paint",
+                "instruction": "make it a charcoal sketch",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_016",
+                "image_path": "datasets/images/complex/style_transfer/S_016.jpg",
+                "source_prompt": "A silver fighter plane with a red nose and tail on a runway under a bright overcast sky",
+                "target_prompt": "A silver fighter plane with a red nose and tail on a runway during a vibrant golden hour sunset",
+                "instruction": "change the time to a vibrant golden hour sunset",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_017",
+                "image_path": "datasets/images/complex/style_transfer/S_017.jpg",
+                "source_prompt": "A traditional Chinese junk boat sailing in front of modern city skyscrapers under a hazy sky",
+                "target_prompt": "A traditional Chinese junk boat sailing in front of modern city skyscrapers during a heavy rainstorm",
+                "instruction": "change the weather to a heavy rainstorm",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_018",
+                "image_path": "datasets/images/complex/style_transfer/S_018.jpg",
+                "source_prompt": "A traditional Chinese junk boat sailing in front of modern city skyscrapers under a hazy sky",
+                "target_prompt": "A cyberpunk style painting of a traditional Chinese junk boat sailing in front of modern city skyscrapers at night",
+                "instruction": "make it a cyberpunk style painting at night",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_019",
+                "image_path": "datasets/images/complex/style_transfer/S_019.jpg",
+                "source_prompt": "A toddler wearing a bib playing with white video game controllers on the floor",
+                "target_prompt": "A pastel watercolor painting of a toddler wearing a bib playing with white video game controllers on the floor",
+                "instruction": "make it a pastel watercolor painting",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_020",
+                "image_path": "datasets/images/complex/style_transfer/S_001.jpg",
+                "source_prompt": "A kitchen and dining area with green walls, a wooden island, and spherical paper lanterns",
+                "target_prompt": "A kitchen and dining area with green walls, a wooden island, and spherical paper lanterns illuminated only by moonlight streaming through the window at night",
+                "instruction": "change the lighting to moonlight at night",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_021",
+                "image_path": "datasets/images/complex/style_transfer/S_012.jpg",
+                "source_prompt": "A large pile of fresh yellow bananas in foil trays",
+                "target_prompt": "A classical still-life oil painting of a large pile of fresh yellow bananas in foil trays",
+                "instruction": "make it a classical still-life oil painting",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_022",
+                "image_path": "datasets/images/complex/style_transfer/S_022.jpg",
+                "source_prompt": "A city skyline and mountains across a bay with boats under a cloudy sky",
+                "target_prompt": "A city skyline and mountains across a bay with boats under a bright, sunny blue sky",
+                "instruction": "change the weather to a bright, sunny day",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_023",
+                "image_path": "datasets/images/complex/style_transfer/S_023.jpg",
+                "source_prompt": "A city skyline and mountains across a bay with boats under a cloudy sky",
+                "target_prompt": "A futuristic cyberpunk city skyline across a bay with glowing neon lights at night",
+                "instruction": "make it a futuristic cyberpunk city at night",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_024",
+                "image_path": "datasets/images/complex/style_transfer/S_024.jpg",
+                "source_prompt": "A brown and white cow standing in an enclosure near a metal trough",
+                "target_prompt": "A brown and white cow standing in an enclosure covered in deep winter snow",
+                "instruction": "change the season to deep winter with heavy snow",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_025",
+                "image_path": "datasets/images/complex/style_transfer/S_025.jpg",
+                "source_prompt": "A plate of fresh sliced fruit including kiwi, oranges, and pears",
+                "target_prompt": "A dark, moody still-life photograph of a plate of fresh sliced fruit",
+                "instruction": "make it a dark, moody still-life photograph",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_026",
+                "image_path": "datasets/images/complex/style_transfer/S_026.jpg",
+                "source_prompt": "A motocross rider jumping a dirt bike over a dirt mound next to an observation stand",
+                "target_prompt": "A heavily motion-blurred photograph of a motocross rider jumping a dirt bike over a dirt mound",
+                "instruction": "add a strong motion blur effect",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_027",
+                "image_path": "datasets/images/complex/style_transfer/S_027.jpg",
+                "source_prompt": "An office with people working on computers under standard indoor lighting",
+                "target_prompt": "A dark office where people are illuminated only by the glowing light of their computer monitors",
+                "instruction": "change the lighting to a dark room illuminated only by the computer monitors",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_028",
+                "image_path": "datasets/images/complex/style_transfer/S_028.jpg",
+                "source_prompt": "A photograph of a man eating a slice of pizza in a restaurant",
+                "target_prompt": "A classical Renaissance oil painting of a man eating a slice of pizza in a restaurant",
+                "instruction": "make it a classical Renaissance oil painting",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_029",
+                "image_path": "datasets/images/complex/style_transfer/S_029.jpg",
+                "source_prompt": "A baseball game in progress at a stadium under sunny skies",
+                "target_prompt": "A baseball game in progress at a stadium during a heavy rainstorm",
+                "instruction": "change the weather to a heavy rainstorm",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "S_030",
+                "image_path": "datasets/images/complex/style_transfer/S_030.jpg",
+                "source_prompt": "A woman sitting in a wooden boat filled with fresh fruit on a canal",
+                "target_prompt": "A woman sitting in a wooden boat filled with fresh fruit on a canal at night illuminated by glowing floating lanterns",
+                "instruction": "change the time to night and add glowing floating lanterns",
+                "dataset_source": "MagicBrush"
+            }
+
+
+        ],
+        
+        
+        "reasoning": [
+            {
+                "id": "R_001",
+                "image_path": "datasets/images/complex/reasoning/R_001.jpg",
+                "source_prompt": "A glass of red wine and a bowl of olives on a wooden counter",
+                "target_prompt": "A glass of beverage to help someone stay awake and a bowl of olives on a wooden counter",
+                "instruction": "change the drink to something that helps someone stay awake",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_002",
+                "image_path": "datasets/images/complex/reasoning/R_002.jpg",
+                "source_prompt": "A car trunk filled with various bags behind a cargo net",
+                "target_prompt": "A car trunk filled with items necessary for a wilderness survival situation behind a cargo net",
+                "instruction": "change the bags to items necessary for a wilderness survival situation",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_003",
+                "image_path": "datasets/images/complex/reasoning/R_003.jpg",
+                "source_prompt": "A person in a yellow jacket sitting on a red snowboard on a snowy mountain",
+                "target_prompt": "A person in a yellow jacket sitting on equipment designed for riding ocean waves on a snowy mountain",
+                "instruction": "change the snowboard to equipment designed for riding ocean waves",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_004",
+                "image_path": "datasets/images/complex/reasoning/R_004.jpg",
+                "source_prompt": "A man in a blue shirt sitting at a desk using a computer",
+                "target_prompt": "A man dressed to attend a formal wedding sitting at a desk using a computer",
+                "instruction": "dress the man to attend a formal wedding",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_005",
+                "image_path": "datasets/images/complex/reasoning/R_005.jpg",
+                "source_prompt": "A crowded city street at night illuminated by bright neon signs",
+                "target_prompt": "A crowded city street at night affected by a total power failure",
+                "instruction": "change the environment to reflect a total power failure",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_006",
+                "image_path": "datasets/images/complex/reasoning/R_006.jpg",
+                "source_prompt": "A small room decorated with colorful string lights hanging above a bed",
+                "target_prompt": "A small room decorated with light sources required during a power outage hanging above a bed",
+                "instruction": "change the string lights to light sources required during a power outage",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_007",
+                "image_path": "datasets/images/complex/reasoning/R_007.jpg",
+                "source_prompt": "Seagulls resting in an asphalt parking lot",
+                "target_prompt": "Seagulls resting in their natural coastal habitat",
+                "instruction": "change the asphalt parking lot to their natural coastal habitat",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_008",
+                "image_path": "datasets/images/complex/reasoning/R_008.jpg",
+                "source_prompt": "A white dog on a leash tied to a fire hydrant on a city sidewalk",
+                "target_prompt": "A white dog in an environment where it can safely run freely without a leash",
+                "instruction": "change the environment to a place where the dog can safely run freely without a leash",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_009",
+                "image_path": "datasets/images/complex/reasoning/R_009.jpg",
+                "source_prompt": "A variety of sliced fresh fruit on a blue and white plate",
+                "target_prompt": "A variety of classic Halloween treats on a blue and white plate",
+                "instruction": "change the fruit to classic Halloween treats",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_010",
+                "image_path": "datasets/images/complex/reasoning/R_010.jpg",
+                "source_prompt": "A paved path winding through bare trees near a body of water on a foggy day",
+                "target_prompt": "A paved path winding through trees experiencing peak springtime growth near a body of water on a foggy day",
+                "instruction": "change the season to a time of peak growth",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_011",
+                "image_path": "datasets/images/complex/reasoning/R_011.jpg",
+                "source_prompt": "A bathroom featuring a toilet with a dark wooden seat and a tiled wall",
+                "target_prompt": "An abandoned and decayed bathroom featuring a toilet with a dark wooden seat and a tiled wall",
+                "instruction": "make the environment look abandoned and decayed",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_012",
+                "image_path": "datasets/images/complex/reasoning/R_012.jpg",
+                "source_prompt": "A portrait of a woman wearing a blue veil and dress",
+                "target_prompt": "A portrait of a woman dressed for a profession in scientific research",
+                "instruction": "make her a scientist",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_013",
+                "image_path": "datasets/images/complex/reasoning/R_013.jpg",
+                "source_prompt": "A portrait of a white-haired man wearing chainmail armor",
+                "target_prompt": "A portrait of a white-haired man wearing attire suitable for a corporate boardroom",
+                "instruction": "dress him for a corporate boardroom",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_014",
+                "image_path": "datasets/images/complex/reasoning/R_014.jpg",
+                "source_prompt": "Two men working in a vintage workshop filled with various tools and supplies",
+                "target_prompt": "Two men working in a facility equipped for assembling advanced extraterrestrial technology",
+                "instruction": "change the workshop to a facility equipped for assembling advanced extraterrestrial technology",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_015",
+                "image_path": "datasets/images/complex/reasoning/R_015.jpg",
+                "source_prompt": "A lake surrounded by trees with vibrant autumn foliage",
+                "target_prompt": "A lake surrounded by trees exhibiting bare branches characteristic of freezing temperatures",
+                "instruction": "change the environment to reflect freezing temperatures",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_016",
+                "image_path": "datasets/images/complex/reasoning/R_016.jpg",
+                "source_prompt": "A snowboarder in a yellow jacket sitting on a snowy ridge holding a red snowboard",
+                "target_prompt": "A sandboarder in a yellow jacket sitting on a desert sand dune holding a red snowboard",
+                "instruction": "change the snowy ridge to a desert sand dune",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_017",
+                "image_path": "datasets/images/complex/reasoning/R_002.jpg",
+                "source_prompt": "An elephant wearing a wooden riding carriage standing in a walled enclosure",
+                "target_prompt": "An elephant wearing a wooden riding carriage standing in its natural wild jungle habitat",
+                "instruction": "change the walled enclosure to its natural wild jungle habitat",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_018",
+                "image_path": "datasets/images/complex/reasoning/R_018.jpg",
+                "source_prompt": "A kitchen and dining area with green walls, a wooden island, and spherical paper lanterns",
+                "target_prompt": "An abandoned, decayed kitchen and dining area overgrown with vines",
+                "instruction": "make the room look abandoned and overgrown with nature",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_019",
+                "image_path": "datasets/images/complex/reasoning/R_019.jpg",
+                "source_prompt": "A large pile of fresh yellow bananas in foil trays",
+                "target_prompt": "A large pile of completely rotten, black bananas in foil trays",
+                "instruction": "make the bananas completely rotten and black",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_020",
+                "image_path": "datasets/images/complex/reasoning/R_020.jpg",
+                "source_prompt": "Three giraffes eating leaves from a tree in an enclosure",
+                "target_prompt": "Three giraffes standing next to a completely bare, dead tree in a severe drought environment",
+                "instruction": "show the environment suffering from a severe drought",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_021",
+                "image_path": "datasets/images/complex/reasoning/R_021.jpg",
+                "source_prompt": "Two men sitting on a couch in a living room holding video game controllers",
+                "target_prompt": "Two men sitting on a couch in a living room wearing headsets for a fully immersive virtual reality experience",
+                "instruction": "make them experience fully immersive virtual reality",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_022",
+                "image_path": "datasets/images/complex/reasoning/R_022.jpg",
+                "source_prompt": "A motocross rider jumping a dirt bike over a dirt mound next to an observation stand",
+                "target_prompt": "A motocross rider jumping a dirt bike over a crater in a low-gravity lunar landscape",
+                "instruction": "move the race to a low-gravity lunar landscape",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_023",
+                "image_path": "datasets/images/complex/reasoning/R_023.jpg",
+                "source_prompt": "A person tying a tie for a woman in front of a colorful graffiti wall",
+                "target_prompt": "A person tying a tie for a woman in an elegant, formal wedding dressing room",
+                "instruction": "change the location to an elegant, formal wedding dressing room",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_024",
+                "image_path": "datasets/images/complex/reasoning/R_024.jpg",
+                "source_prompt": "A woman preparing a pizza on a counter in a home kitchen",
+                "target_prompt": "A woman preparing a pizza on a stainless steel counter in a bustling commercial pizzeria kitchen",
+                "instruction": "change the environment to a bustling commercial pizzeria kitchen",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_025",
+                "image_path": "datasets/images/complex/reasoning/R_025.jpg",
+                "source_prompt": "A woman sitting in a wooden boat filled with fresh fruit on a canal",
+                "target_prompt": "A woman sitting in a wooden boat trapped in solid ice on a frozen canal during a severe winter",
+                "instruction": "freeze the canal solid in a severe winter",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_026",
+                "image_path": "datasets/images/complex/reasoning/R_026.jpg",
+                "source_prompt": "A colorful product box displaying five different fruit flavors",
+                "target_prompt": "A heavily scorched and partially burnt product box displaying five different fruit flavors",
+                "instruction": "make the box look heavily scorched and partially burnt",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_027",
+                "image_path": "datasets/images/complex/reasoning/R_027.jpg",
+                "source_prompt": "People holding wine glasses conversing at an outdoor gathering",
+                "target_prompt": "People wearing elegant masquerade masks and formal gowns conversing at an outdoor gathering",
+                "instruction": "dress everyone in elegant masquerade masks and formal gowns",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_028",
+                "image_path": "datasets/images/complex/reasoning/R_028.jpg",
+                "source_prompt": "A female tennis player mid-serve on a red clay court with spectators in the background",
+                "target_prompt": "A female tennis player mid-serve standing in knee-deep water of a flooded swimming pool with spectators in the background",
+                "instruction": "change the clay court to a flooded swimming pool",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_029",
+                "image_path": "datasets/images/complex/reasoning/R_029.jpg",
+                "source_prompt": "A white peacock standing on a paved path next to dark wooden park benches",
+                "target_prompt": "A white peacock standing on an alien planet surrounded by glowing neon flora",
+                "instruction": "transport the peacock to a glowing neon extraterrestrial jungle",
+                "dataset_source": "MagicBrush"
+            },
+            {
+                "id": "R_030",
+                "image_path": "datasets/images/complex/reasoning/R_030.jpg",
+                "source_prompt": "A white and tabby cat lying down on the roof of a black car parked near a wooden house",
+                "target_prompt": "A white and tabby cat lying down on the roof of a heavily rusted, abandoned car overgrown with thick jungle vines",
+                "instruction": "make the car heavily rusted and overgrown with jungle vines",
+                "dataset_source": "MagicBrush"
+            }
+        ]
+    },
+
+
+    
+    "simple": {
+        "object_replacement": [
+            {
+                "id": "O_001",
+                "image_path": "datasets/images/simple/object_replacement/O_001.jpg",
+                "source_prompt": "A grey metal chair on a tiled floor",
+                "target_prompt": "A potted plant on a tiled floor",
+                "instruction": "change the chair to a potted plant",
+                "dataset_source": "TEDBench"
+            },
+            {
+                "id": "O_002",
+                "image_path": "datasets/images/simple/object_replacement/O_002.jpg",
+                "source_prompt": "A german shepherd standing on green grass",
+                "target_prompt": "A wolf standing on green grass",
+                "instruction": "change the dog to a wolf",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_003",
+                "image_path": "datasets/images/simple/object_replacement/O_003.jpg",
+                "source_prompt": "A white cat sitting on dry grass",
+                "target_prompt": "A white rabbit sitting on dry grass",
+                "instruction": "change the cat to a rabbit",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_004",
+                "image_path": "datasets/images/simple/object_replacement/O_004.jpg",
+                "source_prompt": "A white horse running in a field",
+                "target_prompt": "A zebra running in a field",
+                "instruction": "change the horse to a zebra",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_005",
+                "image_path": "datasets/images/simple/object_replacement/O_005.jpg",
+                "source_prompt": "A kingfisher perched on a branch",
+                "target_prompt": "A parrot perched on a branch",
+                "instruction": "change the bird to a parrot",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_006",
+                "image_path": "datasets/images/simple/object_replacement/O_006.jpg",
+                "source_prompt": "A wooden door with the number 13 on a dark wall",
+                "target_prompt": "A metal door with the number 13 on a dark wall",
+                "instruction": "replace the wooden door with a metal door",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_007",
+                "image_path": "datasets/images/simple/object_replacement/O_007.jpg",
+                "source_prompt": "An orange cat sitting on a pink background",
+                "target_prompt": "An orange cat sitting on a pink background with a toy mouse",
+                "instruction": "add a toy mouse",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_008",
+                "image_path": "datasets/images/simple/object_replacement/O_008.jpg",
+                "source_prompt": "Red apples in a wicker basket on a wooden table",
+                "target_prompt": "Red apples on a wooden table",
+                "instruction": "remove the wicker basket",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_009",
+                "image_path": "datasets/images/simple/object_replacement/O_009.jpg",
+                "source_prompt": "A black bear walking in green grass",
+                "target_prompt": "A wolf walking in green grass",
+                "instruction": "replace the bear with a wolf",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_010",
+                "image_path": "datasets/images/simple/object_replacement/O_010.jpg",
+                "source_prompt": "A giraffe standing in a grassy field",
+                "target_prompt": "A giraffe standing in a grassy field with a tall tree",
+                "instruction": "add a tall tree",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_011",
+                "image_path": "datasets/images/simple/object_replacement/O_011.jpg",
+                "source_prompt": "An open book on fabric",
+                "target_prompt": "A tablet on fabric",
+                "instruction": "replace the book with a tablet",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_012",
+                "image_path": "datasets/images/simple/object_replacement/O_012.jpg",
+                "source_prompt": "A cake on a stand",
+                "target_prompt": "A pie on a stand",
+                "instruction": "replace the cake with a pie",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_013",
+                "image_path": "datasets/images/simple/object_replacement/O_013.jpg",
+                "source_prompt": "A banana on a table",
+                "target_prompt": "A cucumber on a table",
+                "instruction": "replace the banana with a cucumber",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_014",
+                "image_path": "datasets/images/simple/object_replacement/O_014.jpg",
+                "source_prompt": "A cat sitting on a blue ledge with trees in the background",
+                "target_prompt": "A dog sitting on a blue ledge with trees in the background",
+                "instruction": "replace the cat with a dog",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_015",
+                "image_path": "datasets/images/simple/object_replacement/O_015.jpg",
+                "source_prompt": "A goat and a cat on a wall by the sea",
+                "target_prompt": "A goat and a rabbit on a wall by the sea",
+                "instruction": "replace the cat with a rabbit",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_016",
+                "image_path": "datasets/images/simple/object_replacement/O_016.jpg",
+                "source_prompt": "A cheese pizza on a metal tray",
+                "target_prompt": "A hamburger on a metal tray",
+                "instruction": "replace the pizza with a hamburger",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_017",
+                "image_path": "datasets/images/simple/object_replacement/O_017.jpg",
+                "source_prompt": "An elephant standing in a field",
+                "target_prompt": "A giraffe standing in a field",
+                "instruction": "replace the elephant with a giraffe",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_018",
+                "image_path": "datasets/images/simple/object_replacement/O_018.jpg",
+                "source_prompt": "A dog standing on a sand dune with a blue sky",
+                "target_prompt": "A cat standing on a sand dune with a blue sky",
+                "instruction": "replace the dog with a cat",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_019",
+                "image_path": "datasets/images/simple/object_replacement/O_019.jpg",
+                "source_prompt": "A cardboard box on a wooden floor next to a knife",
+                "target_prompt": "A cardboard box on a wooden floor next to scissors",
+                "instruction": "replace the knife with scissors",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_020",
+                "image_path": "datasets/images/simple/object_replacement/O_020.jpg",
+                "source_prompt": "A red car driving on a city road",
+                "target_prompt": "A blue truck driving on a city road",
+                "instruction": "replace the car with a truck",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_021",
+                "image_path": "datasets/images/simple/object_replacement/O_021.jpg",
+                "source_prompt": "A white horse in snow",
+                "target_prompt": "A deer in snow",
+                "instruction": "replace the horse with a deer",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_022",
+                "image_path": "datasets/images/simple/object_replacement/O_022.jpg",
+                "source_prompt": "Two parrots on a rope",
+                "target_prompt": "Two owls on a rope",
+                "instruction": "replace the parrots with owls",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_023",
+                "image_path": "datasets/images/simple/object_replacement/O_023.jpg",
+                "source_prompt": "Milk and cookies on a table",
+                "target_prompt": "Orange juice and cookies on a table",
+                "instruction": "replace the milk with orange juice",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_024",
+                "image_path": "datasets/images/simple/object_replacement/O_024.jpg",
+                "source_prompt": "Two dogs in plaid coats on a dock",
+                "target_prompt": "Two cats in plaid coats on a dock",
+                "instruction": "replace the dogs with cats",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_025",
+                "image_path": "datasets/images/simple/object_replacement/O_025.jpg",
+                "source_prompt": "An egg in a nest",
+                "target_prompt": "A blue stone in a nest",
+                "instruction": "replace the egg with a blue stone",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_026",
+                "image_path": "datasets/images/simple/object_replacement/O_026.jpg",
+                "source_prompt": "A pug in a denim jacket",
+                "target_prompt": "A bulldog in a denim jacket",
+                "instruction": "replace the pug with a bulldog",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "O_027",
+                "image_path": "datasets/images/simple/object_replacement/O_027.jpg",
+                "source_prompt": "A deer in a snowy forest next to a campfire",
+                "target_prompt": "A bear in a snowy forest next to a campfire",
+                "instruction": "replace the deer with a bear",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "O_028",
+                "image_path": "datasets/images/simple/object_replacement/O_028.jpg",
+                "source_prompt": "A silhouette of a person riding a bicycle on a city street",
+                "target_prompt": "A silhouette of a person riding a motorcycle on a city street",
+                "instruction": "replace the bicycle with a motorcycle",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "O_029",
+                "image_path": "datasets/images/simple/object_replacement/O_029.jpg",
+                "source_prompt": "A modern living room with a white sofa and a blue landscape painting on the wall",
+                "target_prompt": "A modern living room with a white sofa and a circular clock on the wall",
+                "instruction": "replace the painting with a clock",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "O_030",
+                "image_path": "datasets/images/simple/object_replacement/O_030.jpg",
+                "source_prompt": "A green cavern with floating islands and text THE SOJUJIN",
+                "target_prompt": "A green cavern with floating islands",
+                "instruction": "remove the text",
+                "dataset_source": "InstructPix2Pix"
+            }
+      
+        ],
+
+        
+        "attribute_modification": [
+            {
+                "id": "A_001",
+                "image_path": "datasets/images/simple/attribute_modification/A_001.jpg",
+                "source_prompt": "A german shepherd standing on green grass",
+                "target_prompt": "A black german shepherd standing on green grass",
+                "instruction": "change the fur color to black",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_002",
+                "image_path": "datasets/images/simple/attribute_modification/A_002.jpg",
+                "source_prompt": "A grey metal chair on a wooden deck",
+                "target_prompt": "A grey wooden chair on a wooden deck",
+                "instruction": "change the material to wood",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_003",
+                "image_path": "datasets/images/simple/attribute_modification/A_003.jpg",
+                "source_prompt": "A white cat sitting on dry grass",
+                "target_prompt": "A white cat with blue eyes sitting on dry grass",
+                "instruction": "change the eye color to blue",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_004",
+                "image_path": "datasets/images/simple/attribute_modification/A_004.jpg",
+                "source_prompt": "A kingfisher perched on a branch",
+                "target_prompt": "A kingfisher with metallic feathers perched on a branch",
+                "instruction": "change the feather texture to metallic",
+                "dataset_source": "TedBench"
+            },
+             {
+                "id": "A_005",
+                "image_path": "datasets/images/simple/attribute_modification/A_005.jpg",
+                "source_prompt": "A wooden door with the number 13 on a dark wall",
+                "target_prompt": "A glass door with the number 13 on a dark wall",
+                "instruction": "change the material to glass",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_006",
+                "image_path": "datasets/images/simple/attribute_modification/A_006.jpg",
+                "source_prompt": "An orange cat sitting on a pink background",
+                "target_prompt": "A black cat sitting on a pink background",
+                "instruction": "change the fur color to black",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_007",
+                "image_path": "datasets/images/simple/attribute_modification/A_007.jpg",
+                "source_prompt": "Red apples in a wicker basket on a wooden table",
+                "target_prompt": "Red apples in a metal basket on a wooden table",
+                "instruction": "change the basket material to metal",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_008",
+                "image_path": "datasets/images/simple/attribute_modification/A_008.jpg",
+                "source_prompt": "A black bear walking in green grass",
+                "target_prompt": "A black bear with wet fur walking in green grass",
+                "instruction": "change the fur texture to wet",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_009",
+                "image_path": "datasets/images/simple/attribute_modification/A_009.jpg",
+                "source_prompt": "A giraffe standing in a grassy field",
+                "target_prompt": "A blue spotted giraffe standing in a grassy field",
+                "instruction": "change the spot color to blue",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_010",
+                "image_path": "datasets/images/simple/attribute_modification/A_010.jpg",
+                "source_prompt": "A tan bear on a ledge",
+                "target_prompt": "A white bear on a ledge",
+                "instruction": "change the bear to white",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_011",
+                "image_path": "datasets/images/simple/attribute_modification/A_011.jpg",
+                "source_prompt": "A chocolate cake",
+                "target_prompt": "A vanilla cake",
+                "instruction": "change the cake to vanilla",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_012",
+                "image_path": "datasets/images/simple/attribute_modification/A_012.jpg",
+                "source_prompt": "A green tennis ball on a court",
+                "target_prompt": "A red tennis ball on a court",
+                "instruction": "change the ball to red",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_013",
+                "image_path": "datasets/images/simple/attribute_modification/A_013.jpg",
+                "source_prompt": "A yellow banana on a table",
+                "target_prompt": "A green banana on a table",
+                "instruction": "change the banana to green",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_014",
+                "image_path": "datasets/images/simple/attribute_modification/A_014.jpg",
+                "source_prompt": "An orange cat sitting on a ledge",
+                "target_prompt": "A grey cat sitting on a ledge",
+                "instruction": "change the cat to grey",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_015",
+                "image_path": "datasets/images/simple/attribute_modification/A_015.jpg",
+                "source_prompt": "A cobblestone street between buildings",
+                "target_prompt": "An asphalt street between buildings",
+                "instruction": "change the street material to asphalt",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_016",
+                "image_path": "datasets/images/simple/attribute_modification/A_016.jpg",
+                "source_prompt": "A red car driving on a city road",
+                "target_prompt": "A blue car driving on a city road",
+                "instruction": "change the car color to blue",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_017",
+                "image_path": "datasets/images/simple/attribute_modification/A_017.jpg",
+                "source_prompt": "A dog standing on a sand dune wearing a collar",
+                "target_prompt": "A dog standing on a sand dune wearing a red collar",
+                "instruction": "change the collar to red",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_018",
+                "image_path": "datasets/images/simple/attribute_modification/A_018.jpg",
+                "source_prompt": "A grey cat sitting on a wooden shelf",
+                "target_prompt": "A ginger cat sitting on a wooden shelf",
+                "instruction": "change the cat to ginger",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_019",
+                "image_path": "datasets/images/simple/attribute_modification/A_019.jpg",
+                "source_prompt": "A cardboard box on a wooden floor",
+                "target_prompt": "A white box on a wooden floor",
+                "instruction": "change the box to white",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_020",
+                "image_path": "datasets/images/simple/attribute_modification/A_020.jpg",
+                "source_prompt": "A white horse in snow",
+                "target_prompt": "A brown horse in snow",
+                "instruction": "change the horse to brown",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_021",
+                "image_path": "datasets/images/simple/attribute_modification/A_021.jpg",
+                "source_prompt": "Two parrots on a rope",
+                "target_prompt": "Two parrots on a chain",
+                "instruction": "change the rope to a chain",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_022",
+                "image_path": "datasets/images/simple/attribute_modification/A_022.jpg",
+                "source_prompt": "Milk and chocolate cookies on a table",
+                "target_prompt": "Milk and sugar cookies on a table",
+                "instruction": "change the chocolate cookies to sugar cookies",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_023",
+                "image_path": "datasets/images/simple/attribute_modification/A_023.jpg",
+                "source_prompt": "Two dogs in red plaid coats",
+                "target_prompt": "Two dogs in blue plaid coats",
+                "instruction": "change the coats to blue",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_024",
+                "image_path": "datasets/images/simple/attribute_modification/A_024.jpg",
+                "source_prompt": "A brown egg in a nest",
+                "target_prompt": "A white egg in a nest",
+                "instruction": "change the egg to white",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_025",
+                "image_path": "datasets/images/simple/attribute_modification/A_025.jpg",
+                "source_prompt": "A dog in a denim jacket",
+                "target_prompt": "A dog in a leather jacket",
+                "instruction": "change the jacket to leather",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "A_026",
+                "image_path": "datasets/images/simple/attribute_modification/A_026.jpg",
+                "source_prompt": "A landscape with a brown grassy field and blue mountains",
+                "target_prompt": "A landscape with a green grassy field and blue mountains",
+                "instruction": "change the field to green",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_027",
+                "image_path": "datasets/images/simple/attribute_modification/A_027.jpg",
+                "source_prompt": "Green trees with yellow foliage reflecting in a lake in front of a mountain",
+                "target_prompt": "Green trees with red foliage reflecting in a lake in front of a mountain",
+                "instruction": "change the yellow foliage to red",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_028",
+                "image_path": "datasets/images/simple/attribute_modification/A_028.jpg",
+                "source_prompt": "An oil painting of a woman with long brown hair and red lipstick",
+                "target_prompt": "An oil painting of a woman with long blonde hair and red lipstick",
+                "instruction": "change the hair to blonde",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_029",
+                "image_path": "datasets/images/simple/attribute_modification/A_029.jpg",
+                "source_prompt": "A modern living room with a white sofa",
+                "target_prompt": "A modern living room with a black sofa",
+                "instruction": "change the sofa to black",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "A_030",
+                "image_path": "datasets/images/simple/attribute_modification/A_030.jpg",
+                "source_prompt": "A stylized illustration of green hills and a blue ocean",
+                "target_prompt": "A stylized illustration of snow-covered hills and a blue ocean",
+                "instruction": "change the hills to snow-covered",
+                "dataset_source": "InstructPix2Pix"
+            }
+
+        ],
+
+        
+        "non_rigid_action": [
+            {
+                "id": "N_001",
+                "image_path": "datasets/images/simple/non_rigid_action/N_001.jpg",
+                "source_prompt": "A german shepherd standing on green grass",
+                "target_prompt": "A german shepherd sitting on green grass",
+                "instruction": "make the dog sit",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_002",
+                "image_path": "datasets/images/simple/non_rigid_action/N_002.jpg",
+                "source_prompt": "A white horse running in a field",
+                "target_prompt": "A white horse standing in a field",
+                "instruction": "make the horse stand still",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_003",
+                "image_path": "datasets/images/simple/non_rigid_action/N_003.jpg",
+                "source_prompt": "A kingfisher perched on a branch",
+                "target_prompt": "A kingfisher flying near a branch",
+                "instruction": "make the bird fly",
+                "dataset_source": "TedBench"
+            },
+             {
+                "id": "N_004",
+                "image_path": "datasets/images/simple/non_rigid_action/N_004.jpg",
+                "source_prompt": "A wooden door with the number 13 on a dark wall",
+                "target_prompt": "An open wooden door with the number 13 on a dark wall",
+                "instruction": "make the door open",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_005",
+                "image_path": "datasets/images/simple/non_rigid_action/N_005.jpg",
+                "source_prompt": "An orange cat sitting on a pink background",
+                "target_prompt": "An orange cat lying on a pink background",
+                "instruction": "make the cat lie down",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_006",
+                "image_path": "datasets/images/simple/non_rigid_action/N_006.jpg",
+                "source_prompt": "A black bear walking in green grass",
+                "target_prompt": "A black bear sitting in green grass",
+                "instruction": "make the bear sit",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_007",
+                "image_path": "datasets/images/simple/non_rigid_action/N_007.jpg",
+                "source_prompt": "A teddy bear sitting on a ledge",
+                "target_prompt": "A teddy bear standing on a ledge",
+                "instruction": "make the teddy bear stand",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_008",
+                "image_path": "datasets/images/simple/non_rigid_action/N_008.jpg",
+                "source_prompt": "An open book on fabric",
+                "target_prompt": "A closed book on fabric",
+                "instruction": "close the book",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_009",
+                "image_path": "datasets/images/simple/non_rigid_action/N_009.jpg",
+                "source_prompt": "A cat sitting on a ledge with eyes open",
+                "target_prompt": "A cat sitting on a ledge with eyes closed",
+                "instruction": "make the cat close its eyes",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_010",
+                "image_path": "datasets/images/simple/non_rigid_action/N_010.jpg",
+                "source_prompt": "An elephant with its trunk down",
+                "target_prompt": "An elephant with its trunk raised",
+                "instruction": "make the elephant raise its trunk",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_011",
+                "image_path": "datasets/images/simple/non_rigid_action/N_011.jpg",
+                "source_prompt": "A banana on a wooden table",
+                "target_prompt": "A peeled banana on a wooden table",
+                "instruction": "peel the banana",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_012",
+                "image_path": "datasets/images/simple/non_rigid_action/N_012.jpg",
+                "source_prompt": "A horse lower its head in marshland",
+                "target_prompt": "A horse raise its head in marshland",
+                "instruction": "make the horse raise its head",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_013",
+                "image_path": "datasets/images/simple/non_rigid_action/N_013.jpg",
+                "source_prompt": "A flamingo in shallow water",
+                "target_prompt": "A flamingo flapping wings in shallow water",
+                "instruction": "make the flamingo flap its wings",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_014",
+                "image_path": "datasets/images/simple/non_rigid_action/N_014.jpg",
+                "source_prompt": "Flowers in a glass pitcher",
+                "target_prompt": "Wilted flowers in a glass pitcher",
+                "instruction": "make the flowers wilted",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_015",
+                "image_path": "datasets/images/simple/non_rigid_action/N_015.jpg",
+                "source_prompt": "A dog standing on a sand dune",
+                "target_prompt": "A dog sitting on a sand dune",
+                "instruction": "make the dog sit",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_016",
+                "image_path": "datasets/images/simple/non_rigid_action/N_016.jpg",
+                "source_prompt": "A grey cat sitting on a wooden shelf",
+                "target_prompt": "A grey cat lying on a wooden shelf",
+                "instruction": "make the cat lie down",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_017",
+                "image_path": "datasets/images/simple/non_rigid_action/N_017.jpg",
+                "source_prompt": "A horse running in snow",
+                "target_prompt": "A horse standing in snow",
+                "instruction": "make the horse stand still",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_018",
+                "image_path": "datasets/images/simple/non_rigid_action/N_018.jpg",
+                "source_prompt": "Two parrots on a rope",
+                "target_prompt": "Two parrots flying above a rope",
+                "instruction": "make the parrots fly",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_019",
+                "image_path": "datasets/images/simple/non_rigid_action/N_019.jpg",
+                "source_prompt": "Two dogs sitting on a dock",
+                "target_prompt": "Two dogs lying on a dock",
+                "instruction": "make the dogs lie down",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_020",
+                "image_path": "datasets/images/simple/non_rigid_action/N_020.jpg",
+                "source_prompt": "A dog with eyes open",
+                "target_prompt": "A dog with eyes closed",
+                "instruction": "make the dog close its eyes",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "N_021",
+                "image_path": "datasets/images/simple/non_rigid_action/N_021.jpg",
+                "source_prompt": "A portrait of a woman looking to the side",
+                "target_prompt": "A portrait of a woman looking at the camera",
+                "instruction": "make her look at the camera",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_022",
+                "image_path": "datasets/images/simple/non_rigid_action/N_022.jpg",
+                "source_prompt": "A portrait of a woman with a neutral expression",
+                "target_prompt": "A portrait of a woman with a happy smile",
+                "instruction": "make her smile",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_023",
+                "image_path": "datasets/images/simple/non_rigid_action/N_023.jpg",
+                "source_prompt": "An oil painting of a woman with eyes open",
+                "target_prompt": "An oil painting of a woman with eyes closed",
+                "instruction": "make her close her eyes",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_024",
+                "image_path": "datasets/images/simple/non_rigid_action/N_024.jpg",
+                "source_prompt": "A woman with eyes closed",
+                "target_prompt": "A woman with eyes open",
+                "instruction": "make her open her eyes",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_025",
+                "image_path": "datasets/images/simple/non_rigid_action/N_025.jpg",
+                "source_prompt": "A woman with a neutral expression",
+                "target_prompt": "A woman with a smile",
+                "instruction": "make her smile",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_026",
+                "image_path": "datasets/images/simple/non_rigid_action/N_026.jpg",
+                "source_prompt": "A man smiling against a brown background",
+                "target_prompt": "A man winking against a brown background",
+                "instruction": "make him wink",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_027",
+                "image_path": "datasets/images/simple/non_rigid_action/N_027.jpg",
+                "source_prompt": "A bird standing on a textured ground",
+                "target_prompt": "A bird with its wings spread on a textured ground",
+                "instruction": "make the bird spread its wings",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_028",
+                "image_path": "datasets/images/simple/non_rigid_action/N_028.jpg",
+                "source_prompt": "A girl with eyes open in a field",
+                "target_prompt": "A girl with eyes closed in a field",
+                "instruction": "make her close her eyes",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_029",
+                "image_path": "datasets/images/simple/non_rigid_action/N_029.jpg",
+                "source_prompt": "A woman with red hair and blue eyes with her eyes open",
+                "target_prompt": "A woman with red hair and blue eyes with her eyes closed",
+                "instruction": "make her close her eyes",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "N_030",
+                "image_path": "datasets/images/simple/non_rigid_action/N_030.jpg",
+                "source_prompt": "A silhouette of a woman looking out a window at the sea",
+                "target_prompt": "A silhouette of a woman raising her hand while looking out a window at the sea",
+                "instruction": "make her raise her hand",
+                "dataset_source": "InstructPix2Pix"
+            }
+        ],
+
+        
+        "style_transfer": [
+            {
+                "id": "S_001",
+                "image_path": "datasets/images/simple/style_transfer/S_001.jpg",
+                "source_prompt": "A grey metal chair on a wooden deck",
+                "target_prompt": "A sketch of a grey metal chair on a wooden deck",
+                "instruction": "change the style to a sketch",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_002",
+                "image_path": "datasets/images/simple/style_transfer/S_002.jpg",
+                "source_prompt": "A white horse running in a field",
+                "target_prompt": "A white horse running in a snowy field",
+                "instruction": "change the season to winter",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_003",
+                "image_path": "datasets/images/simple/style_transfer/S_003.jpg",
+                "source_prompt": "An open book on fabric",
+                "target_prompt": "An open book on fabric in candlelight",
+                "instruction": "add candlelight",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_004",
+                "image_path": "datasets/images/simple/style_transfer/S_004.jpg",
+                "source_prompt": "A street between buildings",
+                "target_prompt": "A street between buildings at night",
+                "instruction": "change the time to night",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_005",
+                "image_path": "datasets/images/simple/style_transfer/S_005.jpg",
+                "source_prompt": "An elephant in a field",
+                "target_prompt": "An elephant in a field covered in snow",
+                "instruction": "add snow to the field",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_006",
+                "image_path": "datasets/images/simple/style_transfer/S_006.jpg",
+                "source_prompt": "A ginger cat sitting on a ledge",
+                "target_prompt": "A pencil sketch of a ginger cat sitting on a ledge",
+                "instruction": "make it a pencil sketch",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_007",
+                "image_path": "datasets/images/simple/style_transfer/S_007.jpg",
+                "source_prompt": "A banana on a table",
+                "target_prompt": "An oil painting of a banana on a table",
+                "instruction": "make it an oil painting",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_008",
+                "image_path": "datasets/images/simple/style_transfer/S_021.jpg",
+                "source_prompt": "A goat and a cat on a wall",
+                "target_prompt": "A watercolor painting of a goat and a cat on a wall",
+                "instruction": "make it a watercolor painting",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_009",
+                "image_path": "datasets/images/simple/style_transfer/S_009.jpg",
+                "source_prompt": "A street between buildings",
+                "target_prompt": "A street between buildings at sunset",
+                "instruction": "change the time to sunset",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_010",
+                "image_path": "datasets/images/simple/style_transfer/S_010.jpg",
+                "source_prompt": "A horse in marshland",
+                "target_prompt": "A horse in marshland during a foggy morning",
+                "instruction": "add thick fog",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_011",
+                "image_path": "datasets/images/simple/style_transfer/S_011.jpg",
+                "source_prompt": "A person in a black t-shirt",
+                "target_prompt": "A pencil sketch of a person in a black t-shirt",
+                "instruction": "make it a pencil sketch",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_012",
+                "image_path": "datasets/images/simple/style_transfer/S_012.jpg",
+                "source_prompt": "A tree in a field",
+                "target_prompt": "A tree in a field during golden hour",
+                "instruction": "change the lighting to golden hour",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_013",
+                "image_path": "datasets/images/simple/style_transfer/S_013.jpg",
+                "source_prompt": "Flowers in a glass pitcher",
+                "target_prompt": "A charcoal sketch of flowers in a glass pitcher",
+                "instruction": "make it a charcoal sketch",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_014",
+                "image_path": "datasets/images/simple/style_transfer/S_014.jpg",
+                "source_prompt": "A ginger cat sitting on a ledge",
+                "target_prompt": "A cartoon illustration of a ginger cat sitting on a ledge",
+                "instruction": "make it a cartoon illustration",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_015",
+                "image_path": "datasets/images/simple/style_transfer/S_015.jpg",
+                "source_prompt": "A highway under a cloudy sky",
+                "target_prompt": "A highway covered in snow under a cloudy sky",
+                "instruction": "add snow to the scene",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_016",
+                "image_path": "datasets/images/simple/style_transfer/S_016.jpg",
+                "source_prompt": "A red car driving on a city road",
+                "target_prompt": "A red car driving on a city road in the rain",
+                "instruction": "add rain to the scene",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_017",
+                "image_path": "datasets/images/simple/style_transfer/S_017.jpg",
+                "source_prompt": "A highway under a cloudy sky",
+                "target_prompt": "A highway under a starry night sky",
+                "instruction": "change the time to night",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_018",
+                "image_path": "datasets/images/simple/style_transfer/S_018.jpg",
+                "source_prompt": "Two parrots on a rope",
+                "target_prompt": "An oil painting of two parrots on a rope",
+                "instruction": "make it an oil painting",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_019",
+                "image_path": "datasets/images/simple/style_transfer/S_019.jpg",
+                "source_prompt": "Two dogs on a dock",
+                "target_prompt": "Two dogs on a dock in the snow",
+                "instruction": "add snow",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_020",
+                "image_path": "datasets/images/simple/style_transfer/S_020.jpg",
+                "source_prompt": "An egg in a nest",
+                "target_prompt": "An oil painting of an egg in a nest",
+                "instruction": "make it an oil painting",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_021",
+                "image_path": "datasets/images/simple/style_transfer/S_021.jpg",
+                "source_prompt": "A dog in a jacket",
+                "target_prompt": "A pencil sketch of a dog in a jacket",
+                "instruction": "make it a pencil sketch",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "S_022",
+                "image_path": "datasets/images/simple/style_transfer/S_022.jpg",
+                "source_prompt": "A landscape with mountains and a field",
+                "target_prompt": "An oil painting of a landscape with mountains and a field",
+                "instruction": "make it an oil painting",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_023",
+                "image_path": "datasets/images/simple/style_transfer/S_023.jpg",
+                "source_prompt": "A silhouette of a person on a bicycle",
+                "target_prompt": "A silhouette of a person on a bicycle in heavy rain",
+                "instruction": "add heavy rain",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_024",
+                "image_path": "datasets/images/simple/style_transfer/S_024.jpg",
+                "source_prompt": "A landscape with trees and a lake",
+                "target_prompt": "A landscape with trees and a lake under a starry night sky",
+                "instruction": "change the time to night",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_025",
+                "image_path": "datasets/images/simple/style_transfer/S_025.jpg",
+                "source_prompt": "A stylized illustration of a green cavern with floating islands",
+                "target_prompt": "A realistic photograph of a green cavern with floating islands",
+                "instruction": "make it a realistic photograph",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_026",
+                "image_path": "datasets/images/simple/style_transfer/S_026.jpg",
+                "source_prompt": "A mountain landscape with a dark path",
+                "target_prompt": "A mountain landscape with a dark path in a watercolor style",
+                "instruction": "make it a watercolor painting",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_027",
+                "image_path": "datasets/images/simple/style_transfer/S_027.jpg",
+                "source_prompt": "A mountain landscape",
+                "target_prompt": "A watercolor painting of a mountain landscape",
+                "instruction": "make it a watercolor painting",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_028",
+                "image_path": "datasets/images/simple/style_transfer/S_028.jpg",
+                "source_prompt": "Blocks of cheese on a wooden board",
+                "target_prompt": "A classical oil painting of cheese on a wooden board",
+                "instruction": "make it an oil painting",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_029",
+                "image_path": "datasets/images/simple/style_transfer/S_029.jpg",
+                "source_prompt": "An illustration of modern buildings and yellow hedges along a road",
+                "target_prompt": "A realistic photograph of modern buildings and yellow hedges along a road",
+                "instruction": "make it a realistic photograph",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "S_030",
+                "image_path": "datasets/images/simple/style_transfer/S_030.jpg",
+                "source_prompt": "A weathered grey barn under a cloudy sky",
+                "target_prompt": "A watercolor painting of a weathered grey barn under a cloudy sky",
+                "instruction": "make it a watercolor painting",
+                "dataset_source": "InstructPix2Pix"
+            }
+        ],
+
+        
+        "reasoning": [
+            {
+                "id": "R_001",
+                "image_path": "datasets/images/simple/reasoning/R_001.jpg",
+                "source_prompt": "A banana on a table",
+                "target_prompt": "A fruit that keeps the doctor away on a table",
+                "instruction": "replace the banana with a fruit that keeps the doctor away",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_002",
+                "image_path": "datasets/images/simple/reasoning/R_002.jpg",
+                "source_prompt": "A metal chair on a patio",
+                "target_prompt": "A comfortable piece of furniture meant for sleeping on a patio",
+                "instruction": "replace the chair with a piece of furniture meant for sleeping",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_003",
+                "image_path": "datasets/images/simple/reasoning/R_003.jpg",
+                "source_prompt": "A white horse running in a field",
+                "target_prompt": "A white horse running in a field during the coldest season of the year",
+                "instruction": "change the season to the coldest time of the year",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_004",
+                "image_path": "datasets/images/simple/reasoning/R_004.jpg",
+                "source_prompt": "A man in a black t-shirt",
+                "target_prompt": "A man wearing attire suitable for a freezing winter expedition",
+                "instruction": "dress the man for a freezing winter expedition",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_005",
+                "image_path": "datasets/images/simple/reasoning/R_005.jpg",
+                "source_prompt": "A cobblestone street between buildings",
+                "target_prompt": "A cobblestone street between buildings heavily flooded after a severe hurricane",
+                "instruction": "show the street after a severe hurricane",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_006",
+                "image_path": "datasets/images/simple/reasoning/R_006.jpg",
+                "source_prompt": "An elephant in a dry field",
+                "target_prompt": "An elephant in a dry field next to a vehicle typically used for African safaris",
+                "instruction": "add a vehicle typically used for African safaris",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_007",
+                "image_path": "datasets/images/simple/reasoning/R_007.jpg",
+                "source_prompt": "A horse grazing in marshland",
+                "target_prompt": "A horse grazing in an environment completely devoid of water and vegetation",
+                "instruction": "change the environment to one completely devoid of water and vegetation",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_008",
+                "image_path": "datasets/images/simple/reasoning/R_008.jpg",
+                "source_prompt": "A chocolate cake on a stand",
+                "target_prompt": "A chocolate cake on a stand with items lit to celebrate a birth anniversary",
+                "instruction": "add items lit to celebrate a birth anniversary",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_009",
+                "image_path": "datasets/images/simple/reasoning/R_009.jpg",
+                "source_prompt": "A tennis ball on a blue court",
+                "target_prompt": "A tennis ball on a blue court next to the piece of equipment used to hit it",
+                "instruction": "add the equipment used to hit the ball",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_010",
+                "image_path": "datasets/images/simple/reasoning/R_010.jpg",
+                "source_prompt": "Fresh flowers in a clear glass pitcher on a table",
+                "target_prompt": "Flowers suffering from severe dehydration after not having water in weeks in a clear glass pitcher on a table",
+                "instruction": "make the flowers look like they haven't had water in weeks",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_011",
+                "image_path": "datasets/images/simple/reasoning/R_011.jpg",
+                "source_prompt": "A black pug wearing a blue denim jacket",
+                "target_prompt": "A black pug wearing a high-visibility protective coat traditionally worn by firefighters",
+                "instruction": "change the jacket to a protective coat traditionally worn by firefighters",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_012",
+                "image_path": "datasets/images/simple/reasoning/R_012.jpg",
+                "source_prompt": "A Shiba Inu dog standing on a sandy beach",
+                "target_prompt": "A large rodent famous for building wooden dams standing on a sandy beach",
+                "instruction": "replace the dog with a large rodent famous for building wooden dams",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_013",
+                "image_path": "datasets/images/simple/reasoning/R_013.jpg",
+                "source_prompt": "Two dogs wearing red plaid coats sitting on a wooden dock",
+                "target_prompt": "Two common feline pets that traditionally chase mice wearing red plaid coats sitting on a wooden dock",
+                "instruction": "replace the dogs with common feline pets that traditionally chase mice",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_014",
+                "image_path": "datasets/images/simple/reasoning/R_014.jpg",
+                "source_prompt": "A black and white portrait of a woman",
+                "target_prompt": "A black and white portrait of a woman wearing a visual aid device typically used to correct nearsightedness",
+                "instruction": "add a visual aid device typically used to correct nearsightedness",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_015",
+                "image_path": "datasets/images/simple/reasoning/R_015.jpg",
+                "source_prompt": "A white goat and a calico cat sitting on a stone wall by the water",
+                "target_prompt": "A white goat and a domesticated animal that naturally barks sitting on a stone wall by the water",
+                "instruction": "replace the cat with a domesticated animal that naturally barks",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_016",
+                "image_path": "datasets/images/simple/reasoning/R_016.jpg",
+                "source_prompt": "An old, weathered grey barn standing in a field",
+                "target_prompt": "An old, weathered grey barn standing in a field covered by the aftermath of a heavy winter blizzard",
+                "instruction": "change the environment to the aftermath of a heavy winter blizzard",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_017",
+                "image_path": "datasets/images/simple/reasoning/R_017.jpg",
+                "source_prompt": "An illustration of a girl riding a blue motor scooter",
+                "target_prompt": "An illustration of a girl riding a blue motor scooter wearing the protective headgear legally required for riders",
+                "instruction": "add the protective headgear legally required for riders",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_018",
+                "image_path": "datasets/images/simple/reasoning/R_018.jpg",
+                "source_prompt": "A deer in a snowy forest next to a campfire",
+                "target_prompt": "A large furry mammal that traditionally hibernates during the winter in a snowy forest next to a campfire",
+                "instruction": "replace the deer with a large furry mammal that traditionally hibernates during the winter",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_019",
+                "image_path": "datasets/images/simple/reasoning/R_019.jpg",
+                "source_prompt": "A silhouette of a person riding a bicycle on a city street",
+                "target_prompt": "A silhouette of a person riding a two-wheeled vehicle powered by a loud combustion engine on a city street",
+                "instruction": "change the bicycle to a two-wheeled vehicle powered by a loud combustion engine",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_020",
+                "image_path": "datasets/images/simple/reasoning/R_020.jpg",
+                "source_prompt": "Yellow trees and a mountain reflecting in a lake",
+                "target_prompt": "Trees with foliage displaying vibrant shades of red and orange characteristic of deep autumn and a mountain reflecting in a lake",
+                "instruction": "change the foliage to display vibrant shades of red and orange characteristic of deep autumn",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_021",
+                "image_path": "datasets/images/simple/reasoning/R_021.jpg",
+                "source_prompt": "A black and white portrait of a woman",
+                "target_prompt": "A portrait of a woman fully restored to its natural, fully saturated color palette",
+                "instruction": "restore the image to its natural, fully saturated color palette",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_022",
+                "image_path": "datasets/images/simple/reasoning/R_022.jpg",
+                "source_prompt": "A portrait of an elderly woman with white hair wearing a blue dress",
+                "target_prompt": "A portrait of an elderly woman with white hair wearing attire appropriate for a formal mourning ceremony",
+                "instruction": "dress the woman in attire appropriate for a formal mourning ceremony",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_023",
+                "image_path": "datasets/images/simple/reasoning/R_023.jpg",
+                "source_prompt": "A jagged mountain peak illuminated by warm light",
+                "target_prompt": "A geological structure actively erupting with boiling lava illuminated by warm light",
+                "instruction": "transform the mountain into a geological structure actively erupting with boiling lava",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_024",
+                "image_path": "datasets/images/simple/reasoning/R_024.jpg",
+                "source_prompt": "A sunset over water with a long wooden pier and silhouettes of huts",
+                "target_prompt": "A severe and destructive approaching tropical cyclone over water with a long wooden pier and silhouettes of huts",
+                "instruction": "change the weather to a severe and destructive approaching tropical cyclone",
+                "dataset_source": "InstructPix2Pix"
+            },
+            {
+                "id": "R_025",
+                "image_path": "datasets/images/simple/reasoning/R_025.jpg",
+                "source_prompt": "A glass of milk and chocolate cookies on a wooden table",
+                "target_prompt": "A glass of milk and a healthy green vegetable often used in salads on a wooden table",
+                "instruction": "replace the cookies with a healthy green vegetable often used in salads",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_026",
+                "image_path": "datasets/images/simple/reasoning/R_026.jpg",
+                "source_prompt": "A brown egg sitting in a nest surrounded by green branches",
+                "target_prompt": "The living creature that naturally hatches from this object sitting in a nest surrounded by green branches",
+                "instruction": "show the living creature that naturally hatches from this object",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_027",
+                "image_path": "datasets/images/simple/reasoning/R_027.jpg",
+                "source_prompt": "An elephant standing on a dirt path in a dry savanna",
+                "target_prompt": "An elephant standing on a dirt path in its natural habitat during a heavy monsoon season",
+                "instruction": "change the setting to the animal's natural habitat during a heavy monsoon season",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_028",
+                "image_path": "datasets/images/simple/reasoning/R_028.jpg",
+                "source_prompt": "A cardboard box on a wooden floor next to a knife",
+                "target_prompt": "A cardboard box on a wooden floor next to a tool designed specifically for driving nails",
+                "instruction": "replace the knife with a tool designed specifically for driving nails",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_029",
+                "image_path": "datasets/images/simple/reasoning/R_029.jpg",
+                "source_prompt": "A red convertible car driving on a city road",
+                "target_prompt": "A red convertible car that looks like it has been abandoned and rusting for decades sitting on a city road",
+                "instruction": "make the car look like it has been abandoned and rusting for decades",
+                "dataset_source": "TedBench"
+            },
+            {
+                "id": "R_030",
+                "image_path": "datasets/images/simple/reasoning/R_030.jpg",
+                "source_prompt": "A man wearing a black t-shirt standing outdoors",
+                "target_prompt": "A man wearing attire appropriate for a formal corporate job interview standing outdoors",
+                "instruction": "dress the man appropriately for a formal corporate job interview",
+                "dataset_source": "TedBench"
+            }
+            
+        ]
+    }
+}
