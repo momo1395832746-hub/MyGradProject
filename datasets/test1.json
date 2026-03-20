@@ -1,0 +1,61 @@
+{
+    "complex": {
+        "object_replacement": [
+            {
+                "id": "O_001",
+                "image_path": "datasets/images/complex/object_replacement/O_001.jpg",
+                "source_prompt": "A table setting on a red carpet in a living room",
+                "target_prompt": "A dog setting on a red carpet in a living room",
+                "instruction": "change the table for a dog",
+                "dataset_source": "MagicBrush"
+            }
+
+        ],
+        "attribute_modification": [
+            {
+                "id": "A_001",
+                "image_path": "datasets/images/complex/attribute_modification/A_001.jpg",
+                "source_prompt": "A woman wearing a blue tank top making a pizza on a kitchen counter",
+                "target_prompt": "A woman wearing a red tank top making a pizza on a kitchen counter",
+                "instruction": "change the tank top to red",
+                "dataset_source": "MagicBrush"
+            }
+
+        ],
+        "non_rigid_action": [
+
+        ],
+        "style_transfer": [
+
+        ],
+        "reasoning": [
+
+        ]
+    },
+    "simple": {
+        "object_replacement": [
+
+            {
+                "id": "O_002",
+                "image_path": "datasets/images/simple/object_replacement/O_002.jpg",
+                "source_prompt": "A banana on a wooden desktop",
+                "target_prompt": "Two bananas on a wooden desktop",
+                "instruction": "Add a banana beside the old one.",
+                "dataset_source": "TEDBench"
+            }
+
+        ],
+        "attribute_modification": [
+
+        ],
+        "non_rigid_action": [
+
+        ],
+        "style_transfer": [
+
+        ],
+        "reasoning": [
+
+        ]
+    }
+}
