@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% 核心系统
     SYS["毕业设计：图像编辑评测与对比平台<br>(Image Editing Arena)"] 
