@@ -1,0 +1,42 @@
+{
+    "model_name": "ptp",
+    "global_summary": {
+        "overall_avg_LPIPS↓": 0.0,
+        "overall_avg_CLIP↑": 0.2957,
+        "total_images": 1
+    },
+    "category_summary": {
+        "object_replacement": {
+            "avg_LPIPS↓": 0.0,
+            "avg_CLIP↑": 0.2957,
+            "count": 1
+        },
+        "attribute_modification": {
+            "count": 0
+        },
+        "non_rigid_action": {
+            "count": 0
+        },
+        "style_transfer": {
+            "count": 0
+        },
+        "reasoning": {
+            "count": 0
+        }
+    },
+    "detailed_results": {
+        "object_replacement": [
+            {
+                "id": "O_001",
+                "metrics": {
+                    "LPIPS↓": 0.0,
+                    "CLIP_Score↑": 0.2957
+                }
+            }
+        ],
+        "attribute_modification": [],
+        "non_rigid_action": [],
+        "style_transfer": [],
+        "reasoning": []
+    }
+}
