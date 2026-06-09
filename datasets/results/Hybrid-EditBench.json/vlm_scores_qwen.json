@@ -1,0 +1,2410 @@
+{
+    "complex_object_replacement_O_001": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model flawlessly executed the transformation of bats to baguettes with realistic texture and alignment, while preserving the surrounding pens and paper structure, though the text on the documents shows minor regeneration artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_002": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the traffic light with a street lamp, but the new object appears slightly sharper and higher contrast than the rest of the scene, indicating a minor realism mismatch.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_003": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the pens with a realistic bouquet of flowers while maintaining the exact appearance of the cup, the blue object on the left, and the background.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_004": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the frisbee with a bone, although the bone appears slightly too smooth and artificial compared to the realistic scene; the dogs and background remain perfectly preserved.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_005": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the pile of yellow wrappers with a realistic pile of gold coins while maintaining the exact geometry of the container and preserving all background elements (laptop, phone, fabric) without any visible distortion or artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_006": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the white kettle with a realistic silver pot while maintaining pixel-perfect preservation of all surrounding objects and background details.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_007": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the coleslaw with realistic french fries while preserving the sandwich, garnish, and background without any visible artifacts or distortions.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_008": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the radishes with a realistic cluster of tomatoes on the vine while maintaining the exact appearance and position of all surrounding vegetables and the background.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the traditional ship with a realistic modern yacht while maintaining the complex city skyline and background details with pixel-perfect preservation.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_010": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the decorated donuts with plain bagel-like rings, maintaining the correct shape and position, while perfectly preserving the children's hands, clothing, and the background details without any visible artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_011": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the instruction by replacing the baseball caps with realistic cowboy hats while preserving the players' identities and uniforms, although minor artifacts and text distortion are visible on the background signs.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_012": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by transforming the elephant into a realistic camel while preserving the wooden seat structure, blue harness, basket, and the entire background environment without any visible artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_013": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the white bottle with a realistic-looking dish soap bottle, though the label text is gibberish; all surrounding objects and the background remain perfectly preserved.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_014": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the orange slice with a realistic strawberry while maintaining the exact appearance of the cake, cream, plate decorations, and background without any visible artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_015": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added two realistic red apples to the top shelf while perfectly preserving the original pile of bananas and the background context without any visible artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_016": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a realistic blue baseball cap that fits the subject's head perfectly while preserving the original facial features, pizza, and background details without any visible artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_017": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully removed the target soup bowl in the top right corner, seamlessly inpainting the area with consistent table and background textures while perfectly preserving all other dishes and the collage layout.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_018": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The hot air balloon is successfully added but exhibits slightly mismatched lighting and sharpness compared to the hazy, overcast original scene, while the background and existing objects remain largely preserved with only minor texture smoothing.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_019": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The target plane was successfully removed and foreground objects are perfectly preserved, but the background terminal roof and light poles exhibit noticeable distortion and structural artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_020": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly removed all toiletries and their reflections while maintaining the structural integrity and pixel-perfect appearance of the background, mirror, and fixtures.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_021": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a realistic-looking pickle to the salad area while perfectly preserving the sandwich, chips, and background elements without any visible artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_022": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The bowl of rice was successfully removed, but the editing process also removed or displaced the pens and chopsticks located immediately behind and beside the bowl, failing to preserve those specific surrounding objects.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_023": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly added a realistic cluster of tomatoes in the foreground while perfectly preserving the original vegetables, packaging, and background scene without any distortion or artifacts.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The officer and his shadow were completely removed with seamless inpainting of the road and the truck parts behind him, while all other objects and background elements remained perfectly preserved.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_025": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a recognizable mustard bottle with appropriate placement, though the object's texture is slightly cleaner than the grainy source image; all original objects and background details are perfectly preserved without distortion.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_026": {
+        "EQ": 5,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model successfully added a realistic baseball cap, but significantly altered the main subject's facial identity and pose, and introduced noticeable regeneration artifacts on the background person's face.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_027": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly removed the prominent yellow taxi in the foreground while seamlessly reconstructing the road surface and lane markings, leaving all other vehicles and background elements completely intact.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_028": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The bucket is successfully added and recognizable, but lacks realistic shadowing and has slightly higher saturation than the scene, while all other objects and the background remain perfectly preserved.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_029": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The bicycles were successfully removed, but a red menu sign stand located next to them was also inadvertently removed, and the inpainted ground texture appears overly smooth and lacks the detail of the original pavement.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_030": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a bowl of popcorn on a plausible surface while perfectly preserving the identity of the people, the background cat tree, and the original image aesthetic.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_attribute_modification_A_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change from turquoise to red with realistic lighting and shadows, while preserving all other objects and the background without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_002": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The rug was perfectly changed to blue as requested, but the model incorrectly changed the foreground lamp from red to blue as well.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_003": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The nose color was successfully changed to blue, but the model failed to preserve the original red tail color and removed the yellow/black stripes behind the spinner.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_004": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change from red to green on the train while maintaining all structural details, text, and preserving the background, passengers, and station signage without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_005": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the dog's coat to black, although the fur texture appears smoother than the original and a distant paw was left uncolored.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_006": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The van color was successfully changed to blue with good structural preservation, though the text on the hood was garbled and ground reflections were not updated; the main subjects (man, other vehicles) remain intact, while the background tent text exhibits slight blurring.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_007": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the batter's uniform to red while perfectly preserving the background, crowd, and other players without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_008": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change from blue to red on the bedding while preserving the stripe pattern and maintaining pixel-perfect integrity of all other objects and the background environment.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the tablecloth to blue while maintaining the integrity, lighting, and details of all food items, tableware, and the placemat without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_010": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to convincingly render the visual properties of silk (such as sheen or soft drape), leaving the shirt looking like matte cotton or plastic, while the background and other objects remained perfectly preserved.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_011": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the sofa material to leather with realistic specular highlights while perfectly preserving the man, pillows, background furniture, and the outdoor view without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_012": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the wooden table with a realistic glass table, maintaining correct transparency and reflections, while preserving all other objects and the background pixel-perfectly.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by transforming the wooden glass-paned doors into solid metal doors with rivets, while maintaining pixel-perfect preservation of the motorcycle and surrounding architectural elements.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_014": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the orange wall with realistic wood paneling while maintaining the integrity and position of all foreground objects like the clock and paintings without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_015": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the transparent glass jars into opaque ceramic vessels, preserving the position and general shape, although the new objects lack detailed features like distinct lids; all other objects and the background remain perfectly preserved.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_016": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the metal trough with a realistic wooden structure while perfectly preserving the cow, background, and lighting conditions without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_017": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the patterned ceramic bowl with a realistic stainless steel bowl featuring accurate metallic reflections, while preserving the kitten and background carpet without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_018": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by applying a realistic wood texture to the laptop chassis while preserving the bird, keyboard details, screen content, and background without any visible artifacts or distortions.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_019": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the couch material to leather with realistic shading, but introduced noticeable distortions to the text on the clothing and slight blurring on small table objects.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_020": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The material transformation to solid brass is visually convincing with appropriate metallic reflections, but the original curved geometry of the stand was altered into a rectangular block and a physically impossible reflection of the foreground sign appears on the object's front face.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_021": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the target red boxcar to a wooden texture, but it also altered the adjacent boxcar to match, losing the original distinct identity of that unedited object, while the background and foreground tanks remained pixel-perfect.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_022": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the white ceramic plate with a realistic wooden texture while maintaining pixel-perfect preservation of all food items and the background context.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_023": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the sink basins to a realistic copper material while preserving the silver faucet, and maintained pixel-perfect fidelity in all surrounding objects and background elements.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by transforming the wooden structure into a metal one with appropriate texture and color changes, while maintaining pixel-perfect preservation of the rider, bike, background person, and surrounding environment.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_025": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the color change instruction on the main character, but unintentionally altered the eye color from blue to green, while perfectly preserving the background and surrounding characters.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_026": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The bicycle was successfully textured as rusted iron, though the frame geometry changed from step-through to diamond; background elements like the lamp and windows retained their identity but exhibit minor detail drift, and the cobblestone pattern was slightly regenerated.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_027": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the wooden door panels with a frosted glass grid design while maintaining the surrounding plants, windows, and wall texture with near-perfect fidelity.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_028": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model successfully applied a leather texture to the vest but changed its color from green to black, while the background and other objects are well-preserved but show slight generative variations in details like cloud shapes and clothing folds.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_029": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully changed the coat color to blue while preserving the figure's pose and hat, and maintained the background structures with only minor textural variations typical of generative editing.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_030": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the black graphic backpack with a realistic brown leather one, while maintaining pixel-perfect preservation of the child's clothing, pose, and the surrounding bus environment.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_non_rigid_action_N_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the instruction to make the horse stand still with realistic posing, preserved the identity of the horse and rider, but introduced noticeable artifacts by garbling the watermark text in the background.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the sitting pose with natural body mechanics while preserving the backpack details, clothing, and background pixels flawlessly.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_003": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model successfully executed the standing pose, but introduced noticeable artifacts including loss of detail on the remotes, a regenerated face with altered gaze, and modified background clutter.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_004": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 2,
+        "Reasoning": "The model completely failed to execute the instruction as the teddy bears remain standing, and while the bears' identities are preserved, the background painting shows noticeable structural alterations and artifacts.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_005": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully moved the man's right arm across his chest to approximate the instruction, but the hand anatomy is slightly indistinct and it is not a full double-arm fold, while the foreground vegetables and background context remain perfectly preserved.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_006": {
+        "EQ": 2,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model failed to make the existing men stand, instead hallucinating a new standing figure while leaving the original subjects seated, and severely distorted the background sign text and scooter geometry.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_007": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the cat stand while maintaining the cat's identity and preserving the car and background with pixel-perfect accuracy.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_008": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model successfully executed the instruction to make the giraffes sit, but the edited subjects exhibit slight generative smoothing and texture loss compared to the original photo, and the middle giraffe's orientation has shifted.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_009": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model generated a standing egret with spread wings rather than a truly flying one, and it removed the secondary bird entirely while preserving the background environment and watermark perfectly.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_010": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model successfully executed the instruction by moving the man to the sofa and changing his pose to sitting, while largely preserving the room's layout and the man's clothing, despite minor variations in the TV screen content and logo details.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_011": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the cow's pose to a lying, sleeping position with closed eyes, while preserving the man, the rope, and the background environment with pixel-perfect fidelity.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_012": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the standing pose, but failed to preserve the woman's original clothing properties (changing from a long-sleeved solid top to a short-sleeved patterned shirt), while the background and other objects remained perfectly intact.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_013": {
+        "EQ": 3,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the kneeling pose but inexplicably rotated the subject to face the camera and hallucinated a facial identity, while the background environment and lighting remained pixel-perfect.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_014": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added tongues to simulate panting, but the generated tongues lack realistic texture and appear as smooth, plastic-like shapes, lowering the editing quality score while object identity and background remained perfectly preserved.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_015": {
+        "EQ": 5,
+        "OPP": 2,
+        "ICP": 3,
+        "Reasoning": "The model perfectly executed the sitting pose, but failed to preserve intrinsic properties like the left boy's hat color (green to white) and glove visibility, while also garbling the text on the background signs.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_016": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the snowboarder stand, preserving the background and subject identity, although minor details on the snowboard bindings and graphics were slightly altered.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_017": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The instruction to raise the trunk was executed perfectly with realistic geometry, and the background remained pixel-perfect, but the elephant's intrinsic properties were altered by hallucinating a second tusk and thickening the blue strap.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_018": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the teddy bears remain in their original standing poses, although the objects and background were preserved perfectly.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_019": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model successfully executed the instruction to make the cow lie down with a realistic pose, but it flipped the cow's orientation and displaced background elements like the rock.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_020": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the dog sit, maintaining a natural pose and leash tension, while preserving the identity of the dog and all background elements (cars, bikes, hydrant) without any visible artifacts.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_021": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the woman's posture from standing to sitting while preserving her identity, clothing, and the surrounding office environment without any visible artifacts.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_022": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by naturally closing the man's eyes while preserving his facial identity, the pizza, and the entire background scene without any visible artifacts or distortions.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_023": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the batter's pose to a swinging motion, but the bat itself is rendered as an unrealistic blur or double-image artifact rather than a solid object, while the background and surrounding people remain pixel-perfect.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_024": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model failed to apply the edit to all subjects (the woman on the right did not raise her hand) and hallucinated extra arms for the other subjects, resulting in anatomical impossibilities, though the background and facial identities remained largely intact.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_025": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model successfully changed the player's pose to sitting, but altered the outfit from a skirted dress to a leotard-style bodysuit and corrupted the background banner text from 'PEUGEOT' to 'PEUBEOT'.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_026": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the instruction by changing the cat's pose to an upright, alert position, preserving the background perfectly while maintaining the cat's general identity despite minor generative variations in fur markings.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_027": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 5,
+        "Reasoning": "The model successfully generated a fanned tail but completely replaced the original white peacock with a standard blue peacock, drastically altering the subject's identity and color while keeping the background pixel-perfect.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_028": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the batter kneel and tie his shoe, preserving the background and catcher with high fidelity, although the batter's jersey number was lost due to the angle change.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_029": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to edit the original skier, instead hallucinating a new falling figure with unrealistic physics (a vertically floating ski), while perfectly preserving the background and the original standing skier.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_030": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully generated realistic flying seagulls with spread wings, although it left some original seagulls stationary, while perfectly preserving the background vehicles, buildings, and ground textures.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_style_transfer_S_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the pencil sketch style transfer across the entire image while maintaining exact structural fidelity for the horse, rider, and background elements.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the charcoal sketch style transfer across the entire image while maintaining exact geometric fidelity and structural integrity of all objects and the room layout.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_003": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the watercolor style transfer across the entire image while maintaining the structural integrity and identity of all objects and background elements without any hallucinations or distortions.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_004": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model successfully applied a vibrant pop-art style with halftones and bold outlines, preserving the fruit identities well, but partially obscured the main title text with a graphic element and altered the background panels with new patterns not present in the original.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_005": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the sepia filter instruction across the entire image while maintaining complete structural integrity and readability of all objects and background text.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_006": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the sketch style transfer across the entire image while maintaining high structural fidelity for all vehicles, buildings, and street details.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_007": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the charcoal drawing style transfer while maintaining exact structural fidelity for the cabin, trees, sign, and background landscape.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_008": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model perfectly executed the watercolor style transformation, but it failed to preserve the original night-time atmosphere (shifting to a brighter sky without stars) and lost fine details like the legible text on the shop sign.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_009": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to generate a realistic photograph, producing a heavily textured, synthetic render instead, although it maintained the original composition and object layout perfectly.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_010": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the 'make it rain' instruction by adding realistic rain streaks and droplets while preserving the original painting's details, colors, and background without any distortion.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_011": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the nighttime transformation by adding a moon, stars, and appropriate dark lighting while preserving the exact geometry and identity of the house, garden, and background landscape without any artifacts.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_012": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the heavy snowstorm instruction with dense snow particles and appropriate color grading while preserving the main subjects, though background details are slightly softened by the atmospheric effect.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_013": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the sunset lighting transformation, but the specific city skyline geometry outside was altered and the flowers on the coffee table show slight distortion.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_014": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the thick fog instruction, preserving all main objects and scene layout, though slight smoothing of the original painting's texture and tree shapes prevents a perfect background preservation score.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_015": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the charcoal sketch style transfer, maintaining exact structural fidelity of the face and abstract elements while keeping the background clean and consistent with the new medium.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_016": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model perfectly executed the vibrant sunset lighting instruction, but introduced text garbling on the fuselage and noticeably smoothed out the texture of the foreground grass and background hangar.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_017": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The rainstorm effect is visually impactful but relies on a uniform 2D streak overlay, and the ship's hull details were slightly altered from a continuous stripe to distinct buoys.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_018": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the cyberpunk night style transformation with neon lighting and rain effects while strictly preserving the structural identity of the skyline, logos, and the ship.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_019": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the global pastel watercolor style transfer while perfectly preserving the structural integrity, legibility of text, and identity of all foreground and background objects.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_020": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully transformed the daylight scene into a moonlit night setting with a consistent blue color cast and darker exposure, while perfectly preserving the geometry of the horse, rider, and background elements.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_021": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully applied a classical oil painting style but failed to adhere to the specific 'still-life' genre constraint, retaining the landscape and figure subject matter instead.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_022": {
+        "EQ": 5,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "While the weather transformation to a sunny day is flawless, the model hallucinated a completely different city skyline with different skyscrapers and altered the specific boats, failing to preserve the original scene's geometry and objects.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_023": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the cyberpunk transformation with high realism while preserving the exact spatial layout and identity of the boats and water, and maintaining the background mountain structure without artifacts.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly transformed the scene into deep winter with heavy snow, realistically covering the ground, trees, and cow while perfectly preserving the animal's pose, markings, and the structural layout of the background fence and enclosure.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_025": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to create a dark, moody atmosphere by globally reducing exposure while maintaining the structural integrity and identity of all fruit objects and the plate pattern without introducing artifacts.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_026": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to apply a strong motion blur effect, as the rider and bike remain relatively sharp with no significant directional streaking, though the identity of objects and background context were perfectly preserved.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_027": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully darkened the room and applied a blue monitor-glow effect, though the lighting is somewhat uniformly distributed rather than strictly emanating from specific screen locations; object identity and background structures are perfectly preserved.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_028": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the Renaissance oil painting style with convincing lighting and texture, while preserving the main subject's identity and background composition, though some fine details like facial features and background objects were slightly abstracted by the artistic filter.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_029": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model successfully generated a heavy rainstorm effect with dark clouds and rain streaks, preserving the players perfectly, but significantly obscured or replaced the upper stadium structure and scoreboard with clouds while adding hallucinated umbrellas to the crowd.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_030": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added glowing lanterns and adjusted the lighting to a warmer, evening tone while perfectly preserving the identity of the woman, the boat, the fruits, and the background elements.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_reasoning_R_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the wine with an iced coffee while maintaining pixel-perfect preservation of all background elements and foreground objects.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the luggage with realistic wilderness survival gear (backpack, sleeping bag, first aid kit) while maintaining the car interior, cargo net, and background with pixel-perfect preservation.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_003": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the snowboard with a surfboard while preserving the person's appearance and the snowy background without any visible artifacts.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_004": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the casual shirt with a formal black suit and tie, fulfilling the instruction with good realism, while perfectly preserving the subject's identity, hands, and the entire background context including other people and equipment.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_005": {
+        "EQ": 2,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to semantically execute 'total power failure' by merely darkening the image globally instead of turning off the electric light sources (neon signs remain glowing), though object and background structures are perfectly preserved.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_006": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the string lights with realistic emergency LED work lights while preserving the geometry and texture of the bed, desk, and background elements without any visible artifacts.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_007": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully transformed the asphalt into a realistic sandy beach with waves and shells, but one seagull from the far left of the original image was removed.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_008": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 1,
+        "Reasoning": "The model perfectly executed the instruction to change the environment and remove the leash, but this necessitated a complete replacement of the original background rather than preserving it.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing all fruit with recognizable Halloween treats (chocolate, candy corn, gummy worms) while maintaining the plate's floral pattern and the background table texture without any visible artifacts.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_010": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model successfully executed the seasonal transformation with lush vegetation, but the output exhibits a noticeable digital-painting style shift and texture smoothing compared to the original photo, preventing perfect realism and pixel-perfect preservation scores.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_011": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the decay instruction with realistic cracks, mold, and debris, preserving the structural integrity of the room and object identities, though the toilet tank lid exhibits a minor unexplained deformation.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_012": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added scientist attributes like a lab coat, goggles, and clipboard while perfectly preserving the subject's facial identity and the background texture, although the retained veil creates a slight semantic inconsistency and the handheld object is somewhat blurry.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the armor with a business suit while maintaining the character's facial identity, hair, and the original dark background without any artifacts.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_014": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model perfectly executed the transformation into a sci-fi facility and preserved the characters' identities, but the background was naturally altered as requested, retaining only the room's structural layout and specific static objects.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_015": {
+        "EQ": 3,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The model successfully conveys a freezing theme through color grading and ice-like water, but the execution lacks realism with flat textures and artificial noise on the bushes that distorts their natural appearance.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_016": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 2,
+        "Reasoning": "The model perfectly executed the transformation of the ridge into a sand dune and preserved the subject's identity, but it completely replaced the original background and sky with a desert environment instead of preserving the unrelated context.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_017": {
+        "EQ": 5,
+        "OPP": 1,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by transforming the car's interior space into a high-quality jungle scene, preserving the car frame and external background, but it completely failed to preserve the luggage and bags which were prominent foreground objects not explicitly targeted for removal.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_018": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the abandonment theme with realistic decay and vegetation, preserving the layout and object identities well, though the window geometry and some object textures show slight distortion.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_019": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model perfectly executed the instruction to turn the bananas black and rotten while preserving their shape and arrangement, but the background lighting was significantly darkened and artifacts appeared in the bottom right corner.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_020": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 1,
+        "Reasoning": "The model perfectly executed the drought theme with cracked earth and a withered tree (EQ=5), but regenerated the giraffes with altered coat patterns and lighting (OPP=3) and completely replaced the original background scenery rather than preserving it (ICP=1).",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_021": {
+        "EQ": 3,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model successfully added VR headsets and holographic interfaces to convey immersion, but the added elements look like digital overlays with glowing outlines rather than realistic physical objects, and the background is partially obscured by the UI effects.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_022": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 1,
+        "Reasoning": "The model flawlessly executed the instruction to create a lunar landscape and preserved the rider's identity perfectly, but the original background context was completely replaced rather than preserved.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_023": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the location change to a wedding dressing room with high realism, while preserving the subjects' identities and integrating them seamlessly into the new lighting environment.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 1,
+        "Reasoning": "The model perfectly executed the instruction to transform the background into a commercial kitchen and preserved the foreground subject, but the original background was completely replaced as intended.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_025": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the winter freezing instruction with realistic ice and snow textures, though the woman's clothing texture and color shifted slightly from the original, and background boats were thematically modified with icicles.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_026": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model executed the heavy scorching instruction perfectly on the right side, but slightly violated strict preservation by inpainting the cut-off left edge (adding the letter 'F' and completing the apple).",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_027": {
+        "EQ": 3,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The model successfully applied masks to all subjects and gowns to the foreground figures, but failed to dress the background man in a gown as instructed and removed the woman's original sunglasses.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_028": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the clay court with a realistic water surface complete with ripples and reflections, while preserving the background spectators and advertising boards, although the player's feet were slightly altered to blend with the water.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_029": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 1,
+        "Reasoning": "The model perfectly executed the instruction to transport the subject to a neon jungle (EQ), but the peacock's crest was hallucinated into alien antennae and texture lost realism (OPP), while the original background was entirely replaced (ICP).",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "complex_reasoning_R_030": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model perfectly executed the rust and vine transformation on the car while preserving the cat's identity, but the background wooden structure and roof exhibit noticeable texture changes and color shifts compared to the original.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "simple_object_replacement_O_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the chair with a realistic potted plant while maintaining pixel-perfect preservation of the background wall, floor tiles, and surrounding vegetation.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_002": {
+        "EQ": 1,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model hallucinated a wolf onto an empty chair instead of editing a non-existent dog, failing the instruction's premise, while preserving the background perfectly but introducing geometric distortions where the wolf intersects the chair.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_003": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly transformed the cat into a realistic white rabbit while perfectly preserving the original pose, lighting, and background environment without any visible artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_004": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the transformation of the horse into a zebra while maintaining the original pose, lighting, and background context without any visible artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_005": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly replaced the kingfisher with a realistic parrot while perfectly preserving the branch structure, lighting, and background bokeh.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_006": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by transforming the wooden texture into a realistic metallic surface while maintaining the exact geometry of the handle and number plate, and leaving the surrounding frame, wall, and floor completely untouched.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_007": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The toy mouse was added realistically near the cat's paws without altering the cat's appearance or the solid pink background.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_008": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The basket was successfully removed, but the apples were significantly rearranged and their textures altered rather than preserved, while the background remained pixel-perfect.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the bear with a realistic wolf while maintaining the original background and lighting conditions without any visible artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_010": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by adding a realistic tall tree behind the giraffe while maintaining pixel-perfect preservation of the original giraffe and the surrounding background environment.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_011": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the book with a tablet, but the tablet appears slightly artificial with a flat white screen lacking realistic environmental reflections, while the background fabric is preserved perfectly.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_012": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the replacement of the cake with a realistic lattice-crust pie while perfectly preserving the background tiles and the cake stand structure.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the replacement of the banana with a cucumber while maintaining the original background wood grain and lighting without any visible artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_014": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly replaced the cat with a realistic dog that matches the original pose and lighting, while the background and ledge remain pixel-perfectly preserved.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_015": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the cat with a realistic rabbit in the same pose while preserving the goat and the entire background scene without any visible alterations or artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_016": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the pizza with a realistic hamburger while maintaining pixel-perfect preservation of the background elements including the peppers, herbs, and bottle.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_017": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the replacement of the elephant with a giraffe, maintaining realistic proportions and lighting. While there were no other foreground objects to distort, the background shows minor inpainting artifacts around the giraffe's feet and slight regeneration of the tree directly behind it, preventing a perfect score for context preservation.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_018": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly replaced the dog with a realistic cat that mimics the original pose, while keeping the background and foreground sand texture completely intact.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_019": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the knife with realistic scissors while maintaining the exact appearance of the cardboard box and the wooden floor background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_020": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the car with a red truck that fits the scene perspective, but the truck exhibits slightly synthetic textures and simplified details compared to the photorealistic background, which was otherwise perfectly preserved along with the road markings.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_021": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the replacement of the horse with a realistic deer while maintaining the original background, lighting, and pose context without any visible artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_022": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the parrots with realistic owls while maintaining the exact pose, and the rope and background remained completely intact without any artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_023": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the white milk with realistic orange juice while preserving the cookie stack and wooden background with pixel-perfect fidelity.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly replaced the dogs with realistic cats while perfectly preserving the background, dock texture, leashes, and clothing patterns without any visible artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_025": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the egg with a smooth blue sphere resembling a polished stone, while preserving the nest structure and surrounding foliage with pixel-perfect fidelity.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_026": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model failed to effectively replace the pug with a bulldog, as the resulting dog retains the distinct bulging eyes and ear shape of a pug, although the denim jacket and background were preserved with high fidelity.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_027": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the deer with a realistic bear while preserving the campfire logs and the background forest scenery with pixel-perfect fidelity.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_028": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model successfully generated a realistic motorcycle but failed to preserve the rider's orientation, inexplicably flipping the subject from a rear view to a front view while largely maintaining the background context.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_029": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the landscape painting with a realistic wall clock while maintaining the exact geometry, lighting, and texture of the sofa, pillows, wall, and floor without any visible artifacts.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_030": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The text was completely removed with seamless inpainting that perfectly reconstructed the background clouds and sky without altering any other landscape elements or figures.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_attribute_modification_A_001()": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to black while maintaining the cat's pose, texture, and eye color, and preserved the background pixels with no visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the dog's fur to black while preserving the animal's pose, structure, and the background environment without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_002": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the chair's appearance to a wood-like material while perfectly preserving the chair's geometric structure and the background environment.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_003": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly changed the eye color to a vibrant blue while maintaining the cat's original identity and preserving the background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_004": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the metallic texture transformation with realistic specular highlights on the feathers while preserving the bird's anatomy, the branch, and the background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_005": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The edit successfully transforms the door into a realistic glass material with transparency and frosting, but the hardware (handle and number) noticeably changed color from silver/dark to gold and slightly altered in shape, while the background remained pixel-perfect.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_006": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the cat's fur to black while maintaining the exact pose, structure, and background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_007": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the material change to a metallic weave while maintaining pixel-perfect preservation of the apples and the background cloth and surface.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_008": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The wet fur texture is applied and recognizable but appears overly uniform and artificial rather than realistically clumped, while the bear's pose and the background remain perfectly preserved.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the giraffe's spots to blue while maintaining the exact pattern, preserving the animal's anatomy, and keeping the background pixel-perfectly identical to the original.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_010": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The bear was successfully changed to white, but the fur texture appears noticeably smoother and less detailed than the original shaggy fur, while the background and surrounding context remain pixel-perfect.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_011": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the instruction by transforming the chocolate cake into a vanilla one with realistic frosting texture, while perfectly preserving the cake's structural geometry, the stand, and the background.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_012": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to red while maintaining realistic texture and lighting, and preserved all background elements including the court line and net without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to green while maintaining the exact shape of the banana and preserving the background wood grain pixel-perfectly.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_014": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the main body of the cat to a pale grey/cream tone, but failed to recolor the tail which remains orange, indicating a segmentation error, while the background and pose were perfectly preserved.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_015": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly replaced the cobblestone texture with a smooth asphalt surface that follows the road's perspective perfectly, while preserving all architectural details, signage, and sidewalks without any visible artifacts or distortions.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_016": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to blue with realistic shading while preserving the car's structure, the driver, and the background details without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_017": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the collar to a realistic red color while preserving the dog's identity and the background pixels without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_018": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to ginger while maintaining the cat's pose and breed characteristics, and preserved the shelf and background with pixel-perfect fidelity.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_019": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to white while preserving the box's geometry, label details, and the utility knife, with the background remaining pixel-perfect.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_020": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the horse brown, but it altered intrinsic markings (mane, tail, and lower legs changed from white to black) rather than just recoloring the coat, while the background remained pixel-perfect.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_021": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The rope was flawlessly replaced with a realistic metal chain that interacts correctly with the birds' feet, and the background is perfectly preserved, though the birds' feather textures and beak colors show slight regeneration artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_022": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the dark chocolate cookies with a light-colored sugar/shortbread cookie while maintaining the exact position, thickness, and lighting, and preserved the glass of milk and wooden background with pixel-perfect fidelity.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_023": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change from red to blue on the plaid coats while maintaining identical dog features, poses, and background details without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to white while preserving the nest structure and surrounding foliage with pixel-perfect accuracy.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_025": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully transformed the denim jacket into a realistic black leather jacket while maintaining the collar and zipper structure. The dog's identity is well-preserved, though subtle changes in facial fur texture and eye reflections indicate slight regeneration of the subject. The plain background remains completely unchanged.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_026": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the field color to green while perfectly preserving the trees, mountains, and sky without any visible artifacts or distortions.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_027": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully changed the target yellow foliage to red with correct reflections, while perfectly preserving the background mountain, sky, and non-target green trees without artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_028": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The hair color was successfully changed to blonde with high realism, but the facial features (specifically the mouth opening and eye details) underwent noticeable alterations, while the background remained largely consistent.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_029": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to black on the sofa and matching cushions while preserving the distinct grey pillow, the artwork, and the background environment without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_attribute_modification_A_030": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to cover the hills in snow while maintaining the original artistic style and background context, although the rocks in the water show slight geometric distortions.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_non_rigid_action_N_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the dog sit, maintaining realistic anatomy and lighting while preserving the dog's identity and the background pixels exactly.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_002": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the instruction to make the horse stand still and preserved the background perfectly, but the horse's facial features and texture appear significantly smoothed and altered, affecting identity preservation.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_003": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model successfully depicts the bird in flight, but the generated wings lack the specific spotted texture of the original and the foreground branch appears noticeably blurred and altered compared to the source.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_004": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The door is successfully opened with realistic lighting and depth, but the handle and hinge orientation flipped sides compared to the original closed state.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_005": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by changing the cat's pose from sitting to lying down while preserving the cat's identity and keeping the solid pink background completely intact.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_006": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the bear sit, maintaining the bear's identity and preserving the background environment without any visible artifacts.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_007": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the standing pose and preserved the background pixel-perfectly, though the bear's fur texture appears slightly smoother and facial details are subtly altered compared to the original.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_008": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model failed to execute the instruction 'close the book' as the object retains the exact dimensions and two-panel geometry of an open book, merely replacing the text pages with blank covers; however, the background cloth was preserved perfectly.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_009": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model significantly narrowed the cat's eyes to a squint but failed to fully close the eyelids as instructed, while perfectly preserving the cat's identity and the background context.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_010": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The trunk was successfully raised, though with slightly artificial texture; however, the rest of the elephant's body was regenerated with smoothed skin details, altering intrinsic properties, while the background remained pixel-perfect.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_011": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the 'peel' instruction, generating a smooth, plastic-like yellow object instead of revealing the fruit flesh, while perfectly preserving the background wood grain and context.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_012": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the instruction to raise the horse's head, though the generated head and neck appear slightly smoother and less textured than the original photo, while the background and the flying bird were preserved perfectly.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by adding realistic, spread wings with visible flight feathers while maintaining the exact pose of the legs and body, and preserving the background water and sand textures without any artifacts.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_014": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the wilting instruction by making the flowers droop heavily, while preserving the vase and background almost entirely, with only minor regeneration artifacts visible in the foliage on the far left.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_015": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the dog sit, maintaining the dog's identity and preserving the background environment with high fidelity.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_016": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the cat lie down with a natural pose, while strictly preserving the cat's identity and the background environment.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_017": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model successfully executed the instruction to make the horse stand still, preserving the general snowy context and horse identity, though minor details like ear color and background tree structures show slight variations.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_018": {
+        "EQ": 3,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model successfully added spread wings to the parrots but failed to depict actual flight as they remain perched, while also altering the original head and leg poses despite preserving the background perfectly.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_019": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the pose change to lying down while preserving the dogs' identities and coat patterns, though the hoods were lowered and the background shows slight generative smoothing.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_020": {
+        "EQ": 1,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the instruction as the dog's eyes remain wide open in the edited image, indistinguishable from the original state.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_021": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the gaze correction, centering the pupils to look at the camera while maintaining flawless identity preservation and background consistency.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_022": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the smile instruction with realistic facial muscle movement while preserving the subject's identity, clothing details, and background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_023": {
+        "EQ": 1,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model completely failed to execute the primary instruction of closing the eyes, as they remain wide open in the edited image, although the background and general facial identity were well preserved.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by opening the eyes with realistic detail consistent with the art style, while preserving the identity, hair strands, and background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_025": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the instruction to make the subject smile while perfectly preserving her identity, accessories, and the background context without any visible artifacts.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_026": {
+        "EQ": 2,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model failed to execute a unilateral wink, instead closing both eyes in a squint, although the subject's identity and the background context were largely preserved with only minor smoothing artifacts.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_027": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model successfully executed the wing-spreading instruction but significantly altered the bird's pose and wing coloration while regenerating the background texture rather than preserving it.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_028": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to close the eyes while maintaining the subject's identity and background, though minor variations in shirt folds and lighting indicate a slightly broader regeneration area.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_029": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to close the eyes with realistic eyelids and lashes, while preserving the subject's identity and the intricate gold background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_030": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the instruction by adding a raised hand to the silhouette, preserving the background and subject identity perfectly, although the hand geometry appears slightly stiff and generic.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_style_transfer_S_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the global style transfer to a sketch, maintaining perfect structural fidelity and content preservation for both the main chair object and the background elements.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the season change to winter with realistic snow and lighting while perfectly preserving the horse's identity and the background's structural layout.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_003": {
+        "EQ": 4,
+        "OPP": 2,
+        "ICP": 4,
+        "Reasoning": "The model successfully added a candle and appropriate lighting effects, but it severely distorted the book's text, turning legible English into gibberish, which constitutes a major failure in preserving object properties.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_004": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly transformed the scene to night with realistic lighting and shadows while perfectly preserving the geometric structure and identity of all architectural elements and street features.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_005": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by adding a realistic layer of snow to the ground while maintaining the exact identity of the elephant and preserving the background trees and sky without artifacts.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_006": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the pencil sketch style transfer while maintaining the exact geometry, pose, and identity of the cat and the structural layout of the background branches.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_007": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the global oil painting style transfer, preserving the background structure and banana identity, though specific details like the spot pattern and stem texture were slightly altered during stylization.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_008": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the watercolor style transfer, preserving the dog's identity and the background's layout while applying consistent artistic textures throughout.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly transformed the lighting to a realistic sunset palette while perfectly preserving the structural integrity, geometry, and identity of all buildings, signs, and street textures.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_010": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 2,
+        "Reasoning": "The model successfully added thick fog, but significantly altered the scene layout by moving the horse to the foreground, removing the bird, and eliminating the strip of water that originally separated the foreground from the horse.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_011": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the pencil sketch style transfer across the entire image while perfectly preserving the subject's anatomy, clothing folds, accessories, and background architectural details.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_012": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly transformed the scene into a golden hour setting with realistic warm lighting and sun flare while perfectly preserving the geometry of the tree, clouds, and terrain.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the charcoal sketch style transfer across the entire image while maintaining exact structural fidelity for the flowers, vase, and background elements.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_014": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the global style transfer to a cartoon illustration, maintaining the cat's pose and identity while adapting the background structures consistently to the new style.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_015": {
+        "EQ": 3,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The snow effect is recognizable but appears as a uniform digital overlay lacking realistic accumulation physics, and while object structures are preserved, the background sky exhibits a noticeable global color shift from grey to teal.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_016": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a realistic rain overlay with streaks and surface wetness, although the streak pattern is slightly uniform; the main vehicle and background structures are perfectly preserved without distortion.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_017": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the night transformation with realistic lighting and streetlamps while maintaining exact structural fidelity of the road, guardrails, and vegetation.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_018": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the oil painting style transfer across the entire image while maintaining the exact structural integrity, pose, and identity of the birds and the background fence.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_019": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully added falling snow and covered the dock, but the ground snow appears as an unrealistic flat white texture lacking depth interaction with the paws, and the background water shows slight smoothing.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_020": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the oil painting style transfer across the entire image while maintaining perfect structural fidelity and identity of the egg, nest, and surrounding foliage.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_021": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the pencil sketch style transfer, preserving the dog's identity, facial expression, and clothing details with high fidelity while adapting the plain background appropriately for the medium.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_022": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model successfully executed the oil painting style with high visual quality, but it hallucinated a sunset lighting condition that caused a drastic color shift in the sky (background) and altered the original color properties of the scene.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_023": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully added a heavy rain effect with visible streaks, although the rain lacks perspective depth and resembles a filter overlay; the cyclist and background structures are perfectly preserved without distortion.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_024": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the night-time transformation by darkening the sky, adding stars, and adjusting lighting while maintaining the exact geometry and identity of the mountains, trees, and water reflections without any artifacts.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_025": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the transformation into a realistic photograph, maintaining perfect structural fidelity to the original illustration's composition, object placement, and background geometry.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_026": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the watercolor style transfer, maintaining perfect structural fidelity to the original landscape composition and objects.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_027": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the watercolor style transfer while maintaining the exact structural identity of the mountains and the layout of the background elements.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_028": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the oil painting style transfer across the entire image while perfectly preserving the geometry, layout, and specific details of the cheese and background.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_029": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly converted the painting into a photorealistic image while perfectly preserving the architectural layout, object identities, and scene composition without introducing artifacts.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_style_transfer_S_030": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the global watercolor style transfer while maintaining the semantic layout of the background, though minor architectural details like the window muntins were slightly simplified.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_reasoning_R_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully replaced the banana with an apple as instructed, and preserved the non-existent foreground objects perfectly, but the background wood grain shows slight smoothing and texture inconsistencies compared to the original sharp details.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the instruction by replacing the chair with a realistic chaise lounge, preserving the floor and wall structures, though the background foliage exhibits slight generative smoothing compared to the original sharpness.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_003": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the season change to winter with snow and cool lighting, preserving the background structure and horse pose accurately, despite a minor textural artifact on the horse's rear hoof.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_004": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The model perfectly executed the clothing transformation with realistic winter gear and preserved the subject's pose, but it unnecessarily altered the ground texture to snow and shifted the background tone, violating strict background preservation.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_005": {
+        "EQ": 3,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model added debris and a grey sky to suggest a storm but hallucinated a row of trees and completely altered the building facades, colors, and shop signs, failing to preserve the original scene's identity.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_006": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The safari vehicle is added realistically and fits the scene perfectly, but the elephant's skin texture and geometry show slight regeneration artifacts, and background trees behind the vehicle are altered.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_007": {
+        "EQ": 3,
+        "OPP": 4,
+        "ICP": 2,
+        "Reasoning": "The environment was successfully changed to a dry desert landscape but fails the 'completely devoid of vegetation' constraint as significant scrub brush remains, and the horse appears to graze on sand; additionally, the unrelated bird context was moved and scaled, and the sky was altered.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_008": {
+        "EQ": 4,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model successfully added lit candles to the cake, preserving the background and main cake structure perfectly, though the rear frosting details were slightly altered to accommodate the new objects.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_009": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by adding a realistic tennis racquet while maintaining the exact appearance of the original ball, court line, and background without any visible artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_010": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the wilting effect with drooping flowers and stems, though the bending physics are slightly exaggerated; the vase, background, and lighting were preserved perfectly.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_011": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the instruction by replacing the denim jacket with a realistic orange firefighter coat while perfectly preserving the dog's facial identity and the plain background.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_012": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model replaced the dog with a large rodent but failed to generate a beaver (producing a nutria with a long tail instead) and significantly altered the pose by lifting the front legs, while the background and sand context were perfectly preserved.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_013": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the dogs with realistic cats in matching poses and outfits, while preserving the leashes, dock, and background environment with pixel-perfect fidelity.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_014": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The glasses are added realistically and fit the scene perfectly, but the subject's mouth changed from closed to slightly open, altering the original facial expression.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_015": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the cat with a realistic puppy while maintaining the exact pose and appearance of the goat and preserving the entire background scene without any visible artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_016": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the blizzard environment transformation and preserved the scene layout, but hallucinated structural changes to the barn's lower windows.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_017": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly added a helmet that matches the illustration's style while preserving the rider's pose, the scooter's details, and the solid background without any artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_018": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the replacement with a realistic bear while maintaining the background pixel-perfectly, though the foreground campfire exhibits minor regeneration artifacts in the flames and logs.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_019": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the bicycle with a realistic motorcycle while preserving the rider's silhouette and the entire background scene without any visible artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_020": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model successfully transformed the foreground foliage to vibrant orange but missed the requested red tones and appears slightly oversaturated, while the background mountain and non-target trees were preserved with only a minor warming shift in the sky.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_021": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 4,
+        "Reasoning": "The model successfully applied a natural, saturated color palette, but hallucinated geometric changes such as parting the lips to reveal teeth and altering the dress trim texture from beaded to lacy.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_022": {
+        "EQ": 5,
+        "OPP": 3,
+        "ICP": 3,
+        "Reasoning": "The model perfectly executed the attire change to formal mourning wear, but the image style shifted from a painting to a photorealistic render (altering object textures) and the background pattern was simplified.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_023": {
+        "EQ": 3,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully transformed the central peak into an erupting volcano with lava and smoke, fulfilling the core instruction, but the lava flows exhibit a noticeable artificial grid-like texture that reduces realism, while the surrounding mountains and foreground context remain perfectly preserved.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_024": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 3,
+        "Reasoning": "The model successfully created a severe storm atmosphere with swirling clouds and rain, but it hallucinated large palm trees that were not in the original scene and slightly smoothed the details of the pier structure.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_025": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the cookies with a lettuce leaf as instructed, although the lighting on the leaf appears slightly flatter than the harsh sunlight in the scene, while the glass of milk and wooden background are perfectly preserved.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_026": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully generated a realistic chick to fulfill the instruction, but introduced a minor consistency error by changing the brown egg into a white shell; the surrounding nest structure and background foliage are preserved with pixel-perfect accuracy.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_027": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 1,
+        "Reasoning": "The model flawlessly executed the monsoon transformation and preserved the elephant's identity, but the original background was completely replaced rather than preserved.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_028": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly replaced the knife with a realistic hammer while maintaining the exact appearance of the box and the background environment without any visible artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_029": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 2,
+        "Reasoning": "The model successfully executed the rusting and abandonment texture on the car body but failed to preserve the convertible roof structure (changing it to a hardtop) and significantly altered the background by removing motion blur and adding overgrown vegetation.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_030": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by generating a realistic formal suit, preserved the background pixel-perfectly, but slightly altered intrinsic properties by removing the wristwatch and smoothing the hand textures.",
+        "complexity": "simple",
+        "category": "reasoning"
+    }
+}

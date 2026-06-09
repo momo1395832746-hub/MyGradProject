@@ -1,0 +1,2493 @@
+{
+    "model_name": "p2pz",
+    "model_name_display": "Pix2Pix-Zero",
+    "dataset_name": "full",
+    "macro_metrics": [
+        {
+            "Level": "COMPLEX",
+            "LPIPS (↓)": 0.5275,
+            "D-CLIP (↑)": 0.1423,
+            "Count": 150
+        },
+        {
+            "Level": "SIMPLE",
+            "LPIPS (↓)": 0.4881,
+            "D-CLIP (↑)": 0.1947,
+            "Count": 150
+        }
+    ],
+    "micro_metrics": [
+        {
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5154,
+            "D-CLIP (↑)": 0.1006,
+            "Count": 30
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5161,
+            "D-CLIP (↑)": 0.0778,
+            "Count": 30
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.504,
+            "D-CLIP (↑)": 0.1533,
+            "Count": 30
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5406,
+            "D-CLIP (↑)": 0.189,
+            "Count": 30
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5612,
+            "D-CLIP (↑)": 0.1908,
+            "Count": 30
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4425,
+            "D-CLIP (↑)": 0.1504,
+            "Count": 30
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4483,
+            "D-CLIP (↑)": 0.0972,
+            "Count": 30
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4936,
+            "D-CLIP (↑)": 0.3365,
+            "Count": 30
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.4948,
+            "D-CLIP (↑)": 0.2144,
+            "Count": 30
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5614,
+            "D-CLIP (↑)": 0.1752,
+            "Count": 30
+        }
+    ],
+    "raw_records": [
+        {
+            "Image_ID": "O_001",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5360974669456482,
+            "D-CLIP (↑)": 0.42524150013923645
+        },
+        {
+            "Image_ID": "O_002",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.3868705630302429,
+            "D-CLIP (↑)": 0.0650005042552948
+        },
+        {
+            "Image_ID": "O_003",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.6115850210189819,
+            "D-CLIP (↑)": 0.3932901620864868
+        },
+        {
+            "Image_ID": "O_004",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.3466285467147827,
+            "D-CLIP (↑)": -0.009086944162845612
+        },
+        {
+            "Image_ID": "O_005",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.6561077833175659,
+            "D-CLIP (↑)": 0.25464433431625366
+        },
+        {
+            "Image_ID": "O_006",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5353960394859314,
+            "D-CLIP (↑)": 0.05303078889846802
+        },
+        {
+            "Image_ID": "O_007",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5577552914619446,
+            "D-CLIP (↑)": 0.19927963614463806
+        },
+        {
+            "Image_ID": "O_008",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.49446168541908264,
+            "D-CLIP (↑)": 0.15027374029159546
+        },
+        {
+            "Image_ID": "O_009",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4783557057380676,
+            "D-CLIP (↑)": 0.23755231499671936
+        },
+        {
+            "Image_ID": "O_010",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5286228656768799,
+            "D-CLIP (↑)": 0.07138971984386444
+        },
+        {
+            "Image_ID": "O_011",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.3941994309425354,
+            "D-CLIP (↑)": 0.17103180289268494
+        },
+        {
+            "Image_ID": "O_012",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5538063645362854,
+            "D-CLIP (↑)": 0.4010542631149292
+        },
+        {
+            "Image_ID": "O_013",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4255538880825043,
+            "D-CLIP (↑)": 0.07378651201725006
+        },
+        {
+            "Image_ID": "O_014",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.6222641468048096,
+            "D-CLIP (↑)": 0.17354229092597961
+        },
+        {
+            "Image_ID": "O_015",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.31824177503585815,
+            "D-CLIP (↑)": 0.058076586574316025
+        },
+        {
+            "Image_ID": "O_016",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5506405234336853,
+            "D-CLIP (↑)": 0.13893739879131317
+        },
+        {
+            "Image_ID": "O_017",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.43051770329475403,
+            "D-CLIP (↑)": 0.04139997065067291
+        },
+        {
+            "Image_ID": "O_018",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4087315499782562,
+            "D-CLIP (↑)": 0.31397390365600586
+        },
+        {
+            "Image_ID": "O_019",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4643661379814148,
+            "D-CLIP (↑)": 0.16542434692382812
+        },
+        {
+            "Image_ID": "O_020",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5672139525413513,
+            "D-CLIP (↑)": 0.1522725522518158
+        },
+        {
+            "Image_ID": "O_021",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4751656651496887,
+            "D-CLIP (↑)": 0.07591671496629715
+        },
+        {
+            "Image_ID": "O_022",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5505285263061523,
+            "D-CLIP (↑)": 0.07565394043922424
+        },
+        {
+            "Image_ID": "O_023",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.39618849754333496,
+            "D-CLIP (↑)": 0.14615753293037415
+        },
+        {
+            "Image_ID": "O_024",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.6118012070655823,
+            "D-CLIP (↑)": 0.11797837913036346
+        },
+        {
+            "Image_ID": "O_025",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.49415379762649536,
+            "D-CLIP (↑)": -0.0342445895075798
+        },
+        {
+            "Image_ID": "O_026",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5839605927467346,
+            "D-CLIP (↑)": 0.07473386824131012
+        },
+        {
+            "Image_ID": "O_027",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.6343674063682556,
+            "D-CLIP (↑)": -0.006900101900100708
+        },
+        {
+            "Image_ID": "O_028",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.47750410437583923,
+            "D-CLIP (↑)": 0.191395103931427
+        },
+        {
+            "Image_ID": "O_029",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5476405024528503,
+            "D-CLIP (↑)": 0.188680499792099
+        },
+        {
+            "Image_ID": "O_030",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4807870388031006,
+            "D-CLIP (↑)": 0.2394857108592987
+        },
+        {
+            "Image_ID": "A_001",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6792302131652832,
+            "D-CLIP (↑)": 0.031047407537698746
+        },
+        {
+            "Image_ID": "A_002",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5945644378662109,
+            "D-CLIP (↑)": 0.3053250312805176
+        },
+        {
+            "Image_ID": "A_003",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.3568571209907532,
+            "D-CLIP (↑)": 0.2654639184474945
+        },
+        {
+            "Image_ID": "A_004",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4334087371826172,
+            "D-CLIP (↑)": 0.2215694636106491
+        },
+        {
+            "Image_ID": "A_005",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4304618835449219,
+            "D-CLIP (↑)": 0.11624462157487869
+        },
+        {
+            "Image_ID": "A_006",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.531191349029541,
+            "D-CLIP (↑)": 0.16472013294696808
+        },
+        {
+            "Image_ID": "A_007",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5158854722976685,
+            "D-CLIP (↑)": 0.327189564704895
+        },
+        {
+            "Image_ID": "A_008",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.562833309173584,
+            "D-CLIP (↑)": 0.11988787353038788
+        },
+        {
+            "Image_ID": "A_009",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5455856323242188,
+            "D-CLIP (↑)": 0.08851899206638336
+        },
+        {
+            "Image_ID": "A_010",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6819326877593994,
+            "D-CLIP (↑)": 0.018466997891664505
+        },
+        {
+            "Image_ID": "A_011",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4814291298389435,
+            "D-CLIP (↑)": 0.018004219979047775
+        },
+        {
+            "Image_ID": "A_012",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.42674458026885986,
+            "D-CLIP (↑)": 0.02295566536486149
+        },
+        {
+            "Image_ID": "A_013",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.44567203521728516,
+            "D-CLIP (↑)": 0.11048983782529831
+        },
+        {
+            "Image_ID": "A_014",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.2757510840892792,
+            "D-CLIP (↑)": 0.038906749337911606
+        },
+        {
+            "Image_ID": "A_015",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6635845303535461,
+            "D-CLIP (↑)": 0.1969466209411621
+        },
+        {
+            "Image_ID": "A_016",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4891600012779236,
+            "D-CLIP (↑)": -0.05090027302503586
+        },
+        {
+            "Image_ID": "A_017",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6290179491043091,
+            "D-CLIP (↑)": 0.04303516820073128
+        },
+        {
+            "Image_ID": "A_018",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5844407677650452,
+            "D-CLIP (↑)": 0.027503492310643196
+        },
+        {
+            "Image_ID": "A_019",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.54379802942276,
+            "D-CLIP (↑)": 0.035337962210178375
+        },
+        {
+            "Image_ID": "A_020",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6177060008049011,
+            "D-CLIP (↑)": 0.21176376938819885
+        },
+        {
+            "Image_ID": "A_021",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6530637145042419,
+            "D-CLIP (↑)": 0.054715320467948914
+        },
+        {
+            "Image_ID": "A_022",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5278010368347168,
+            "D-CLIP (↑)": -0.02623741514980793
+        },
+        {
+            "Image_ID": "A_023",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.3855840563774109,
+            "D-CLIP (↑)": 0.03156771510839462
+        },
+        {
+            "Image_ID": "A_024",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.48435524106025696,
+            "D-CLIP (↑)": 0.07090452313423157
+        },
+        {
+            "Image_ID": "A_025",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4962223172187805,
+            "D-CLIP (↑)": 0.08396699279546738
+        },
+        {
+            "Image_ID": "A_026",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5286514163017273,
+            "D-CLIP (↑)": 0.05785713717341423
+        },
+        {
+            "Image_ID": "A_027",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5940142869949341,
+            "D-CLIP (↑)": 0.2553439140319824
+        },
+        {
+            "Image_ID": "A_028",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.26531311869621277,
+            "D-CLIP (↑)": 0.03825243562459946
+        },
+        {
+            "Image_ID": "A_029",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6060749888420105,
+            "D-CLIP (↑)": 0.11280982941389084
+        },
+        {
+            "Image_ID": "A_030",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.43029311299324036,
+            "D-CLIP (↑)": 0.027719225734472275
+        },
+        {
+            "Image_ID": "N_001",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5848769545555115,
+            "D-CLIP (↑)": 0.0642489343881607
+        },
+        {
+            "Image_ID": "N_002",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.3946695923805237,
+            "D-CLIP (↑)": 0.08954263478517532
+        },
+        {
+            "Image_ID": "N_003",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5542567372322083,
+            "D-CLIP (↑)": 0.10898157954216003
+        },
+        {
+            "Image_ID": "N_004",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5371664762496948,
+            "D-CLIP (↑)": 0.011465969495475292
+        },
+        {
+            "Image_ID": "N_005",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.6356040835380554,
+            "D-CLIP (↑)": -0.012267153710126877
+        },
+        {
+            "Image_ID": "N_006",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4029459059238434,
+            "D-CLIP (↑)": 0.09190253168344498
+        },
+        {
+            "Image_ID": "N_007",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5971708297729492,
+            "D-CLIP (↑)": 0.032582029700279236
+        },
+        {
+            "Image_ID": "N_008",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5196652412414551,
+            "D-CLIP (↑)": 0.03585154190659523
+        },
+        {
+            "Image_ID": "N_009",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.39906027913093567,
+            "D-CLIP (↑)": -0.039524272084236145
+        },
+        {
+            "Image_ID": "N_010",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5894170999526978,
+            "D-CLIP (↑)": 0.07995857298374176
+        },
+        {
+            "Image_ID": "N_011",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.572167694568634,
+            "D-CLIP (↑)": 0.08612406253814697
+        },
+        {
+            "Image_ID": "N_012",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.36515137553215027,
+            "D-CLIP (↑)": 0.014827636070549488
+        },
+        {
+            "Image_ID": "N_013",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4438953995704651,
+            "D-CLIP (↑)": 0.06575502455234528
+        },
+        {
+            "Image_ID": "N_014",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5376022458076477,
+            "D-CLIP (↑)": 0.08270850032567978
+        },
+        {
+            "Image_ID": "N_015",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.6315875053405762,
+            "D-CLIP (↑)": 0.1260979175567627
+        },
+        {
+            "Image_ID": "N_016",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.34383100271224976,
+            "D-CLIP (↑)": 0.1350182592868805
+        },
+        {
+            "Image_ID": "N_017",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4737400710582733,
+            "D-CLIP (↑)": 0.1494680792093277
+        },
+        {
+            "Image_ID": "N_018",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5742977857589722,
+            "D-CLIP (↑)": 0.04400724172592163
+        },
+        {
+            "Image_ID": "N_019",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.590599000453949,
+            "D-CLIP (↑)": 0.20549660921096802
+        },
+        {
+            "Image_ID": "N_020",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.48293226957321167,
+            "D-CLIP (↑)": -0.10820885002613068
+        },
+        {
+            "Image_ID": "N_021",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.49218231439590454,
+            "D-CLIP (↑)": -0.031001785770058632
+        },
+        {
+            "Image_ID": "N_022",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.47805771231651306,
+            "D-CLIP (↑)": 0.03125688433647156
+        },
+        {
+            "Image_ID": "N_023",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4528692364692688,
+            "D-CLIP (↑)": -0.06276926398277283
+        },
+        {
+            "Image_ID": "N_024",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5173415541648865,
+            "D-CLIP (↑)": 0.1560320258140564
+        },
+        {
+            "Image_ID": "N_025",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.6554552912712097,
+            "D-CLIP (↑)": 0.17433470487594604
+        },
+        {
+            "Image_ID": "N_026",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.6253737807273865,
+            "D-CLIP (↑)": 0.051313892006874084
+        },
+        {
+            "Image_ID": "N_027",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5139738321304321,
+            "D-CLIP (↑)": 0.13479763269424438
+        },
+        {
+            "Image_ID": "N_028",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.529118001461029,
+            "D-CLIP (↑)": 0.23184596002101898
+        },
+        {
+            "Image_ID": "N_029",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.36952924728393555,
+            "D-CLIP (↑)": 0.19722816348075867
+        },
+        {
+            "Image_ID": "N_030",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.6197661757469177,
+            "D-CLIP (↑)": 0.18698790669441223
+        },
+        {
+            "Image_ID": "S_001",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7431417107582092,
+            "D-CLIP (↑)": 0.24717630445957184
+        },
+        {
+            "Image_ID": "S_002",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6065495014190674,
+            "D-CLIP (↑)": 0.24266448616981506
+        },
+        {
+            "Image_ID": "S_003",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.47138696908950806,
+            "D-CLIP (↑)": 0.22145429253578186
+        },
+        {
+            "Image_ID": "S_004",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.44624611735343933,
+            "D-CLIP (↑)": 0.1070215031504631
+        },
+        {
+            "Image_ID": "S_005",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5648697018623352,
+            "D-CLIP (↑)": 0.18535593152046204
+        },
+        {
+            "Image_ID": "S_006",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.2697610855102539,
+            "D-CLIP (↑)": 0.11639431118965149
+        },
+        {
+            "Image_ID": "S_007",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5567241311073303,
+            "D-CLIP (↑)": 0.1917140781879425
+        },
+        {
+            "Image_ID": "S_008",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.4897282123565674,
+            "D-CLIP (↑)": 0.004379717633128166
+        },
+        {
+            "Image_ID": "S_009",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5725575089454651,
+            "D-CLIP (↑)": 0.20651669800281525
+        },
+        {
+            "Image_ID": "S_010",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6017937064170837,
+            "D-CLIP (↑)": 0.16732826828956604
+        },
+        {
+            "Image_ID": "S_011",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.4662674069404602,
+            "D-CLIP (↑)": 0.16450068354606628
+        },
+        {
+            "Image_ID": "S_012",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5597803592681885,
+            "D-CLIP (↑)": 0.29839015007019043
+        },
+        {
+            "Image_ID": "S_013",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.3905577063560486,
+            "D-CLIP (↑)": 0.07445292174816132
+        },
+        {
+            "Image_ID": "S_014",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.4289323091506958,
+            "D-CLIP (↑)": 0.19364327192306519
+        },
+        {
+            "Image_ID": "S_015",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6703124046325684,
+            "D-CLIP (↑)": 0.23658432066440582
+        },
+        {
+            "Image_ID": "S_016",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.4351397752761841,
+            "D-CLIP (↑)": 0.18286147713661194
+        },
+        {
+            "Image_ID": "S_017",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.44482338428497314,
+            "D-CLIP (↑)": 0.24882397055625916
+        },
+        {
+            "Image_ID": "S_018",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5544695258140564,
+            "D-CLIP (↑)": 0.2852591872215271
+        },
+        {
+            "Image_ID": "S_019",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6044967174530029,
+            "D-CLIP (↑)": 0.22454653680324554
+        },
+        {
+            "Image_ID": "S_020",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7024310827255249,
+            "D-CLIP (↑)": 0.1619482785463333
+        },
+        {
+            "Image_ID": "S_021",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6866338849067688,
+            "D-CLIP (↑)": 0.09178206324577332
+        },
+        {
+            "Image_ID": "S_022",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.4871646761894226,
+            "D-CLIP (↑)": 0.1684226095676422
+        },
+        {
+            "Image_ID": "S_023",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7182191610336304,
+            "D-CLIP (↑)": 0.24760383367538452
+        },
+        {
+            "Image_ID": "S_024",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5142733454704285,
+            "D-CLIP (↑)": 0.24585995078086853
+        },
+        {
+            "Image_ID": "S_025",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7886196374893188,
+            "D-CLIP (↑)": 0.27756473422050476
+        },
+        {
+            "Image_ID": "S_026",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5689086318016052,
+            "D-CLIP (↑)": 0.07599818706512451
+        },
+        {
+            "Image_ID": "S_027",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6199038028717041,
+            "D-CLIP (↑)": 0.12736427783966064
+        },
+        {
+            "Image_ID": "S_028",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7033281326293945,
+            "D-CLIP (↑)": 0.18910488486289978
+        },
+        {
+            "Image_ID": "S_029",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5810033679008484,
+            "D-CLIP (↑)": 0.2599983811378479
+        },
+        {
+            "Image_ID": "S_030",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5889190435409546,
+            "D-CLIP (↑)": 0.2803972363471985
+        },
+        {
+            "Image_ID": "R_001",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6393342614173889,
+            "D-CLIP (↑)": 0.2027704417705536
+        },
+        {
+            "Image_ID": "R_002",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.36088746786117554,
+            "D-CLIP (↑)": 0.12343660742044449
+        },
+        {
+            "Image_ID": "R_003",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.321774959564209,
+            "D-CLIP (↑)": 0.08554820716381073
+        },
+        {
+            "Image_ID": "R_004",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5939959287643433,
+            "D-CLIP (↑)": 0.05905146151781082
+        },
+        {
+            "Image_ID": "R_005",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.3939180374145508,
+            "D-CLIP (↑)": 0.06757542490959167
+        },
+        {
+            "Image_ID": "R_006",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5848305225372314,
+            "D-CLIP (↑)": 0.0028760358691215515
+        },
+        {
+            "Image_ID": "R_007",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.708522379398346,
+            "D-CLIP (↑)": 0.1388334333896637
+        },
+        {
+            "Image_ID": "R_008",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6249579787254333,
+            "D-CLIP (↑)": 0.17360606789588928
+        },
+        {
+            "Image_ID": "R_009",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5713001489639282,
+            "D-CLIP (↑)": 0.31141743063926697
+        },
+        {
+            "Image_ID": "R_010",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.40906453132629395,
+            "D-CLIP (↑)": 0.15214449167251587
+        },
+        {
+            "Image_ID": "R_011",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5811635255813599,
+            "D-CLIP (↑)": 0.2521706223487854
+        },
+        {
+            "Image_ID": "R_012",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5092475414276123,
+            "D-CLIP (↑)": 0.16541384160518646
+        },
+        {
+            "Image_ID": "R_013",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.521910548210144,
+            "D-CLIP (↑)": 0.15460574626922607
+        },
+        {
+            "Image_ID": "R_014",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.4914633631706238,
+            "D-CLIP (↑)": 0.26831376552581787
+        },
+        {
+            "Image_ID": "R_015",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.7128959894180298,
+            "D-CLIP (↑)": 0.2084766924381256
+        },
+        {
+            "Image_ID": "R_016",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.41964542865753174,
+            "D-CLIP (↑)": 0.2727939188480377
+        },
+        {
+            "Image_ID": "R_017",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6354450583457947,
+            "D-CLIP (↑)": 0.017006754875183105
+        },
+        {
+            "Image_ID": "R_018",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.582434356212616,
+            "D-CLIP (↑)": 0.17335855960845947
+        },
+        {
+            "Image_ID": "R_019",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.4670848846435547,
+            "D-CLIP (↑)": 0.11783156543970108
+        },
+        {
+            "Image_ID": "R_020",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6773402094841003,
+            "D-CLIP (↑)": 0.18149520456790924
+        },
+        {
+            "Image_ID": "R_021",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5123633742332458,
+            "D-CLIP (↑)": 0.23919324576854706
+        },
+        {
+            "Image_ID": "R_022",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5377347469329834,
+            "D-CLIP (↑)": 0.21978211402893066
+        },
+        {
+            "Image_ID": "R_023",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5540145039558411,
+            "D-CLIP (↑)": 0.31437063217163086
+        },
+        {
+            "Image_ID": "R_024",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.49900469183921814,
+            "D-CLIP (↑)": 0.2828475832939148
+        },
+        {
+            "Image_ID": "R_025",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5802914500236511,
+            "D-CLIP (↑)": 0.314596951007843
+        },
+        {
+            "Image_ID": "R_026",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.4196857213973999,
+            "D-CLIP (↑)": 0.060293957591056824
+        },
+        {
+            "Image_ID": "R_027",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6096978187561035,
+            "D-CLIP (↑)": 0.34545576572418213
+        },
+        {
+            "Image_ID": "R_028",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5499616861343384,
+            "D-CLIP (↑)": 0.284145712852478
+        },
+        {
+            "Image_ID": "R_029",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6289692521095276,
+            "D-CLIP (↑)": 0.27942872047424316
+        },
+        {
+            "Image_ID": "R_030",
+            "Method": "p2pz",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5187108516693115,
+            "D-CLIP (↑)": 0.20136550068855286
+        },
+        {
+            "Image_ID": "O_001",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.7279530763626099,
+            "D-CLIP (↑)": 0.3486643433570862
+        },
+        {
+            "Image_ID": "O_002",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.7729343175888062,
+            "D-CLIP (↑)": 0.029243214055895805
+        },
+        {
+            "Image_ID": "O_003",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.472847580909729,
+            "D-CLIP (↑)": 0.44941529631614685
+        },
+        {
+            "Image_ID": "O_004",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.6366859078407288,
+            "D-CLIP (↑)": 0.3763248920440674
+        },
+        {
+            "Image_ID": "O_005",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.44710469245910645,
+            "D-CLIP (↑)": 0.3496170938014984
+        },
+        {
+            "Image_ID": "O_006",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.30821338295936584,
+            "D-CLIP (↑)": 0.020721422508358955
+        },
+        {
+            "Image_ID": "O_007",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.3739129304885864,
+            "D-CLIP (↑)": 0.2849498987197876
+        },
+        {
+            "Image_ID": "O_008",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5592459440231323,
+            "D-CLIP (↑)": 0.2659655213356018
+        },
+        {
+            "Image_ID": "O_009",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.46349918842315674,
+            "D-CLIP (↑)": 0.44618797302246094
+        },
+        {
+            "Image_ID": "O_010",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.37805479764938354,
+            "D-CLIP (↑)": 0.0568036288022995
+        },
+        {
+            "Image_ID": "O_011",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5227031707763672,
+            "D-CLIP (↑)": 0.20812159776687622
+        },
+        {
+            "Image_ID": "O_012",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5696614980697632,
+            "D-CLIP (↑)": 0.29115059971809387
+        },
+        {
+            "Image_ID": "O_013",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.3689947724342346,
+            "D-CLIP (↑)": 0.4529227614402771
+        },
+        {
+            "Image_ID": "O_014",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5739638209342957,
+            "D-CLIP (↑)": 0.4665064215660095
+        },
+        {
+            "Image_ID": "O_015",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.45040032267570496,
+            "D-CLIP (↑)": 0.34121912717819214
+        },
+        {
+            "Image_ID": "O_016",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.6307463645935059,
+            "D-CLIP (↑)": 0.5196408033370972
+        },
+        {
+            "Image_ID": "O_017",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.65074622631073,
+            "D-CLIP (↑)": 0.558234453201294
+        },
+        {
+            "Image_ID": "O_018",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4079633057117462,
+            "D-CLIP (↑)": 0.47827017307281494
+        },
+        {
+            "Image_ID": "O_019",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.45007264614105225,
+            "D-CLIP (↑)": 0.04855514317750931
+        },
+        {
+            "Image_ID": "O_020",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.6105312705039978,
+            "D-CLIP (↑)": 0.31292960047721863
+        },
+        {
+            "Image_ID": "O_021",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.38725852966308594,
+            "D-CLIP (↑)": 0.4992111325263977
+        },
+        {
+            "Image_ID": "O_022",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.49873483180999756,
+            "D-CLIP (↑)": 0.4146389961242676
+        },
+        {
+            "Image_ID": "O_023",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5751414895057678,
+            "D-CLIP (↑)": 0.44203996658325195
+        },
+        {
+            "Image_ID": "O_024",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4221104383468628,
+            "D-CLIP (↑)": 0.47078800201416016
+        },
+        {
+            "Image_ID": "O_025",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5707692503929138,
+            "D-CLIP (↑)": 0.28682681918144226
+        },
+        {
+            "Image_ID": "O_026",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.4341687560081482,
+            "D-CLIP (↑)": 0.30373942852020264
+        },
+        {
+            "Image_ID": "O_027",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.352682501077652,
+            "D-CLIP (↑)": 0.30043870210647583
+        },
+        {
+            "Image_ID": "O_028",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.33392414450645447,
+            "D-CLIP (↑)": 0.38159650564193726
+        },
+        {
+            "Image_ID": "O_029",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.30736643075942993,
+            "D-CLIP (↑)": 0.37944668531417847
+        },
+        {
+            "Image_ID": "O_030",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5497606992721558,
+            "D-CLIP (↑)": 0.31188198924064636
+        },
+        {
+            "Image_ID": "A_001",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.31797295808792114,
+            "D-CLIP (↑)": 0.21114134788513184
+        },
+        {
+            "Image_ID": "A_002",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.599937915802002,
+            "D-CLIP (↑)": 0.21215826272964478
+        },
+        {
+            "Image_ID": "A_003",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.42421090602874756,
+            "D-CLIP (↑)": 0.09854356199502945
+        },
+        {
+            "Image_ID": "A_004",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.34539690613746643,
+            "D-CLIP (↑)": 0.03129870444536209
+        },
+        {
+            "Image_ID": "A_005",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5051134824752808,
+            "D-CLIP (↑)": 0.1170634925365448
+        },
+        {
+            "Image_ID": "A_006",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.37794816493988037,
+            "D-CLIP (↑)": 0.4146171510219574
+        },
+        {
+            "Image_ID": "A_007",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4885004162788391,
+            "D-CLIP (↑)": 0.08429911732673645
+        },
+        {
+            "Image_ID": "A_008",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.36930978298187256,
+            "D-CLIP (↑)": -0.02415361814200878
+        },
+        {
+            "Image_ID": "A_009",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.8047777414321899,
+            "D-CLIP (↑)": 0.028826847672462463
+        },
+        {
+            "Image_ID": "A_010",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5190706253051758,
+            "D-CLIP (↑)": 0.1418997347354889
+        },
+        {
+            "Image_ID": "A_011",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.5363229513168335,
+            "D-CLIP (↑)": 0.16767802834510803
+        },
+        {
+            "Image_ID": "A_012",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.2562137246131897,
+            "D-CLIP (↑)": 0.021828917786478996
+        },
+        {
+            "Image_ID": "A_013",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.2842140793800354,
+            "D-CLIP (↑)": 0.09405850619077682
+        },
+        {
+            "Image_ID": "A_014",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.535518229007721,
+            "D-CLIP (↑)": 0.3401205241680145
+        },
+        {
+            "Image_ID": "A_015",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.38784313201904297,
+            "D-CLIP (↑)": 0.0525212325155735
+        },
+        {
+            "Image_ID": "A_016",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.43824195861816406,
+            "D-CLIP (↑)": 0.10697896778583527
+        },
+        {
+            "Image_ID": "A_017",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.31324303150177,
+            "D-CLIP (↑)": 0.08833548426628113
+        },
+        {
+            "Image_ID": "A_018",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.3478009104728699,
+            "D-CLIP (↑)": 0.3915254473686218
+        },
+        {
+            "Image_ID": "A_019",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.627722442150116,
+            "D-CLIP (↑)": 0.23060467839241028
+        },
+        {
+            "Image_ID": "A_020",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4995408058166504,
+            "D-CLIP (↑)": 0.26017653942108154
+        },
+        {
+            "Image_ID": "A_021",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.38049474358558655,
+            "D-CLIP (↑)": 0.10109788179397583
+        },
+        {
+            "Image_ID": "A_022",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6914756298065186,
+            "D-CLIP (↑)": 0.20041334629058838
+        },
+        {
+            "Image_ID": "A_023",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4148169755935669,
+            "D-CLIP (↑)": 0.13950030505657196
+        },
+        {
+            "Image_ID": "A_024",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.34299230575561523,
+            "D-CLIP (↑)": 0.1278342306613922
+        },
+        {
+            "Image_ID": "A_025",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.3523607850074768,
+            "D-CLIP (↑)": 0.1826862394809723
+        },
+        {
+            "Image_ID": "A_026",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.2064623236656189,
+            "D-CLIP (↑)": 0.11246147751808167
+        },
+        {
+            "Image_ID": "A_027",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.37665143609046936,
+            "D-CLIP (↑)": 0.23286837339401245
+        },
+        {
+            "Image_ID": "A_028",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.45257383584976196,
+            "D-CLIP (↑)": 0.10489804297685623
+        },
+        {
+            "Image_ID": "A_029",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.4283566474914551,
+            "D-CLIP (↑)": 0.03856527805328369
+        },
+        {
+            "Image_ID": "A_030",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.6506351232528687,
+            "D-CLIP (↑)": 0.20255225896835327
+        },
+        {
+            "Image_ID": "N_001",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5147232413291931,
+            "D-CLIP (↑)": 0.06393320858478546
+        },
+        {
+            "Image_ID": "N_002",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.6138334274291992,
+            "D-CLIP (↑)": 0.05846763774752617
+        },
+        {
+            "Image_ID": "N_003",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4178631603717804,
+            "D-CLIP (↑)": 0.3077221214771271
+        },
+        {
+            "Image_ID": "N_004",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.30047452449798584,
+            "D-CLIP (↑)": 0.11253493279218674
+        },
+        {
+            "Image_ID": "N_005",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.30858269333839417,
+            "D-CLIP (↑)": 0.06995653361082077
+        },
+        {
+            "Image_ID": "N_006",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.32762250304222107,
+            "D-CLIP (↑)": 0.11044783890247345
+        },
+        {
+            "Image_ID": "N_007",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4410444498062134,
+            "D-CLIP (↑)": 0.056239984929561615
+        },
+        {
+            "Image_ID": "N_008",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5851344466209412,
+            "D-CLIP (↑)": 0.08450671285390854
+        },
+        {
+            "Image_ID": "N_009",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.48521241545677185,
+            "D-CLIP (↑)": 0.04991726577281952
+        },
+        {
+            "Image_ID": "N_010",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.37838923931121826,
+            "D-CLIP (↑)": -0.03792450204491615
+        },
+        {
+            "Image_ID": "N_011",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.25285419821739197,
+            "D-CLIP (↑)": -0.0722263753414154
+        },
+        {
+            "Image_ID": "N_012",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.48155033588409424,
+            "D-CLIP (↑)": -0.027981583029031754
+        },
+        {
+            "Image_ID": "N_013",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.599012553691864,
+            "D-CLIP (↑)": 0.20000199973583221
+        },
+        {
+            "Image_ID": "N_014",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4470338821411133,
+            "D-CLIP (↑)": 0.10702341049909592
+        },
+        {
+            "Image_ID": "N_015",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.3399342894554138,
+            "D-CLIP (↑)": 0.07267123460769653
+        },
+        {
+            "Image_ID": "N_016",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.37631580233573914,
+            "D-CLIP (↑)": 0.2772448658943176
+        },
+        {
+            "Image_ID": "N_017",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.35146796703338623,
+            "D-CLIP (↑)": 0.22697067260742188
+        },
+        {
+            "Image_ID": "N_018",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5887258648872375,
+            "D-CLIP (↑)": 0.2061251401901245
+        },
+        {
+            "Image_ID": "N_019",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.3917033076286316,
+            "D-CLIP (↑)": 0.14758047461509705
+        },
+        {
+            "Image_ID": "N_020",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.3424779176712036,
+            "D-CLIP (↑)": 0.019401971250772476
+        },
+        {
+            "Image_ID": "N_021",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.3157452940940857,
+            "D-CLIP (↑)": -0.04037829488515854
+        },
+        {
+            "Image_ID": "N_022",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4092867970466614,
+            "D-CLIP (↑)": 0.13367193937301636
+        },
+        {
+            "Image_ID": "N_023",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5243237018585205,
+            "D-CLIP (↑)": 0.12289292365312576
+        },
+        {
+            "Image_ID": "N_024",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4503338932991028,
+            "D-CLIP (↑)": 0.09927907586097717
+        },
+        {
+            "Image_ID": "N_025",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4453270435333252,
+            "D-CLIP (↑)": 0.07371377944946289
+        },
+        {
+            "Image_ID": "N_026",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5734889507293701,
+            "D-CLIP (↑)": 0.09666481614112854
+        },
+        {
+            "Image_ID": "N_027",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.7793045043945312,
+            "D-CLIP (↑)": 0.1534081995487213
+        },
+        {
+            "Image_ID": "N_028",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.5087506175041199,
+            "D-CLIP (↑)": -0.026453256607055664
+        },
+        {
+            "Image_ID": "N_029",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.6128314733505249,
+            "D-CLIP (↑)": 0.08902304619550705
+        },
+        {
+            "Image_ID": "N_030",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.28692424297332764,
+            "D-CLIP (↑)": 0.18037119507789612
+        },
+        {
+            "Image_ID": "S_001",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6739345788955688,
+            "D-CLIP (↑)": 0.1316976547241211
+        },
+        {
+            "Image_ID": "S_002",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5697214007377625,
+            "D-CLIP (↑)": 0.20696838200092316
+        },
+        {
+            "Image_ID": "S_003",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5836132764816284,
+            "D-CLIP (↑)": -0.016718914732336998
+        },
+        {
+            "Image_ID": "S_004",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.44852373003959656,
+            "D-CLIP (↑)": 0.11456412822008133
+        },
+        {
+            "Image_ID": "S_005",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.539607048034668,
+            "D-CLIP (↑)": 0.34820306301116943
+        },
+        {
+            "Image_ID": "S_006",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6083580851554871,
+            "D-CLIP (↑)": 0.27463406324386597
+        },
+        {
+            "Image_ID": "S_007",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6194390058517456,
+            "D-CLIP (↑)": 0.09219256788492203
+        },
+        {
+            "Image_ID": "S_008",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6081376075744629,
+            "D-CLIP (↑)": 0.08840353786945343
+        },
+        {
+            "Image_ID": "S_009",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.4702250361442566,
+            "D-CLIP (↑)": 0.17412272095680237
+        },
+        {
+            "Image_ID": "S_010",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6649278402328491,
+            "D-CLIP (↑)": 0.19942641258239746
+        },
+        {
+            "Image_ID": "S_011",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.538422703742981,
+            "D-CLIP (↑)": 0.06294198334217072
+        },
+        {
+            "Image_ID": "S_012",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5197544693946838,
+            "D-CLIP (↑)": 0.20656931400299072
+        },
+        {
+            "Image_ID": "S_013",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5660749077796936,
+            "D-CLIP (↑)": 0.2547079920768738
+        },
+        {
+            "Image_ID": "S_014",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7047986388206482,
+            "D-CLIP (↑)": 0.1624511331319809
+        },
+        {
+            "Image_ID": "S_015",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6361815929412842,
+            "D-CLIP (↑)": 0.25077730417251587
+        },
+        {
+            "Image_ID": "S_016",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5879773497581482,
+            "D-CLIP (↑)": 0.20214274525642395
+        },
+        {
+            "Image_ID": "S_017",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5366719961166382,
+            "D-CLIP (↑)": 0.2895282208919525
+        },
+        {
+            "Image_ID": "S_018",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6693494915962219,
+            "D-CLIP (↑)": 0.17734669148921967
+        },
+        {
+            "Image_ID": "S_019",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.44470176100730896,
+            "D-CLIP (↑)": 0.1204506903886795
+        },
+        {
+            "Image_ID": "S_020",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.5540377497673035,
+            "D-CLIP (↑)": 0.21313004195690155
+        },
+        {
+            "Image_ID": "S_021",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.3745729923248291,
+            "D-CLIP (↑)": 0.2409396767616272
+        },
+        {
+            "Image_ID": "S_022",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.44156792759895325,
+            "D-CLIP (↑)": 0.15286920964717865
+        },
+        {
+            "Image_ID": "S_023",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.42032915353775024,
+            "D-CLIP (↑)": 0.1558927297592163
+        },
+        {
+            "Image_ID": "S_024",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.4978698194026947,
+            "D-CLIP (↑)": 0.27634212374687195
+        },
+        {
+            "Image_ID": "S_025",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.699753999710083,
+            "D-CLIP (↑)": 0.15066979825496674
+        },
+        {
+            "Image_ID": "S_026",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.591370165348053,
+            "D-CLIP (↑)": 0.13566212356090546
+        },
+        {
+            "Image_ID": "S_027",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.528191328048706,
+            "D-CLIP (↑)": 0.12412144243717194
+        },
+        {
+            "Image_ID": "S_028",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.38322997093200684,
+            "D-CLIP (↑)": 0.15153680741786957
+        },
+        {
+            "Image_ID": "S_029",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7550241351127625,
+            "D-CLIP (↑)": 0.11951540410518646
+        },
+        {
+            "Image_ID": "S_030",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.6068464517593384,
+            "D-CLIP (↑)": 0.19420582056045532
+        },
+        {
+            "Image_ID": "R_001",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5440085530281067,
+            "D-CLIP (↑)": 0.22238659858703613
+        },
+        {
+            "Image_ID": "R_002",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6309667825698853,
+            "D-CLIP (↑)": 0.34007105231285095
+        },
+        {
+            "Image_ID": "R_003",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6255713701248169,
+            "D-CLIP (↑)": 0.15354791283607483
+        },
+        {
+            "Image_ID": "R_004",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6363534331321716,
+            "D-CLIP (↑)": 0.36839067935943604
+        },
+        {
+            "Image_ID": "R_005",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5190786719322205,
+            "D-CLIP (↑)": 0.30186182260513306
+        },
+        {
+            "Image_ID": "R_006",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5744476914405823,
+            "D-CLIP (↑)": 0.1716657429933548
+        },
+        {
+            "Image_ID": "R_007",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5132212042808533,
+            "D-CLIP (↑)": 0.20822328329086304
+        },
+        {
+            "Image_ID": "R_008",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.633190929889679,
+            "D-CLIP (↑)": 0.213850736618042
+        },
+        {
+            "Image_ID": "R_009",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.31952133774757385,
+            "D-CLIP (↑)": 0.0008914470672607422
+        },
+        {
+            "Image_ID": "R_010",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.41002601385116577,
+            "D-CLIP (↑)": 0.10988219082355499
+        },
+        {
+            "Image_ID": "R_011",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6109334230422974,
+            "D-CLIP (↑)": 0.3711128532886505
+        },
+        {
+            "Image_ID": "R_012",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.44513067603111267,
+            "D-CLIP (↑)": 0.23587167263031006
+        },
+        {
+            "Image_ID": "R_013",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.45077747106552124,
+            "D-CLIP (↑)": 0.27592557668685913
+        },
+        {
+            "Image_ID": "R_014",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5040265917778015,
+            "D-CLIP (↑)": 0.21376945078372955
+        },
+        {
+            "Image_ID": "R_015",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.44915586709976196,
+            "D-CLIP (↑)": 0.20513533055782318
+        },
+        {
+            "Image_ID": "R_016",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5401726961135864,
+            "D-CLIP (↑)": 0.27443933486938477
+        },
+        {
+            "Image_ID": "R_017",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.1956428587436676,
+            "D-CLIP (↑)": 0.1707579642534256
+        },
+        {
+            "Image_ID": "R_018",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.4015774726867676,
+            "D-CLIP (↑)": 0.0685255229473114
+        },
+        {
+            "Image_ID": "R_019",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.4493531584739685,
+            "D-CLIP (↑)": 0.1828927993774414
+        },
+        {
+            "Image_ID": "R_020",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5464019179344177,
+            "D-CLIP (↑)": 0.21834036707878113
+        },
+        {
+            "Image_ID": "R_021",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5399101972579956,
+            "D-CLIP (↑)": 0.13506656885147095
+        },
+        {
+            "Image_ID": "R_022",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.3888123333454132,
+            "D-CLIP (↑)": 0.11447501927614212
+        },
+        {
+            "Image_ID": "R_023",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5115103721618652,
+            "D-CLIP (↑)": 0.3128081262111664
+        },
+        {
+            "Image_ID": "R_024",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.39276301860809326,
+            "D-CLIP (↑)": 0.2668449580669403
+        },
+        {
+            "Image_ID": "R_025",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5960600972175598,
+            "D-CLIP (↑)": 0.36544138193130493
+        },
+        {
+            "Image_ID": "R_026",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.40475064516067505,
+            "D-CLIP (↑)": 0.09961533546447754
+        },
+        {
+            "Image_ID": "R_027",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.45968878269195557,
+            "D-CLIP (↑)": 0.2863677740097046
+        },
+        {
+            "Image_ID": "R_028",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.4070799648761749,
+            "D-CLIP (↑)": 0.020550737157464027
+        },
+        {
+            "Image_ID": "R_029",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5430855751037598,
+            "D-CLIP (↑)": 0.18544787168502808
+        },
+        {
+            "Image_ID": "R_030",
+            "Method": "p2pz",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5994848608970642,
+            "D-CLIP (↑)": 0.33895906805992126
+        }
+    ]
+}

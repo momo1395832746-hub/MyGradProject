@@ -1,0 +1,229 @@
+{
+    "model_name": "qedit_max",
+    "model_name_display": "QEdit-max",
+    "dataset_name": "mini 测试集 (推荐调试用)",
+    "macro_metrics": [
+        {
+            "Level": "COMPLEX",
+            "LPIPS (↓)": 0.3895,
+            "D-CLIP (↑)": 0.2066,
+            "Count": 9
+        },
+        {
+            "Level": "SIMPLE",
+            "LPIPS (↓)": 0.3787,
+            "D-CLIP (↑)": 0.2048,
+            "Count": 8
+        }
+    ],
+    "micro_metrics": [
+        {
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.1104,
+            "D-CLIP (↑)": 0.1909,
+            "Count": 2
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.3223,
+            "D-CLIP (↑)": 0.1482,
+            "Count": 2
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.3017,
+            "D-CLIP (↑)": 0.2859,
+            "Count": 2
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.4378,
+            "D-CLIP (↑)": 0.1961,
+            "Count": 1
+        },
+        {
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7992,
+            "D-CLIP (↑)": 0.2066,
+            "Count": 2
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.1507,
+            "D-CLIP (↑)": 0.2589,
+            "Count": 1
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.2345,
+            "D-CLIP (↑)": 0.1278,
+            "Count": 2
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.2738,
+            "D-CLIP (↑)": 0.2021,
+            "Count": 2
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.5125,
+            "D-CLIP (↑)": 0.2408,
+            "Count": 2
+        },
+        {
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.8373,
+            "D-CLIP (↑)": 0.2379,
+            "Count": 1
+        }
+    ],
+    "raw_records": [
+        {
+            "Image_ID": "O_001",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.47328466176986694,
+            "D-CLIP (↑)": 0.3958468437194824
+        },
+        {
+            "Image_ID": "O_002",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.13019044697284698,
+            "D-CLIP (↑)": 0.17602550983428955
+        },
+        {
+            "Image_ID": "A_001",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.110936239361763,
+            "D-CLIP (↑)": 0.09860104322433472
+        },
+        {
+            "Image_ID": "A_002",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.10977111756801605,
+            "D-CLIP (↑)": 0.28318220376968384
+        },
+        {
+            "Image_ID": "N_001",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.4389718770980835,
+            "D-CLIP (↑)": 0.16283249855041504
+        },
+        {
+            "Image_ID": "N_002",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.20568189024925232,
+            "D-CLIP (↑)": 0.1335323601961136
+        },
+        {
+            "Image_ID": "S_001",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.8733679056167603,
+            "D-CLIP (↑)": 0.2000080943107605
+        },
+        {
+            "Image_ID": "S_002",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.7250843048095703,
+            "D-CLIP (↑)": 0.21324078738689423
+        },
+        {
+            "Image_ID": "R_002",
+            "Method": "qedit_max",
+            "Level": "COMPLEX",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.43779537081718445,
+            "D-CLIP (↑)": 0.19608359038829803
+        },
+        {
+            "Image_ID": "O_001",
+            "Method": "qedit_max",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.5074347257614136,
+            "D-CLIP (↑)": 0.44215187430381775
+        },
+        {
+            "Image_ID": "O_002",
+            "Method": "qedit_max",
+            "Level": "SIMPLE",
+            "Task": "object_replacement",
+            "LPIPS (↓)": 0.040136780589818954,
+            "D-CLIP (↑)": -0.03790579363703728
+        },
+        {
+            "Image_ID": "A_001",
+            "Method": "qedit_max",
+            "Level": "SIMPLE",
+            "Task": "attribute_modification",
+            "LPIPS (↓)": 0.15074923634529114,
+            "D-CLIP (↑)": 0.258924663066864
+        },
+        {
+            "Image_ID": "N_001",
+            "Method": "qedit_max",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.2164379507303238,
+            "D-CLIP (↑)": 0.15824483335018158
+        },
+        {
+            "Image_ID": "N_002",
+            "Method": "qedit_max",
+            "Level": "SIMPLE",
+            "Task": "non_rigid_action",
+            "LPIPS (↓)": 0.25257089734077454,
+            "D-CLIP (↑)": 0.09744101762771606
+        },
+        {
+            "Image_ID": "S_002",
+            "Method": "qedit_max",
+            "Level": "SIMPLE",
+            "Task": "style_transfer",
+            "LPIPS (↓)": 0.8372955322265625,
+            "D-CLIP (↑)": 0.23791132867336273
+        },
+        {
+            "Image_ID": "R_001",
+            "Method": "qedit_max",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.3571021556854248,
+            "D-CLIP (↑)": 0.2084762156009674
+        },
+        {
+            "Image_ID": "R_002",
+            "Method": "qedit_max",
+            "Level": "SIMPLE",
+            "Task": "reasoning",
+            "LPIPS (↓)": 0.6678410768508911,
+            "D-CLIP (↑)": 0.2730870246887207
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "complex_object_replacement_O_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly transformed the baseball bats into realistic baguettes while perfectly preserving the background papers, pens, and even the original text logos on the objects themselves.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_object_replacement_O_002": {
+        "EQ": 4,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model successfully replaced the traffic light with a street lamp, although the new lamp appears as a foreground addition rather than a direct transformation of the existing fixture, while the rest of the scene remains perfectly preserved.",
+        "complexity": "complex",
+        "category": "object_replacement"
+    },
+    "complex_attribute_modification_A_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change from turquoise to red on the tank top while preserving all other image details, including the pizza, background, and subject's skin, without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_attribute_modification_A_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change from red to blue on the rug while preserving all other objects, lighting, and background details without any visible artifacts.",
+        "complexity": "complex",
+        "category": "attribute_modification"
+    },
+    "complex_non_rigid_action_N_001": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the instruction to make the horse stand still, preserving the general background and subject identity, although the saddle pad color changed and the watermark was removed.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_non_rigid_action_N_002": {
+        "EQ": 4,
+        "OPP": 3,
+        "ICP": 5,
+        "Reasoning": "The model successfully executed the sitting action, but inexplicably reversed the girl's orientation from facing away to facing forward, while preserving the background perfectly.",
+        "complexity": "complex",
+        "category": "non_rigid_action"
+    },
+    "complex_style_transfer_S_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the pencil sketch style and preserved the geometry of the horse and rider, but the background watermarks and text overlays present in the original image were removed.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_style_transfer_S_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly executed the charcoal sketch style transfer across the entire image while perfectly preserving the structural geometry and identity of all fixtures and architectural elements without introducing artifacts.",
+        "complexity": "complex",
+        "category": "style_transfer"
+    },
+    "complex_reasoning_R_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly replaced the original luggage with realistic wilderness survival gear (backpack, tent, tools, food) while perfectly preserving the car's interior structure, background scenery, and lighting without any visible artifacts.",
+        "complexity": "complex",
+        "category": "reasoning"
+    },
+    "simple_object_replacement_O_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model flawlessly replaced the chair with a realistic potted plant while preserving the background vegetation, wall, and floor tiles with pixel-perfect accuracy.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_object_replacement_O_002": {
+        "EQ": 1,
+        "OPP": 2,
+        "ICP": 2,
+        "Reasoning": "The model completely failed the instruction as there was no dog in the source image to transform, and it instead generated a slightly altered version of the scene with noticeable geometric distortions to the chair and changes to the background foliage.",
+        "complexity": "simple",
+        "category": "object_replacement"
+    },
+    "simple_attribute_modification_A_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the color change to black while maintaining the dog's exact pose, structure, and the background environment without any visible artifacts.",
+        "complexity": "simple",
+        "category": "attribute_modification"
+    },
+    "simple_non_rigid_action_N_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the dog sit, maintaining realistic anatomy and pose while preserving the dog's identity and the background environment without any visible artifacts.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_non_rigid_action_N_002": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction to make the horse stand still with realistic pose and lighting, preserving the background pixel-perfectly, though the horse's eye appears slightly distorted or reddish in the edited version.",
+        "complexity": "simple",
+        "category": "non_rigid_action"
+    },
+    "simple_style_transfer_S_002": {
+        "EQ": 5,
+        "OPP": 4,
+        "ICP": 4,
+        "Reasoning": "The model perfectly executed the season change with realistic snow and lighting, but slightly altered the horse's tail color (removing brown tips) and modified the background fence details.",
+        "complexity": "simple",
+        "category": "style_transfer"
+    },
+    "simple_reasoning_R_001": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 5,
+        "Reasoning": "The model perfectly executed the instruction by replacing the banana with a realistic red apple while maintaining the original wooden background and lighting without any visible artifacts.",
+        "complexity": "simple",
+        "category": "reasoning"
+    },
+    "simple_reasoning_R_002": {
+        "EQ": 5,
+        "OPP": 5,
+        "ICP": 3,
+        "Reasoning": "The chair was perfectly replaced with a daybed, but the background vegetation was regenerated and the black planter box visible in the original image was removed.",
+        "complexity": "simple",
+        "category": "reasoning"
+    }
+}
